@@ -1,9 +1,7 @@
 Herbew NLP Resources
 ####################
 
-This repository collects resources for NLP in Hebrew, as part of the `NLPH project <https://github.com/NLPH/NLPH>`_, which you can `read more about here <https://github.com/NLPH/NLPH>`_.
-
-Resources are divided to folders by type. If you have a resource you can contribute, to be released under some open license, please submit a pull request, or contact us at `NLPH.Project@gmail.com <mailto:NLPH.Project@gmail.com>`_.
+This repository collects resources for NLP in Hebrew, as part of the `NLPH project <https://github.com/NLPH/NLPH>`_, which you can `read more about here <https://github.com/NLPH/NLPH>`_. Resources are divided to folders by type. If you have a resource you can contribute, to be released under some open license, please submit a pull request, or contact us at `NLPH.Project@gmail.com <mailto:NLPH.Project@gmail.com>`_.
 
 This specific document is meant to be a list of Hebrew NLP resources, both for general use and to be used as reference when discussing what existing tools can be opened, adapted or integrated to help create a good Open Source foundation for NLP in Hebrew, as part of the `NLPH Project <https://github.com/NLPH/NLPH>`_.
 
