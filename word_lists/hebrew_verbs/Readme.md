@@ -22,16 +22,16 @@ verbs (deficiently spelled verbs in their past, masculine, singular, 3rd person 
 in the list are non-vocalized, but do include Shin dots, and a corresponding inflection table
 indicator.
 
- * Variables in the file:
-   * base_form - base-form of verb
-   * pattern_1, pattern_2 - patterns (Binyanim) for the verb, according to this list:
-     * A - Paal
-     * B - Nifal
-     * C - Piel
-     * D - Pual
-     * E - Hitpael
-     * F - Hifil
-     * G - Hufal
+  * Variables in the file:
+    * base_form - base-form of verb
+    * pattern_1, pattern_2 - patterns (Binyanim) for the verb, according to this list:
+      * A - Paal
+      * B - Nifal
+      * C - Piel
+      * D - Pual
+      * E - Hitpael
+      * F - Hifil
+      * G - Hufal
 
 * InflectedVerbsExtended.csv - an automatically generated 250k dataset of inflected and
 fully vocalized verbs along with their corresponding morphological attributes
