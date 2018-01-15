@@ -65,7 +65,7 @@ Dictionaries
 ------------
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
-* [Hebrew Verb Lists] (word_lists/hebrew_verbs/Readme.md) _ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com)
+* `Hebrew verb lists <word_lists/hebrew_verbs/Readme.md>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
 
 Treebanks
 ---------
