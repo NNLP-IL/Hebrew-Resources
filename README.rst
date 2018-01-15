@@ -174,6 +174,8 @@ Tagging Tools
 
 * `opeNER <http://www.opener-project.eu/>`_ [Ruby, HTML, Java, Python] - opeNER has a tagging tool.
 
+* `pybossa <http://pybossa.com/>`_ [Python] {`AGPL-3.0`_} - A framework for crowdsourcing of data analysys and enrichment tasks. `GitHub <https://github.com/Scifabric/pybossa>`_.
+
 
 Other
 -----
