@@ -65,7 +65,7 @@ Dictionaries
 ------------
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
-* `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/word_lists>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
+* `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
 
 Treebanks
 ---------
