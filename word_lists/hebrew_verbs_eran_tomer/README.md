@@ -1,7 +1,7 @@
 # Hebrew Verb Lists From Eran Tomer's Master Thesis
 
 This folder contains Hebrew verb lists created as part of Eran Tomer's (erantom@gmail.com) Master Thesis,
-performed at Ben-Gurion University under the supervision of Prof. Michael Elhadad.
+performed at Ben-Gurion University under the supervision of Prof. Michael Elhadad, and released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 Downloadable PDF:
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf
