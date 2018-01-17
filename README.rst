@@ -116,6 +116,11 @@ Word Embeddings
 * Oded Avraham and Yoav Goldberg. `The Interplay of Semantics and Morphology in Word Embeddings <https://arxiv.org/abs/1704.01938>`_. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017).
 
 
+Other
+-----
+
+* Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev.
+
 Code
 ====
 
