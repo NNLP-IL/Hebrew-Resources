@@ -119,7 +119,7 @@ Word Embeddings
 Other
 -----
 
-* Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev.
+* Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev.
 
 Code
 ====
