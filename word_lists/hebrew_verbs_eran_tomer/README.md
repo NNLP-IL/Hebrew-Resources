@@ -2,8 +2,9 @@
 
 This folder contains Hebrew verb lists created as part of Eran Tomer's (erantom@gmail.com) Master Thesis,
 performed at Ben-Gurion University under the supervision of Prof. Michael Elhadad.
+
 Downloadable PDF:
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf
 
 > We present a comprehensive generation mechanism, 
 > which produces vocalized and morphologically tagged Hebrew verbs given a non-vocalized verb 
