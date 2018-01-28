@@ -39,7 +39,9 @@ Corpora Sources
 
 * `DICTA <http://dicta.org.il/>`_ {?} - Analytical tools for Jewish texts. They also have a `GitHub organization <https://github.com/Dicta-Israel-Center-for-Text-Analysis>`_.
 
-* `Sefaria <https://www.sefaria.org.il/>`_ {Various> - A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
+* `Sefaria <https://www.sefaria.org.il/>`_ {Various} - A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
+
+* `HaArchion <http://www.haarchion.co.il/>`_ {?} - Recording of various Hebrew prose and poetry being read.
 
 
 
