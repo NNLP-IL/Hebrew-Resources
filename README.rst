@@ -43,6 +43,8 @@ Corpora Sources
 
 * `HaArchion <http://www.haarchion.co.il/>`_ {?} - Recording of various Hebrew prose and poetry being read.
 
+* `Project Ben Yehuda public dumps <https://github.com/projectbenyehuda/public_domain_dump>`_ {`Public Domain`_} - A repository containing dumps of thousands of public domain works in Hebrew, from `Project Ben-Yehuda <https://bybe.benyehuda.org/>`_, in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
+
 
 
 Linguistic Resources
@@ -192,6 +194,7 @@ Other
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
 
+.. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 .. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
 .. _GPLv3: http://www.gnu.org/copyleft/gpl.html
