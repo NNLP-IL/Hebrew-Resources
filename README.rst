@@ -82,7 +82,7 @@ Embeddings
 
 * `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
-
+* `hebrew-word2vec pre-trained word vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ {?} - Trained on data from Twitter. Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains vectors for over 1.4M words (as of January 2018). Comes in a zip with two files: a text file with a word list and a NumPy array file (npy file).
 
 Papers
 ======
@@ -193,6 +193,7 @@ Other
 
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
+* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {?} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
 
 .. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
