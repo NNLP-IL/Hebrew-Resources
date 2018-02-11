@@ -1,4 +1,4 @@
-Herbew NLP Resources
+Hebrew NLP Resources
 ####################
 
 This repository collects resources for NLP in Hebrew, as part of the `NLPH project <https://github.com/NLPH/NLPH>`_, which you can `read more about here <https://github.com/NLPH/NLPH>`_. Resources are divided to folders by type. If you have a resource you can contribute, to be released under some open license, please submit a pull request, or contact us at `NLPH.Project@gmail.com <mailto:NLPH.Project@gmail.com>`_.
@@ -23,11 +23,11 @@ Structured Corpora
 
 * `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
 
-* `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ {`CC-BY-SA 3.0`_} - Wikipedia the free encyclopedia, publish its content as XML dumps monthly.
+* `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ {`CC-BY-SA 3.0`_} - Wikipedia, the free encyclopedia, publishes dumps of its content as XML files on a monthly basis.
 
-* `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived  from  `query <https://quarry.wmflabs.org/query/21957>`_. 
+* `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
-* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Univerval Dependencies Treebank
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
 
 * `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
 
@@ -60,7 +60,7 @@ Lexicons
 
 * `The MILA lexicon of Hebrew words <http://www.mila.cs.technion.ac.il/resources_lexicons_mila.html>`_ {`GPLv3`_} - The lexicon was designed mainly for usage by morphological analyzers, but is being constantly extended to facilitate other applications as well. The lexicon contains about 25,000 lexicon items and is extended regularly. Free for non-commercial use.
 
-* `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ {`GPLv3`_} -  Hebrew WordNet uses the MultiWordnet methodology and is aligned with the one developed at IRST (and, therefore, aligned with English, Italian and Spanish). Free for non-commercial use.
+* `Hebrew WordNet <http://www.mila.cs.technion.ac.il/resources_lexicons_wordnet.html>`_ {`GPLv3`_} -  Hebrew WordNet uses the MultiWordNet methodology and is aligned with the one developed at IRST (and therefore is aligned with English, Italian and Spanish). Free for non-commercial use.
 
 * `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ {`GPLv3`_} - Free for non-commercial use.
 
@@ -80,7 +80,7 @@ Treebanks
 Embeddings
 ----------
 
-* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contain a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
+* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contains a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
 
 
@@ -91,7 +91,7 @@ Papers
 Corpora, Lexicon and Dictionary Generation
 ------------------------------------------
 
-* `Hebrew Dependency Parsing: Initial Results <https://www.cs.bgu.ac.il/~yoavg/publications/iwpt2009depbaseline.pdf>`_, IWPT-2009 (Short Paper), Yoav Goldberg and Michael Elhadad
+* `Hebrew Dependency Parsing: Initial Results <https://www.cs.bgu.ac.il/~yoavg/publications/iwpt2009depbaseline.pdf>`_, IWPT-2009 (Short Paper), Yoav Goldberg and Michael Elhadad.
 
 * Alon Itai and Shuly Wintner. `"Language Resources for Hebrew." <http://cs.haifa.ac.il/~shuly/publications/lre4h.pdf>`_ Language Resources and Evaluation 42(1):75-98, March 2008.
 
@@ -107,9 +107,9 @@ Morphological Analysis & Disambiguation
 
 * Shlomo Yona and Shuly Wintner. `"A Finite-State Morphological Grammar of Hebrew." <http://cs.haifa.ac.il/~shuly/publications/morphgram.pdf>`_ Natural Language Engineering 14(2):173-190, April 2008. Language Resources and Evaluation 42(1):75-98, March 2008.
 
-* Meni Adler. `Hebrew Morphological Disambiguation: An Unsupervised Stochastic Word-based Approach. <https://www.cs.bgu.ac.il/~adlerm/dat/thesis.pdf>`_ Phd Thesis, Ben Gurion University. 2007.
+* Meni Adler. `Hebrew Morphological Disambiguation: An Unsupervised Stochastic Word-based Approach. <https://www.cs.bgu.ac.il/~adlerm/dat/thesis.pdf>`_ Ph.D. Thesis, Ben-Gurion University of the Negev, 2007.
 
-* Roy Bar-Haim, Khalil Sima'an and Yoad Winter. `Part-of-Speech Tagging of Modern Hebrew Text. <http://www.cs.technion.ac.il/~barhaim/MorphTagger/HebrewPOSTaggingNLE.pdf>`_ Natural Language Engineering 14 (2):223-251. Copyright Cambridge University Press. 2008.
+* Roy Bar-Haim, Khalil Sima'an and Yoad Winter. `Part-of-Speech Tagging of Modern Hebrew Text. <http://www.cs.technion.ac.il/~barhaim/MorphTagger/HebrewPOSTaggingNLE.pdf>`_ Natural Language Engineering 14 (2):223-251. Copyright Cambridge University Press, 2008.
 
 * Amir More and Reut Tsarfaty. `Data-Driven Morphological Analysis and Disambiguation for Morphologically Rich Languages and Universal Dependencies <http://aclweb.org/anthology/C16-1033>`_. Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. December 2016.
 
@@ -123,7 +123,7 @@ Word Embeddings
 Other
 -----
 
-* Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev.
+* Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev, 2012.
 
 Code
 ====
@@ -154,7 +154,7 @@ Morphological and Syntactic Analysis
 
 * `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
-* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Herbew, one dependency-based and the other constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
+* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
 
 
 Tagging Tools
@@ -183,9 +183,9 @@ Tagging Tools
 
 * `opeNER <http://www.opener-project.eu/>`_ [Ruby, HTML, Java, Python] - opeNER has a tagging tool.
 
-* `pybossa <http://pybossa.com/>`_ [Python] {`AGPL-3.0`_} - A framework for crowdsourcing of data analysys and enrichment tasks. `GitHub <https://github.com/Scifabric/pybossa>`_.
+* `pybossa <http://pybossa.com/>`_ [Python] {`AGPL-3.0`_} - A framework for crowdsourcing of data analysis and enrichment tasks. `GitHub <https://github.com/Scifabric/pybossa>`_.
 
-* `TextThrasher <https://github.com/Goodly/TextThresher>`_ [JavaScript, Python] - A crowd sourced text annotator. Built with React and Redux (possibly also with pybossa).
+* `TextThrasher <https://github.com/Goodly/TextThresher>`_ [JavaScript, Python] - A crowdsourced text annotator. Built with React and Redux (possibly also with pybossa).
 
 
 Other
