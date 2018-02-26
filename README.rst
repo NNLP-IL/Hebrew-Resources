@@ -31,6 +31,11 @@ Structured Corpora
 
 * `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
 
+* `Hebrew Speech Databases (HSD) <http://www.ee.bgu.ac.il/~hebspdb/Catolog/>`_ {?} - The HSD contains several Hebrew Speech Databases designed for the development and evaluation of Hebrew Speech Recognition Systems. 
+
+* `CoSIH - The Corpus of Spoken Hebrew <http://cosih.com/table-3.html>`_ {?} - The Corpus of Spoken Israeli Hebrew (CoSIH) is a database of recordings of spoken Israeli Hebrew
+
+* `hebrew corpus <http://hebrewcorpus.nmelrc.org/search.php>`_ {?} - HebrewCorpus is a new corpus with 150 million words from NMELRC.
 
 Corpora Sources
 ---------------
