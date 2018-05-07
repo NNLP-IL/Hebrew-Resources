@@ -1,4 +1,4 @@
-# Hebrew Verb Lists From Eran Tomer's Master Thesis
+# Hebrew Verb Lists from Eran Tomer's Master thesis
 
 This folder contains Hebrew verb lists created as part of Eran Tomer's (erantom@gmail.com) Master Thesis,
 performed at Ben-Gurion University under the supervision of Prof. Michael Elhadad, and released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
