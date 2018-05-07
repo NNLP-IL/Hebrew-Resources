@@ -1,4 +1,4 @@
-# Hebrew Verb Lists From Eran Tomer's Master Thesis
+# Verb Inflector from Eran Tomer's Master thesis
 
 This folder contains code created as part of Eran Tomer's (erantom@gmail.com) Master Thesis,
 performed at Ben-Gurion University under the supervision of Prof. Michael Elhadad, and released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
