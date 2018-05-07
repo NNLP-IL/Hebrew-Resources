@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/User/Desktop/thesis.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/VerbInflector/JarFileDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=VerbInflector/src&lt;main{JarMain.java[JarMain" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/VerbInflector/resources/verbCountsFromCorpora.txt"/>
+        <file path="/VerbInflector/resources/Inflected verbs.txt"/>
+        <file path="/VerbInflector/resources/The Verb Index.csv"/>
+        <file path="/VerbInflector/resources/Inflected verbs Extended 3.txt"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/additionalDataExtraction"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/hebrewBasicsImplementation"/>
+        <file path="/VerbInflector/resources/Syllabled Inflected Verbs By BaseForm.txt"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/svmFolder"/>
+        <file path="/VerbInflector/resources/Narrowed Noun List.csv"/>
+        <file path="/VerbInflector/resources/The Verb Index with one class per word.csv"/>
+        <file path="/VerbInflector/resources/&#1496;&#1506;&#1493;&#1497;&#1493;&#1514; &#1489;&#1505;&#1508;&#1512; &#1500;&#1493;&#1495; &#1492;&#1508;&#1506;&#1500;&#1497;&#1501;.doc"/>
+        <file path="/VerbInflector/resources/outClassification"/>
+        <javaElement handleIdentifier="=VerbInflector/src"/>
+        <file path="/VerbInflector/.classpath"/>
+        <file path="/VerbInflector/.project"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/tests"/>
+        <file path="/VerbInflector/resources/Syllabled Inflected Verbs By Huristic.txt"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/internetTools"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/tablesImplementation"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/helpFiles"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/syllableDismantlingImplementation"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/fileReadersAndWriters"/>
+        <file path="/VerbInflector/resources/Inflected verbs Extended.txt"/>
+        <file path="/VerbInflector/resources/Zamareshet songs.txt"/>
+        <file path="/VerbInflector/resources/Table Distance Metric.csv"/>
+        <file path="/VerbInflector/resources/tstSVM.csv"/>
+        <file path="/VerbInflector/resources/out"/>
+        <file path="/VerbInflector/resources/Nifal Verbs.csv"/>
+        <file path="/VerbInflector/resources/Inflected verbs Extended 2.txt"/>
+        <javaElement handleIdentifier="=VerbInflector/src\/experiments"/>
+    </selectedElements>
+</jardesc>

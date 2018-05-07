@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="tablesImplementation/|additionalDataExtraction/|syllableDismantlingImplementation/|fileReadersAndWriters/|hebrewBasicsImplementation/|svmFolder/|experiments/|tests/|internetTools/|readMeFile/|helpFiles/" kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="src/helpFiles"/>
+	<classpathentry kind="src" path="src/additionalDataExtraction"/>
+	<classpathentry kind="src" path="src/experiments"/>
+	<classpathentry kind="src" path="src/fileReadersAndWriters"/>
+	<classpathentry kind="src" path="src/hebrewBasicsImplementation"/>
+	<classpathentry kind="src" path="src/internetTools"/>
+	<classpathentry kind="src" path="src/svmFolder"/>
+	<classpathentry kind="src" path="src/syllableDismantlingImplementation"/>
+	<classpathentry kind="src" path="src/tablesImplementation"/>
+	<classpathentry kind="src" path="src/tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
