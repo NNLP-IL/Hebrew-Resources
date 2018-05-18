@@ -37,6 +37,9 @@ Structured Corpora
 
 * `hebrew corpus <http://hebrewcorpus.nmelrc.org/search.php>`_ {?} - HebrewCorpus is a new corpus with 150 million words from NMELRC.
 
+* `The Haifa Corpus of Spoken Hebrew <http://weblx2.haifa.ac.il/~corpus/corpus_website/>`_ {X} - A corpus of recorded spoken Hebrew and transcripts. Protected under rights reserved to Prof. Yael Maschler.
+
+
 Corpora Sources
 ---------------
 
