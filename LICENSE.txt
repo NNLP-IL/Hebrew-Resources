@@ -1,0 +1,2 @@
+NOTICE: Files and folders in this repository are released under different individual licenses. 
+Please use the readme and license files in specific directories to understand which license pertains to which files.
