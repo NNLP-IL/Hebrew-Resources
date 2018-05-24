@@ -73,11 +73,12 @@ Lexicons
 * `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ {`GPLv3`_} - Free for non-commercial use.
 
 
-Dictionaries
-------------
+Dictionaries & Word Lists
+-------------------------
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
-* `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
+* `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
+* `Hebrew name lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/dday>`_ {`CC-BY 4.0`_} - Lists of street, company, given and last names. Created by Guy Laybovitz.
 
 Treebanks
 ---------
