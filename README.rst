@@ -128,6 +128,12 @@ Word Embeddings
 * Oded Avraham and Yoav Goldberg. `The Interplay of Semantics and Morphology in Word Embeddings <https://arxiv.org/abs/1704.01938>`_. Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2017).
 
 
+Methodology
+-----------
+
+* `Named Entities Tagging Guidelines for Hebrew <https://github.com/NLPH/NLPH_Resources/blob/master/methodology/hebrew_named_entity_tagging_guidelines.doc?raw=true>`_. Written during M.Sc. research by Naama Ben-Mordecai advised by Dr. Michael Elhadad at the Department of Computer Science, Ben-Gurion University.
+
+
 Other
 -----
 
