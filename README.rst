@@ -216,11 +216,14 @@ Other
 
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
+* `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
+
 .. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 .. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
 .. _GPLv3: http://www.gnu.org/copyleft/gpl.html
 .. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+.. _CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
 .. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
 .. _MIT: https://en.wikipedia.org/wiki/MIT_License
 .. _CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
