@@ -218,6 +218,8 @@ Other
 
 * `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A Python package for browsing and processing ancient corpora, focused on the Hebrew Bible Database.
 
+* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+
 .. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 .. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
