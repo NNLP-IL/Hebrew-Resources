@@ -1,4 +1,4 @@
-# Hebrew Verb Lists from Eran Tomer's Master thesis
+# Hebrew word lists by Guy Laybovitz
 
 This folder contains Hebrew word lists created and released by Guy Laybovitz under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
