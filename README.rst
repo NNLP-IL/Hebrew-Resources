@@ -41,6 +41,8 @@ Structured Corpora
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
+* `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
+
 
 Corpora Sources
 ---------------
@@ -172,6 +174,10 @@ Morphological and Syntactic Analysis
 * `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
 * `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
+
+  * `Yoav Goldberg's Hebrew Dependency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebdepparser/>`_ [Python, Java] {`GPLv3`_} 
+
+  * `Yoav Goldberg's Hebrew Constituency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebconstparser/>`_ [Python, Java] {`GPLv3`_} 
 
 
 Tagging Tools
