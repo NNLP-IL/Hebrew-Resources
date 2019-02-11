@@ -161,6 +161,16 @@ Tokenization
 Morphological and Syntactic Analysis
 ------------------------------------
 
+* `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <onlp.openu.org.il>`_
+
+* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
+
+* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
+
+  * `Yoav Goldberg's Hebrew Dependency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebdepparser/>`_ [Python, Java] {`GPLv3`_} 
+
+  * `Yoav Goldberg's Hebrew Constituency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebconstparser/>`_ [Python, Java] {`GPLv3`_} 
+
 * `The MILA Morphological Analysis Tool <http://www.mila.cs.technion.ac.il/tools_analysis.html>`_ [?] {`GPLv3`_} - Takes as input undotted Hebrew text (formatted either as plain text or as tokenized XML following MILA's standards). The Analyzer then returns, for each token, all the possible morphological analyses of the token, reflecting part of speech, transliteration, gender, number, definiteness, and possessive suffix. Free for non-commercial use. 
 
 * `The MILA Morphological Disambiguation Tool <http://www.mila.cs.technion.ac.il/tools_disambiguation.html>`_ [?] {`GPLv3`_} - Takes as input morphologically-analyzed text and uses a Hidden Markov Model (HMM) to assign scores for each analysis, considering contextual information from the rest of the sentence. For a given token, all analyses deemed impossible are given scores of 0; all n analyses deemed possible are given positive scores. Free for non-commercial use.
@@ -170,14 +180,6 @@ Morphological and Syntactic Analysis
   * `HspellPy <https://github.com/eranroz/HspellPy/>`_ [Python] {`AGPL-3.0`_} - Python wrapper for hspell.
 
 * `BGU Tagger: Morphological Tagging of Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlp12/hebrew/TagHebrew.html>`_ [Java] {?} - Morphological Analysis, Disambiguation.
-
-* `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
-
-* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
-
-  * `Yoav Goldberg's Hebrew Dependency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebdepparser/>`_ [Python, Java] {`GPLv3`_} 
-
-  * `Yoav Goldberg's Hebrew Constituency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebconstparser/>`_ [Python, Java] {`GPLv3`_} 
 
 
 Tagging Tools
