@@ -27,8 +27,6 @@ Structured Corpora
 
 * `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
-* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
-
 * `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
 
 * `Hebrew Speech Databases (HSD) <http://www.ee.bgu.ac.il/~hebspdb/Catolog/>`_ {?} - The HSD contains several Hebrew Speech Databases designed for the development and evaluation of Hebrew Speech Recognition Systems. 
@@ -40,8 +38,6 @@ Structured Corpora
 * `The Haifa Corpus of Spoken Hebrew <http://weblx2.haifa.ac.il/~corpus/corpus_website/>`_ {X} - A corpus of recorded spoken Hebrew and transcripts. Protected under rights reserved to Prof. Yael Maschler.
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
-
-* `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
 
 
 Corpora Sources
@@ -56,7 +52,6 @@ Corpora Sources
 * `HaArchion <http://www.haarchion.co.il/>`_ {?} - Recording of various Hebrew prose and poetry being read.
 
 * `Project Ben Yehuda public dumps <https://github.com/projectbenyehuda/public_domain_dump>`_ {`Public Domain`_} - A repository containing dumps of thousands of public domain works in Hebrew, from `Project Ben-Yehuda <https://bybe.benyehuda.org/>`_, in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
-
 
 
 Linguistic Resources
@@ -89,6 +84,9 @@ Treebanks
 
 * `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ {`GPLv3`_} - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
 
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
+
+* `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
 
 Embeddings
 ----------
