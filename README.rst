@@ -159,7 +159,7 @@ Tokenization
 Morphological and Syntactic Analysis
 ------------------------------------
 
-* `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <onlp.openu.org.il>`_
+* `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <http://onlp.openu.org.il>`_
 
 * `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
