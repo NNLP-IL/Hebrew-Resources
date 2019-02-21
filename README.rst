@@ -95,6 +95,8 @@ Embeddings
 
 * `hebrew-word2vec pre-trained word vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ {?} - Trained on data from Twitter. Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains vectors for over 1.4M words (as of January 2018). Comes in a zip with two files: a text file with a word list and a NumPy array file (npy file).
 
+* `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
+
 Papers
 ======
 
