@@ -205,7 +205,7 @@ Academia
   
   * `Graduate Students & Researchers <http://u.cs.biu.ac.il/~nlp/people/graduate-students-researchers/>`_
 
-* `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`
+* `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`_
 
   * `Prof. Michael Elhadad <https://www.cs.bgu.ac.il/~elhadad/>`_
   
