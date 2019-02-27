@@ -193,15 +193,15 @@ Academia
 
 * The Open University of Israel:
 
- * `The ONLP Lab <https://www.openu.ac.il/en/onlp/pages/default.aspx>`_ [`Twitter <https://twitter.com/OnlpLab/>`_]:
+  * `The ONLP Lab <https://www.openu.ac.il/en/onlp/pages/default.aspx>`_ [`Twitter <https://twitter.com/OnlpLab/>`_]:
 
-   * `Dr. Reut Tsarfaty <https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx>`_ - Head of the ONLP Lab.
+    * `Dr. Reut Tsarfaty <https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx>`_ - Head of the ONLP Lab.
 
-   * Dan Bareket - Research assistant.
+    * Dan Bareket - Research assistant.
 
- * `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
+  * `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
 
-   * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
+    * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
   
   * `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
 
