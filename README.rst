@@ -191,41 +191,62 @@ This list is meant to cover both researchers in the field of natural language pr
 Academia
 --------
 
-* `The ONLP Lab <https://www.openu.ac.il/en/onlp/pages/default.aspx>`_ [`Twitter <https://twitter.com/OnlpLab/>`_]:
+* The Open University of Israel:
 
-  * `Dr. Reut Tsarfati <https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx>`_ - Head of the ONLP Lab. [`Personal website <http://www.tsarfaty.com>`_]
+ * `The ONLP Lab <https://www.openu.ac.il/en/onlp/pages/default.aspx>`_ [`Twitter <https://twitter.com/OnlpLab/>`_]:
+
+   * `Dr. Reut Tsarfaty <https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx>`_ - Head of the ONLP Lab.
+
+   * Dan Bareket - Research assistant.
+
+ * `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
+
+   * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
   
-  * Dan Bareket - Research assistant.
+  * `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
 
-* `The Natural Language Processing Lab at Bar Ilan University <http://u.cs.biu.ac.il/~nlp/>`_:
+* `The Natural Language Processing Lab at Bar Ilan University <http://u.cs.biu.ac.il/~nlp/>`_ [`Twitter <https://twitter.com/biunlp/>`_]:
 
   * `Prof. Ido Dagan <http://u.cs.biu.ac.il/~dagan/>`_
   
   * `Prof. Yoav Goldberg <http://u.cs.biu.ac.il/~yogo/>`_
   
   * `Graduate Students & Researchers <http://u.cs.biu.ac.il/~nlp/people/graduate-students-researchers/>`_
-
-* `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`_
-
-  * `Prof. Michael Elhadad <https://www.cs.bgu.ac.il/~elhadad/>`_
   
-  * `Dr. Yael Netzer <https://www.cs.bgu.ac.il/~yaeln/>`_
+* Ben-Gurion University:
+
+  * `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`_
+
+    * `Prof. Michael Elhadad <https://www.cs.bgu.ac.il/~elhadad/>`_
   
-  * `Dr. Meni Adler <https://www.cs.bgu.ac.il/~adlerm/>`_
-
-* `Dr. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
-
-* `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). I am interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
-
-* `The Neurolinguistics Laboratory at the Edmond and Lily Safra Center for Brain Sciences (ELSC) <https://www.grodzinskylab.com/>`_:
-
-  * `Prof. Yosef Grodzinsky <https://en.cognitive.huji.ac.il/people/yosef-grodzinsky?ref_tid=3172>`_ - Research fields: functional anatomy of language, linguistic theory (syntax, semantics), language acquisition, aphasia, individual variation.
-
-* `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
-
-  * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
+    * `Dr. Yael Netzer <https://www.cs.bgu.ac.il/~yaeln/>`_
   
-* `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
+    * `Dr. Meni Adler <https://www.cs.bgu.ac.il/~adlerm/>`_
+
+  * `Dr. Oren Tzur <http://www.ise.bgu.ac.il/engineering/PersonalWebSite1main.aspx?id=Vrisdisd>`_
+
+* University of Haifa:
+
+  * `Prof. Shuly Wintner <http://cs.haifa.ac.il/~shuly/Shuly_Wintner/Home.html>`_
+
+* Tel Aviv University:
+
+  * `Dr. Jonathan Berant <http://www.cs.tau.ac.il/~joberant/>`_
+
+* The Technion:
+
+  * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_
+
+  * `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). I am interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
+  
+  
+* The Hebrew University of Jerusalem:
+
+  * `Dr. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
+
+  * `The Neurolinguistics Laboratory at the Edmond and Lily Safra Center for Brain Sciences (ELSC) <https://www.grodzinskylab.com/>`_:
+
+    * `Prof. Yosef Grodzinsky <https://en.cognitive.huji.ac.il/people/yosef-grodzinsky?ref_tid=3172>`_ - Research fields: functional anatomy of language, linguistic theory (syntax, semantics), language acquisition, aphasia, individual variation.
  
 
 Industry
