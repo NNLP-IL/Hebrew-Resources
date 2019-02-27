@@ -264,6 +264,8 @@ Corpora, Lexicon and Dictionary Generation
 
 * `Hebrew Dependency Parsing: Initial Results <https://www.cs.bgu.ac.il/~yoavg/publications/iwpt2009depbaseline.pdf>`_, IWPT-2009 (Short Paper), Yoav Goldberg and Michael Elhadad.
 
+* Itai, A., S. Wintner, and S. Yona: 2006, `‘A Computational Lexicon of Contemporary Hebrew’ <http://www.cs.technion.ac.il/~itai/publications/NLP/lexicon-final.pdf?fbclid=IwAR1bBcwEA7A__fWG1a1fwDdcqKZj375YcMdCrhYrdBkUw_SZTrB8flHnf9M>`_. In: Proceedings of The fifth international conference on Language Resources and Evaluation (LREC-2006). Genoa, Italy.
+
 * Alon Itai and Shuly Wintner. `"Language Resources for Hebrew." <http://cs.haifa.ac.il/~shuly/publications/lre4h.pdf>`_ Language Resources and Evaluation 42(1):75-98, March 2008.
 
 * Noam Ordan and Shuly Wintner. `"Hebrew WordNet: A Test Case of Aligning Lexical Databases Across Languages." <http://cs.haifa.ac.il/~shuly/publications/wordnet.pdf>`_ International Journal of Translation 19(1):39-58, 2007.
