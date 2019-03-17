@@ -112,6 +112,8 @@ Also see here:  https://github.com/iddoberger/awesome-hebrew-nlp
 Tokenization
 ------------
 
+* `Yoav Goldberg's Hebrew Tokenizer <https://www.cs.bgu.ac.il/~yoavg/software/hebtokenizer/>`_
+
 * Jonathan Laserson's sentence separator [Python] {?}- Not a tokenizer per-se, but an important part in the tokenization of documents. Jonathan is kindly checking the possibility of open sourcing this tool.
 
 * `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
