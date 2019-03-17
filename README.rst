@@ -97,7 +97,10 @@ Embeddings
 
 * `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
-* `Hebrew SimLex-999 <https://drive.google.com/drive/folders/0B_pyA_IW4g-jTlJzOHlSWVZWbTQ>`_ - A Hebrew version of the `Simlex-999 <https://fh295.github.io/simlex.html>`_ resource for the evaluation of models that learn the meaning of words and concepts. A copy can also be found in the `Attract-Repel repository <https://github.com/nmrksic/attract-repel>`_.
+Other
+-----
+
+* `Hebrew SimLex-999 <https://drive.google.com/drive/folders/0B_pyA_IW4g-jTlJzOHlSWVZWbTQ>`_ - A Hebrew version of the `Simlex-999 <https://fh295.github.io/simlex.html>`_ resource for the evaluation of models that learn the meaning of words and concepts. A copy can also be found in the `Attract-Repel repository <https://github.com/nmrksic/attract-repel>`_. Another copy is found in `this repository <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/other/hebrew_simlex-999>`_.
 
 
 Code
