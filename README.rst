@@ -97,6 +97,8 @@ Embeddings
 
 * `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
+* `Hebrew SimLex-999 <https://drive.google.com/drive/folders/0B_pyA_IW4g-jTlJzOHlSWVZWbTQ>`_ - A Hebrew version of the `Simlex-999 <https://fh295.github.io/simlex.html>`_ resource for the evaluation of models that learn the meaning of words and concepts. A copy can also be found in the `Attract-Repel repository <https://github.com/nmrksic/attract-repel>`_.
+
 
 Code
 ====
@@ -237,12 +239,16 @@ Academia
 
   * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_
 
-  * `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). I am interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
+  * `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). Interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
   
   
 * The Hebrew University of Jerusalem:
 
+  * `Prof. Ari Rappoport <http://www.cs.huji.ac.il/~arir/>`_ - With his main contribution in the area of Neuroscience, where he developed a comprehensive theory of the brain, Prof. Rappoport's Computer Science area of interest is language (Computational Linguistics, Natural Language Processing (NLP)), from cognitive science and machine learning perspectives.
+
   * `Dr. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
+  
+  * `Dr. Dafna Shahaf <http://www.cs.huji.ac.il/~dshahaf/>`_ - Dr. Shahaf's research focuses on helping people make sense of the world. She designs algorithms that help people understand the underlying structure of complex topics, and connect the dots between different pieces. She also likes to formalize intuitive notions; see recent work on Computational Humor.
 
   * `The Neurolinguistics Laboratory at the Edmond and Lily Safra Center for Brain Sciences (ELSC) <https://www.grodzinskylab.com/>`_:
 
