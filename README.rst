@@ -263,6 +263,14 @@ Industry
 
 Researching natural language processing in the industry? Open a pull request and add yourself here now!
 
+* Allen Institute for AI - Israel
+
+  * Prof. Yoav Goldberg
+  
+  * Dr. Jonathan Berant
+
+
+
 
 Papers
 ======
