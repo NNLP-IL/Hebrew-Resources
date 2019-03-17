@@ -187,6 +187,8 @@ Other
 
 * `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
 
+* `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
+
 
 Labs & Researchers
 ==================
@@ -210,13 +212,19 @@ Academia
   
   * `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
 
-* `The Natural Language Processing Lab at Bar Ilan University <http://u.cs.biu.ac.il/~nlp/>`_ [`Twitter <https://twitter.com/biunlp/>`_]:
+* Bar Ilan University:
 
-  * `Prof. Ido Dagan <http://u.cs.biu.ac.il/~dagan/>`_
+  * `The Natural Language Processing Lab at Bar Ilan University <http://u.cs.biu.ac.il/~nlp/>`_ [`Twitter <https://twitter.com/biunlp/>`_]:
+
+    * `Prof. Ido Dagan <http://u.cs.biu.ac.il/~dagan/>`_
   
-  * `Prof. Yoav Goldberg <http://u.cs.biu.ac.il/~yogo/>`_
+    * `Prof. Yoav Goldberg <http://u.cs.biu.ac.il/~yogo/>`_
   
-  * `Graduate Students & Researchers <http://u.cs.biu.ac.il/~nlp/people/graduate-students-researchers/>`_
+    * `Graduate Students & Researchers <http://u.cs.biu.ac.il/~nlp/people/graduate-students-researchers/>`_
+
+  * `Prof. Moshe Koppel <https://www1.biu.ac.il/indexE.php?id=8041&pt=30&cPath=7702>`_
+  
+  * `Dr. Avi Shmidman <http://dsi.biu.ac.il/team/dr-avi-shmidman/>`_
   
 * Ben-Gurion University:
 
@@ -240,7 +248,7 @@ Academia
 
 * The Technion:
 
-  * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_
+  * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_ (retired)
 
   * `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). Interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
   
