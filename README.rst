@@ -191,6 +191,8 @@ Other
 
 * `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
 
+* `The Automatic Hebrew Transriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
+
 
 Labs & Researchers
 ==================
