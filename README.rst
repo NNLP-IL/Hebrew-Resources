@@ -272,10 +272,8 @@ Academia
     * `Prof. Yosef Grodzinsky <https://en.cognitive.huji.ac.il/people/yosef-grodzinsky?ref_tid=3172>`_ - Research fields: functional anatomy of language, linguistic theory (syntax, semantics), language acquisition, aphasia, individual variation.
  
 
-Industry
---------
-
-Researching natural language processing in the industry? Open a pull request and add yourself here now!
+Non-Profit
+----------
 
 * Allen Institute for AI - Israel
 
@@ -284,6 +282,10 @@ Researching natural language processing in the industry? Open a pull request and
   * Dr. Jonathan Berant
 
 
+Industry
+--------
+
+Researching natural language processing in the industry? Open a pull request and add yourself here now!
 
 
 Papers
