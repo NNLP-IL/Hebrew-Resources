@@ -240,11 +240,13 @@ Academia
   
     * `Dr. Meni Adler <https://www.cs.bgu.ac.il/~adlerm/>`_
 
-  * `Dr. Oren Tzur <http://www.ise.bgu.ac.il/engineering/PersonalWebSite1main.aspx?id=Vrisdisd>`_
+  * `Dr. Oren Tzur <http://www.ise.bgu.ac.il/OrenTsur/>`_
 
 * University of Haifa:
 
   * `Prof. Shuly Wintner <http://cs.haifa.ac.il/~shuly/Shuly_Wintner/Home.html>`_
+  
+  * `Dr. Einat Minkov <https://sites.google.com/hevra.haifa.ac.il/einatm/>`_ - My main interests are in Information Extraction and Semantics, as well as in other Natural Language Processing applications. I am also interested in Machine Learning - and the application of learning to NLP problems. 
 
 * Tel Aviv University:
 
