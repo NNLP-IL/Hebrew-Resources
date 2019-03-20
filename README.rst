@@ -174,6 +174,16 @@ Tagging Tools
 * `TextThrasher <https://github.com/Goodly/TextThresher>`_ [JavaScript, Python] - A crowdsourced text annotator. Built with React and Redux (possibly also with pybossa).
 
 
+Models
+------
+
+* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+
+* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {`Apache License 2.0`_} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
+
+* `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
+
+
 Other
 -----
 
@@ -181,13 +191,11 @@ Other
 
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
-* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {`Apache License 2.0`_} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
+
 
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
 * `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A Python package for browsing and processing ancient corpora, focused on the Hebrew Bible Database.
-
-* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
 
 * `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
 
