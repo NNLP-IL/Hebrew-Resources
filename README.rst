@@ -55,6 +55,8 @@ Corpora Sources
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
+* `"Ha'Olam Ha'Ze" Newspaper Archive <http://magazine.thisworld.online/>`_ {?} - An online archive of issues of "Ha'Olam Ha'Ze" ("This World") Israeli newspaper.
+
 
 Linguistic Resources
 ====================
