@@ -41,6 +41,8 @@ Structured Corpora
 
 * `The SVLM Hebrew Wikipedia Courpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_ - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
 
+* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus.
+
 
 Corpora Sources
 ---------------
