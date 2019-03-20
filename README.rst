@@ -39,6 +39,8 @@ Structured Corpora
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
+* `The SVLM Hebrew Wikipedia Courpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus`_ - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
+
 
 Corpora Sources
 ---------------
