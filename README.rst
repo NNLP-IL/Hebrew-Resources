@@ -82,8 +82,12 @@ Dictionaries & Word Lists
 -------------------------
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
+
 * `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
+
 * `Hebrew name lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/dday>`_ {`CC-BY 4.0`_} - Lists of street, company, given and last names. Created by Guy Laybovitz.
+
+* `1000 most frequent words in Hebrew tweets during (roughly) 2018 <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/word_lists/top_1000_hebrew_words_twitter_2018.txt>`_.
 
 Treebanks
 ---------
