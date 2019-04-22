@@ -207,7 +207,6 @@ Other
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
 
-
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
 * `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A Python package for browsing and processing ancient corpora, focused on the Hebrew Bible Database.
@@ -215,6 +214,8 @@ Other
 * `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
 
 * `The Automatic Hebrew Transriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
+
+* `Eyfo <https://ey.fo/search>`_ - A commercial engine for search and entity tagging in Hebrew.
 
 
 Labs & Researchers
