@@ -107,6 +107,8 @@ Embeddings
 
 * `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
+* `NLPL word embeddings <http://vectors.nlpl.eu/repository/>`_ - Trained on the Hebrew CoNLL17 corpus using Word2Vec continuous skipgram, with a vecotor dimension of 100 and a window size of 10. The vocabulary includes 672,384 words.
+
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
 
 
@@ -198,6 +200,8 @@ Models
 
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
+* `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
+
 
 Other
 -----
@@ -215,7 +219,15 @@ Other
 
 * `The Automatic Hebrew Transriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
 
+
+Commercial services
+-------------------
+
 * `Eyfo <https://ey.fo/search>`_ - A commercial engine for search and entity tagging in Hebrew.
+
+* `Melingo's ICA (Intelligent Content Analysis)<http://www.melingo.com/text-analysis/ica/>`_ - A text analysis and textual categorized entity extraction API for Hebrew, Arabic and Farsi texts.
+
+* `Genius <https://www.genius.co.il>`_ - Automatic analysis of free text in Hebrew.
 
 
 Labs & Researchers
