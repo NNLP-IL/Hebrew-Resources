@@ -300,6 +300,8 @@ Academia
   
 * The Hebrew University of Jerusalem:
 
+  * `Prof. Ronen Feldman <http://pluto.huji.ac.il/~rfeldman/>`_ - Feldman's main areas of research are natural language processing, entity extraction and text relations, text sentiment analysis, and language processing for algorithmic trading. He is one of the founder of the discipline of text mining.
+
   * `Prof. Ari Rappoport <http://www.cs.huji.ac.il/~arir/>`_ - With his main contribution in the area of Neuroscience, where he developed a comprehensive theory of the brain, Prof. Rappoport's Computer Science area of interest is language (Computational Linguistics, Natural Language Processing (NLP)), from cognitive science and machine learning perspectives.
 
   * `Dr. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
