@@ -379,6 +379,14 @@ Other
 * Eran Tomer. `Automatic Hebrew Text Vocalization <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.7101&rep=rep1&type=pdf>`_. Thesis submitted as part of the requirements for the M.Sc. degree of Ben-Gurion University of the Negev, 2012.
 
 
+Courses, presnetations and meetups
+===================================
+
+* `Bar Ilan University's NLP course <https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh>`_
+
+* `ONLP April 2019 Meetup lecture slides <https://drive.google.com/file/d/1YxZeeFjQJzdJQKabzSelm-ojm1LfM2Sy/view?usp=sharing&fbclid=IwAR3Y9a3BiHNxmxGyL65Vq_KKqCNkmyZnP_0dKTzbk_ZQPzfu6yb5BHbGsyw>`_
+
+
 
 
 .. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
@@ -390,4 +398,3 @@ Other
 .. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
 .. _MIT: https://en.wikipedia.org/wiki/MIT_License
 .. _CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
-
