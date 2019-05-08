@@ -1,6 +1,8 @@
 MILA's Verb Complements Lexicon
 ================================
 
+Originally hosted on `the MILA website <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_, this is a backup.
+
 This lexicon include two files:
 
  * The Verb Complements Lexicon, an Excel XLSX file.
