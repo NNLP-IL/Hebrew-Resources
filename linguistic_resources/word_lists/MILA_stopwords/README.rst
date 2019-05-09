@@ -1,7 +1,7 @@
 MILA Hebrew Stopwords List
 ==========================
 
-An Excel XLSX file contains 23,327 Hebrew tokens in descending order of frequency.
+An Excel XLSX file containing 23,327 Hebrew tokens in descending order of frequency.
 
 License
 -------
