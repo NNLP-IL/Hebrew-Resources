@@ -81,6 +81,8 @@ Lexicons
 Dictionaries & Word Lists
 -------------------------
 
+* `MILA's Hebrew Stopwords List <http://www.mila.cs.technion.ac.il/resources_lexicons_stopwords.html>`_ - An Excel XLSX file containing 23,327 Hebrew tokens in descending order of frequency. `[NLPH backup] <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/MILA_stopwords>`_
+
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
 * `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
