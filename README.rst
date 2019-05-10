@@ -5,7 +5,7 @@ This repository collects resources for NLP in Hebrew, as part of the `NLPH proje
 
 This specific document is meant to be a list of Hebrew NLP resources, both for general use and to be used as reference when discussing what existing tools can be opened, adapted or integrated to help create a good Open Source foundation for NLP in Hebrew, as part of the `NLPH Project <https://github.com/NLPH/NLPH>`_.
 
-When contributing to the list, please add a link to the license for all non-paper resources, e.g. {`AGPL-3.0`_}, {?} for an unkonwn licesnse or {X} for unreleased/closed/copyrighted resources. For code resource, please also add the main language in which the tool is written, e.g. [Python] or [?] for an unknown programming language.
+When contributing to the list, please add a link to the license for all non-paper resources, e.g. {`AGPL-3.0`_}, {?} for an unkonwn licesnse or {X} for unreleased/closed/copyrighted resources. For code resource, please also add the main language in which the tool is written, e.g. [Python] or [?] for an unknown programming language. Please add hosting mirrors with pointy brackets, e.g. `<Zenodo mirror> <https://zenodo.org/record/2707356>`_.
 
 
 .. contents::
@@ -39,7 +39,7 @@ Structured Corpora
 
 * `The SVLM Hebrew Wikipedia Courpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_ {`CC-BY-SA 3.0`_} - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
 
-* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus.
+* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
 
 Corpora Sources
