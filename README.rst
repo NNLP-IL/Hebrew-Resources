@@ -271,6 +271,10 @@ Academia
   
   * `Dr. Avi Shmidman <http://dsi.biu.ac.il/team/dr-avi-shmidman/>`_
   
+  * `The Speech, Language and Deep Learning Lab at Bar Ilan University <http://u.cs.biu.ac.il/~jkeshet/#lab>`_ [`GitHub <https://github.com/MLSpeech>`_]:
+
+    * `Prof. Joseph (Yossi) Keshet <http://u.cs.biu.ac.il/~jkeshet/>`_
+  
 * Ben-Gurion University:
 
   * `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`_
