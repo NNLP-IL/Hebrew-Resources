@@ -28,7 +28,7 @@ Private Companies
 
 * `khealth <https://www.khealth.ai>`_
 
-* Webtech Innovation <http://www.webtech-inv.co.il/>` - Cognitive computing.
+* `Webtech Innovation <http://www.webtech-inv.co.il/>`_ - Cognitive computing.
 
 * `Insights <https://www.insights.us/>`_
 
