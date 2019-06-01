@@ -36,6 +36,8 @@ Private Companies
 
 * `over.ai <https://www.over.ai>`_ - Conversational AI (chatbots, answering machines, etc.).
 
+* `Genius <https://www.genius.co.il/gns-otc?fbclid=IwAR353ILpf7q1V4Th_RRdJytI-w3OUSBRhJ1k-DlT94Lq3t6cNUHmRTX8gyo>`_ - One of their products is a natural language processing engine for Hebrew.
+
 
 Non-Profit Organizations
 ========================
