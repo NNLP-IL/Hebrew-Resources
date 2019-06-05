@@ -91,6 +91,8 @@ Dictionaries & Word Lists
 
 * `1000 most frequent words in Hebrew tweets during (roughly) 2018 <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/word_lists/top_1000_hebrew_words_twitter_2018.txt>`_.
 
+* `KIMA - the Historical Hebrew Gazetteer <http://data.geo-kima.org/>`_ - Place Names in the Hebrew Script. An open, attestation based, historical database. Kima currently holds 27,239 Places, with 94,650 alternate variants of their names and 236,744 attestations of these variants.
+
 Treebanks
 ---------
 
