@@ -109,9 +109,13 @@ Embeddings
 
 * `hebrew-word2vec pre-trained word vectors <https://github.com/Ronshm/hebrew-word2vec>`_ {`Apache License 2.0`_} - Trained on data from Twitter. Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains vectors for over 1.4M words (as of January 2018). Comes in a zip with two files: a text file with a word list and a NumPy array file (npy file).
 
-* `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
-
 * `NLPL word embeddings <http://vectors.nlpl.eu/repository/>`_ - Trained on the Hebrew CoNLL17 corpus using Word2Vec continuous skipgram, with a vecotor dimension of 100 and a window size of 10. The vocabulary includes 672,384 words.
+
+* `Hebrew Word Embeddings by Lior Shkiller <https://github.com/liorshk/wordembedding-hebrew>`_ - Read more in `this blog post <https://www.oreilly.com/learning/capturing-semantic-meanings-using-deep-learning>`_.
+
+* `Hebrew Subword Embeddings <https://nlp.h-its.org/bpemb/he/>`_
+
+* `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
 
