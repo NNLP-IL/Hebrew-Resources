@@ -59,8 +59,7 @@ Corpora Sources
 
 * `"Ha'Olam Ha'Ze" Newspaper Archive <http://magazine.thisworld.online/>`_ {?} - An online archive of issues of "Ha'Olam Ha'Ze" ("This World") Israeli newspaper.
 
-* `The ICT.il Corpus <http://opendefinition.org/licenses/cc-by/`_ {`Creative Commons Attribution`_} - קורפוס השפה העברית - תיוג מורפולוגי
-מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים `קורפוס השפה העברית - תיוג מורפולוגי <https://data.gov.il/dataset/corpus/>`_, .
+* `The ICT.il Corpus <http://opendefinition.org/licenses/cc-by/`_ {`Creative Commons Attribution`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים `קורפוס השפה העברית - תיוג מורפולוגי <https://data.gov.il/dataset/corpus/>`_, .
 
 Linguistic Resources
 ====================
