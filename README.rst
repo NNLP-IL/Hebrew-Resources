@@ -94,6 +94,8 @@ Dictionaries & Word Lists
 
 * `KIMA - the Historical Hebrew Gazetteer <http://data.geo-kima.org/>`_ - Place Names in the Hebrew Script. An open, attestation based, historical database. Kima currently holds 27,239 Places, with 94,650 alternate variants of their names and 236,744 attestations of these variants.
 
+* Wikidata Lexemes - over 500K conjugations with morphological analysis, mainly based on Hspell. Can be queried using http://query.wikidata.org/ {'CC0'} - Uploaded by Uziel302
+
 Treebanks
 ---------
 
