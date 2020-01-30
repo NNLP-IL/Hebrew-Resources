@@ -168,6 +168,10 @@ Morphological and Syntactic Analysis
 
 * `BGU Tagger: Morphological Tagging of Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlp12/hebrew/TagHebrew.html>`_ [Java] {?} - Morphological Analysis, Disambiguation.
 
+* `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`} - A highly accurate morphological segmenter to break up complex word forms
+
+* `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
+
 
 Tagging Tools
 -------------
@@ -374,6 +378,8 @@ Morphological Analysis & Disambiguation
 * Roy Bar-Haim, Khalil Sima'an and Yoad Winter. `Part-of-Speech Tagging of Modern Hebrew Text. <http://www.cs.technion.ac.il/~barhaim/MorphTagger/HebrewPOSTaggingNLE.pdf>`_ Natural Language Engineering 14 (2):223-251. Copyright Cambridge University Press, 2008.
 
 * Amir More and Reut Tsarfaty. `Data-Driven Morphological Analysis and Disambiguation for Morphologically Rich Languages and Universal Dependencies <http://aclweb.org/anthology/C16-1033>`_. Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. December 2016.
+
+* Amir Zeldes. `A Characterwise Windowed Approach to Hebrew Morphological Segmentation <http://aclweb.org/anthology/W18-5811>`_. Proceedings of the 15th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology. Brussels, Belgium, 101-110. October 2018.  
 
 
 Word Embeddings
