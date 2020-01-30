@@ -118,6 +118,8 @@ Embeddings
 
 * `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
+* `Multilingual BERT <https://github.com/google-research/bert/blob/master/multilingual.md?fbclid=IwAR3Tm1UQjzZtz0XcH7NsR5DvWqfxDxuc3DJkxwmWpwZtkYXFC2bc5HRut_0>`_ - BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
+
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
 
 
