@@ -108,7 +108,7 @@ Treebanks
 Embeddings
 ----------
 
-* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.zip>`_, `text <https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.he.vec>`_. In the text format, each line contains a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
+* `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.he.zip>`_, `text <https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.he.vec>`_. In the text format, each line contains a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
 
 * `hebrew-word2vec pre-trained word vectors <https://github.com/Ronshm/hebrew-word2vec>`_ {`Apache License 2.0`_} - Trained on data from Twitter. Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains vectors for over 1.4M words (as of January 2018). Comes in a zip with two files: a text file with a word list and a NumPy array file (npy file).
 
@@ -150,7 +150,7 @@ Tokenization
 Morphological and Syntactic Analysis
 ------------------------------------
 
-* `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <http://onlp.openu.org.il>`_
+* `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
 
 * `yap morpho-syntactic parser <http://github.com/habeanf/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon.
 
