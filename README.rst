@@ -152,7 +152,7 @@ Morphological and Syntactic Analysis
 
 * `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
 
-* `yap morpho-syntactic parser `<https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_]
+* `yap morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_]
 
 * `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
 
