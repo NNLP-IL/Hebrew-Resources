@@ -146,6 +146,7 @@ Tokenization
 
 * `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
 
+* `Yonti Levin's Hebrew Tokenizer <https://github.com/YontiLevin/Hebrew-Tokenizer>`_ [Python] {`MIT License`_}
 
 Morphological and Syntactic Analysis
 ------------------------------------
