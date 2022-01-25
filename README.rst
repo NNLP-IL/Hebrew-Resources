@@ -405,9 +405,21 @@ Other
 Courses, presnetations and meetups
 ===================================
 
+Meetup & Discussion Groups
+--------------------------
+
+* `The NLPH Facebook Group <https://www.facebook.com/groups/157877988136954/>`_
+
+* `The Israeli Natural Language Processing Meetup <https://www.meetup.com/The-Israeli-Natural-Language-Processing-Meetup/>`_
+
+Specific Talks
+--------------
+
 * `Bar Ilan University's NLP course <https://www.youtube.com/playlist?list=PLM96W_EHEqh78zJ0bPqT3Wy8DPHbJU-Zh>`_
 
 * `ONLP April 2019 Meetup lecture slides <https://drive.google.com/file/d/1YxZeeFjQJzdJQKabzSelm-ojm1LfM2Sy/view?usp=sharing&fbclid=IwAR3Y9a3BiHNxmxGyL65Vq_KKqCNkmyZnP_0dKTzbk_ZQPzfu6yb5BHbGsyw>`_
+
+* `Big DataNights NLP 2020 <https://www.youtube.com/watch?v=8YYnkd50LwM&list=PLZYkt7161wEJ8zW_TgD3v0r7GwkXgFFWb>`_
 
 
 
