@@ -43,6 +43,7 @@ Structured Corpora
 
 * `The GOV.il Corpus <https://data.gov.il/dataset/corpus/>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים 
 
+* `ParaShoot <https://github.com/omrikeren/ParaShoot>`_ {?} - A Hebrew question and answering dataset in the style of `SQuAD <https://arxiv.org/abs/1606.05250>`_, created by Omri Keren and Omer Levy. ParaShoot is based on articles scraped from Wikipedia. The dataset contains 3K crowdsource-annotated pairs of questions and answers, in a setting suitable for few-shot learning.
 
 Corpora Sources
 ---------------
