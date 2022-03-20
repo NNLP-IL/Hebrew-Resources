@@ -21,29 +21,52 @@ Corpora
 Structured Corpora
 ------------------
 
+**1.1.1 Unannotated Corpora**
+
+
+**1.1.2 Annotated Corpora**
+
+1.1.2.1 Annotated by Parts of Speech, Morphological Features, and/or Syntactic Dependencies
+
 * `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too.
+
+* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
+
+* `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
+
+* `heTenTen <https://auth.sketchengine.eu/#site-member>`_ {?} - Hebrew corpus made up of texts collected from the Internet. The corpus belongs to the TenTen corpus family. The whole Hebrew Web corpus is comprised of more than 2.7 billion words from 43,000+ web domains. The Hebrew corpus 2021 (heTenTen) is part-of-speech tagged and lemmatized by YAP tool, word sketches in CoNLL format.
+
+* `JEMH <https://github.com/JEMHcorpus/corpora>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} : קורפוס עממ״י - קורפוס עממ"י הוא הקורפוס הטקסטואלי העברי הראשון של ראשית המאה העשרים שהינו חופשי להורדה, למחקר ולהעשרה. הקורפוס מאגד טקסטים ממקורות שונים ומסוּגות שונות. הוא כולל יצירות ספרות, מודעות וכרזות, מכתבים, יומנים אישיים ועוד. הניתוח הלשוני בגרסה הנוכחית של הקורפוס מתבצע באופן אוטומטי באמצעות תוכנת YAP. לכל מסמך מתווסף מטא-דאטה בסיסי, הכולל את התאריך והמקום שבהם הוא נכתב. הקורפוס מונגש לחיפוש באמצעות תוכנת ANNIS, שמאפשרת חיפושים המצליבים את כל פריטי המידע הללו.
+
+1.1.2.2 Annotated by Entites
+
+* `NEMO <https://arxiv.org/abs/2007.15620>`_ {?} - Newspaper articles from the HAARETZ corpus. A parallel corpus for Hebrew NER: one version consists of gold-labeled tokens and the other consists of gold-labeled morphemes, for the same text. The following entity types are tagged: Person, Organization, Geo-Political Entity, Location, Facility, Work-of-Oart, Event, Product, Language.
+
+* `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - A dataset of posts from the www.camoni.co.il, tagged with medical entities from the UMLS, and a code that recognize medical entities in the Hebrew text.
+
+* `Ben-Mordecai and Elhadad's Corpus <https://www.researchgate.net/publication/253033804_Hebrew_Named_Entity_Recognition>`_ {?} - Newspaper articles in different fields: news, economy, fashion and gossip. The following entity types are tagged: entity names (person, location, organization), temporal experssion (date, time) and number experession (percent, money).
+
+1.1.2.3 Question Answering Datasets
+
+* `ParaShoot <https://github.com/omrikeren/ParaShoot>`_ {?} - A Hebrew question and answering dataset in the style of `SQuAD <https://arxiv.org/abs/1606.05250>`_, created by Omri Keren and Omer Levy. ParaShoot is based on articles scraped from Wikipedia. The dataset contains 3K crowdsource-annotated pairs of questions and answers, in a setting suitable for few-shot learning.
+
+1.1.2.4 Recorded Spoken Hebrew
+
+* `CoSIH - The Corpus of Spoken Hebrew <http://cosih.com/table-3.html>`_ {?} - The Corpus of Spoken Israeli Hebrew (CoSIH) is a database of recordings of spoken Israeli Hebrew
+
+* `MaTaCOp <https://www.openu.ac.il/en/academicstudies/matacop/pages/default.aspx>`_ {?} - a corpus of Hebrew dialogues within the Map Task framework (allowed for non-commercial research and teaching purposes only)
+
+
+1.1.2.5 Other
 
 * `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ {`CC-BY-SA 3.0`_} - Wikipedia, the free encyclopedia, publishes dumps of its content as XML files on a monthly basis.
 
 * `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived from  `query <https://quarry.wmflabs.org/query/21957>`_.
 
-* `Hebrew Speech Databases (HSD) <http://www.ee.bgu.ac.il/~hebspdb/Catolog/>`_ {?} - The HSD contains several Hebrew Speech Databases designed for the development and evaluation of Hebrew Speech Recognition Systems. 
-
-* `CoSIH - The Corpus of Spoken Hebrew <http://cosih.com/table-3.html>`_ {?} - The Corpus of Spoken Israeli Hebrew (CoSIH) is a database of recordings of spoken Israeli Hebrew
-
-* `hebrew corpus <http://hebrewcorpus.nmelrc.org/search.php>`_ {?} - HebrewCorpus is a new corpus with 150 million words from NMELRC.
-
-* `The Haifa Corpus of Spoken Hebrew <http://weblx2.haifa.ac.il/~corpus/corpus_website/>`_ {X} - A corpus of recorded spoken Hebrew and transcripts. Protected under rights reserved to Prof. Yael Maschler.
-
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
 * `The SVLM Hebrew Wikipedia Courpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_ {`CC-BY-SA 3.0`_} - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
 
-* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
-
-* `The GOV.il Corpus <https://data.gov.il/dataset/corpus/>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים 
-
-* `ParaShoot <https://github.com/omrikeren/ParaShoot>`_ {?} - A Hebrew question and answering dataset in the style of `SQuAD <https://arxiv.org/abs/1606.05250>`_, created by Omri Keren and Omer Levy. ParaShoot is based on articles scraped from Wikipedia. The dataset contains 3K crowdsource-annotated pairs of questions and answers, in a setting suitable for few-shot learning.
 
 Corpora Sources
 ---------------
