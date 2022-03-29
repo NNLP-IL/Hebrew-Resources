@@ -127,6 +127,8 @@ Embeddings
 
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
 
+* `hebrew-w2v <https://github.com/Iddoyadlin/hebrew-w2v?fbclid=IwAR3QIwzgcziyANpq8-YEPeO1eQzBboDCLeIiSPnenqrFEedCNCgB3QEo44o>`_ {`Apache License 2.0`_} - Iddo Yadlin and Itamar Shefi's word2vec model for Hebrew, trained on a corpus which is the Hebrew wikipedia dump only tokenized with hebpipe.
+
 
 Other
 -----
