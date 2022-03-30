@@ -45,7 +45,7 @@ Structured Corpora
 
 * `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - A dataset of posts from the www.camoni.co.il, tagged with medical entities from the UMLS, and a code that recognize medical entities in the Hebrew text.
 
-* `Ben-Mordecai and Elhadad's Corpus <https://www.researchgate.net/publication/253033804_Hebrew_Named_Entity_Recognition>`_ {?} - Newspaper articles in different fields: news, economy, fashion and gossip. The following entity types are tagged: entity names (person, location, organization), temporal experssion (date, time) and number experession (percent, money).
+* `Ben-Mordecai and Elhadad's Corpus <https://www.cs.bgu.ac.il/~elhadad/nlpproj/naama/>`_ {?} - Newspaper articles in different fields: news, economy, fashion and gossip. The following entity types are tagged: entity names (person, location, organization), temporal experssion (date, time) and number experession (percent, money).
 
 
 1.1.2.3 Question Answering Datasets
