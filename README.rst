@@ -161,6 +161,12 @@ Embeddings
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
 
 
+* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {`Apache License 2.0`_} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
+
+
+* `hebrew-w2v <https://github.com/Iddoyadlin/hebrew-w2v?fbclid=IwAR3QIwzgcziyANpq8-YEPeO1eQzBboDCLeIiSPnenqrFEedCNCgB3QEo44o>`_ {`Apache License 2.0`_} - Iddo Yadlin and Itamar Shefi's word2vec model for Hebrew, trained on a corpus which is the Hebrew wikipedia dump only tokenized with hebpipe.
+
+
 Other
 -----
 
@@ -250,8 +256,6 @@ Models
 ------
 
 * `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
-
-* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {`Apache License 2.0`_} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
 
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
