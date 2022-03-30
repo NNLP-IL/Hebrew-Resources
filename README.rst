@@ -117,6 +117,8 @@ Dictionaries & Word Lists
 
 * `MILA's Hebrew Stopwords List <http://www.mila.cs.technion.ac.il/resources_lexicons_stopwords.html>`_ - An Excel XLSX file containing 23,327 Hebrew tokens in descending order of frequency. `[NLPH backup] <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/MILA_stopwords>`_
 
+* `Tapuz Hebrew Stop Words <https://www.kaggle.com/datasets/danofer/hebrew-stop-words?fbclid=IwAR2DpSsgJuYyPdaJ9K2WUpZY324pjkXOAuWKv4sUhgkZVjY7n6ej6UK7pwQ>`_ - a list of the 500 most common words (stop words) computed from discussions from the Tapuz People website, on a variety of subjects.
+
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
 * `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
