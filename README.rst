@@ -210,6 +210,8 @@ Tagging Tools
 
 * `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
 
+* `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {MIT} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
+
 
 Models
 ------
