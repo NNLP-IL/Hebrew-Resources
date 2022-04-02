@@ -255,8 +255,6 @@ Tagging Tools
 
 * `SHEBANQ <https://shebanq.ancient-data.org/>`_ - System for HEBrew Text: ANnotations for Queries and Markup. SHEBANQ is an online environment for studying the Hebrew Bible.
 
-* `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - a code that recognize medical entities in the Hebrew text.
-
 
 Models
 ------
@@ -266,6 +264,10 @@ Models
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
 * `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
+
+* `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - a code that recognize medical entities in a Hebrew text.
+
+* `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {MIT} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
 
 
 Other
