@@ -194,6 +194,8 @@ Tokenization
 
 * `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
 
+* `Hebrew Tokenizer <https://github.com/eyaler/hebrew_tokenizer?fbclid=IwAR1vbBpU9SOzQ71ZaxAjyBwNVuyhuYs3dMQsAUlZXCINy4TSg2BVWvoBARc>`_ {?} - Eyal Gruss's Hebrew tokenizer. A field-tested Hebrew tokenizer for dirty texts (ben-yehuda project, bible, cc100, mc4, opensubs, oscar, twitter) focused on multi-word expression extraction.
+
 
 Morphological and Syntactic Analysis
 ------------------------------------
