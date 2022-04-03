@@ -135,6 +135,8 @@ Dictionaries & Word Lists
 
 * `wordfreq <https://pypi.org/project/wordfreq/?fbclid=IwAR0XRlwXQlzbrVoodjatJTrcKwnxvoA4dVBSZyiQuB-qEzXAiizDX63hLGc>`_ {MIT} - wordfreq is a Python library for looking up the frequencies of words in 44 languages, including Hebrew. The Hebrew data is based on Wikipedia, OPUS OpenSubtitles 2018 and SUBTLEX, Google Books Ngrams 2012, Web text from OSCAR and Twitter.
 
+* `Hebrew WordLists <https://github.com/eyaler/hebrew_wordlists?fbclid=IwAR3QlqD_MDPxhiK7IktW7Sp8fnlgANT3TCYX6R_Rg_gzK9t8vXAqDuAbP90>`_ {?} - Useful word lists extracted from Hspell 1.4 by Eyal Gruss.
+
 
 Treebanks
 ---------
