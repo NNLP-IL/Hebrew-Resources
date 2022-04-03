@@ -27,7 +27,7 @@ Structured Corpora
 
 * `OSCAR <https://oscar-corpus.com/>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - OSCAR or Open Super-large Crawled Aggregated coRpus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the Ungoliant architecture.
 
-* `Project Ben-Yehuda <https://github.com/projectbenyehuda/public_domain_dump>`_ {?} - A dump of over ten thousand public domain works in Hebrew in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
+* `Project Ben Yehuda public dumps <https://github.com/projectbenyehuda/public_domain_dump>`_ {`Public Domain`_} - A repository containing dumps of thousands of public domain works in Hebrew, from `Project Ben-Yehuda <https://bybe.benyehuda.org/>`_, in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
 
 * `CC100 <https://data.statmt.org/cc-100/?fbclid=IwAR2czQ8iHkINcK3oAoYTtIRcsj0TaiKOedor6S3Xzb-9-djTnHrK5D69lD0>`_ {MIT} - This corpus is an attempt to recreate the dataset used for training XLM-R. This corpus comprises of monolingual data for 100+ languages, including Hebrew. This was constructed using the urls and paragraph indices provided by the CC-Net repository by processing January-December 2018 Commoncrawl snapshots.
 
@@ -87,8 +87,6 @@ Corpora Sources
 * `Sefaria <https://www.sefaria.org.il/>`_ {Various} - A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
 
 * `HaArchion <http://www.haarchion.co.il/>`_ {?} - Recording of various Hebrew prose and poetry being read.
-
-* `Project Ben Yehuda public dumps <https://github.com/projectbenyehuda/public_domain_dump>`_ {`Public Domain`_} - A repository containing dumps of thousands of public domain works in Hebrew, from `Project Ben-Yehuda <https://bybe.benyehuda.org/>`_, in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
