@@ -27,16 +27,18 @@ Structured Corpora
 
 * `OSCAR <https://oscar-corpus.com/>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - OSCAR or Open Super-large Crawled Aggregated coRpus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the Ungoliant architecture.
 
+* `Project Ben-Yehuda <https://github.com/projectbenyehuda/public_domain_dump>`_ {?} - A dump of over ten thousand public domain works in Hebrew in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
 
-**1.1.2 Annotated Corpora**
+* `CC100 <https://data.statmt.org/cc-100/?fbclid=IwAR2czQ8iHkINcK3oAoYTtIRcsj0TaiKOedor6S3Xzb-9-djTnHrK5D69lD0>`_ {MIT} - This corpus is an attempt to recreate the dataset used for training XLM-R. This corpus comprises of monolingual data for 100+ languages, including Hebrew. This was constructed using the urls and paragraph indices provided by the CC-Net repository by processing January-December 2018 Commoncrawl snapshots.
+
+
+**1.1.2 Annotated Datasets**
 
 1.1.2.1 Annotated by Parts of Speech, Morphological Features, and/or Syntactic Dependencies
 
 * `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
 * `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
-
-* `JEMH <https://github.com/JEMHcorpus/corpora>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} : קורפוס עממ״י - קורפוס עממ"י הוא הקורפוס הטקסטואלי העברי הראשון של ראשית המאה העשרים שהינו חופשי להורדה, למחקר ולהעשרה. הקורפוס מאגד טקסטים ממקורות שונים ומסוּגות שונות. הוא כולל יצירות ספרות, מודעות וכרזות, מכתבים, יומנים אישיים ועוד. הניתוח הלשוני בגרסה הנוכחית של הקורפוס מתבצע באופן אוטומטי באמצעות תוכנת YAP. לכל מסמך מתווסף מטא-דאטה בסיסי, הכולל את התאריך והמקום שבהם הוא נכתב. הקורפוס מונגש לחיפוש באמצעות תוכנת ANNIS, שמאפשרת חיפושים המצליבים את כל פריטי המידע הללו.
 
 
 1.1.2.2 Annotated by Entites
