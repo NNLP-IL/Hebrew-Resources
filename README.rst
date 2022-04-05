@@ -274,7 +274,7 @@ Commercial services
 
 * `Eyfo <https://ey.fo/search>`_ - A commercial engine for search and entity tagging in Hebrew.
 
-* `Melingo's ICA (Intelligent Content Analysis) <http://www.melingo.com/text-analysis/ica/>`_ - A text analysis and textual categorized entity extraction API for Hebrew, Arabic and Farsi texts.
+* `Melingo's ICA (Intelligent Content Analysis) <https://melingo.com/text-analysis/morfix_insights/>`_ - A text analysis and textual categorized entity extraction API for Hebrew, Arabic and Farsi texts.
 
 * `Genius <https://www.genius.co.il>`_ - Automatic analysis of free text in Hebrew.
 
