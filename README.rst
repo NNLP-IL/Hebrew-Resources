@@ -25,6 +25,8 @@ Structured Corpora
 
 * `Hebrew Wikipedia dumps <https://dumps.wikimedia.org/hewiki/latest/>`_ {`CC-BY-SA 3.0`_} - Wikipedia, the free encyclopedia, publishes dumps of its content as XML files on a monthly basis.
 
+* `Wikipedia Corpora used for AlephBERT <https://github.com/OnlpLab/AlephBERT/tree/main/data/wikipedia>`_ - The texts in all of Hebrew Wikipedia was also extracted to pre-train OnlpLab's AlephBERT, using `Attardi's Wikiextractor <https://github.com/attardi/wikiextractor>`_.
+
 * `OSCAR <https://oscar-corpus.com/>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - OSCAR or Open Super-large Crawled Aggregated coRpus is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the Ungoliant architecture.
 
 * `Project Ben Yehuda public dumps <https://github.com/projectbenyehuda/public_domain_dump>`_ {`Public Domain`_} - A repository containing dumps of thousands of public domain works in Hebrew, from `Project Ben-Yehuda <https://bybe.benyehuda.org/>`_, in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files.
@@ -60,6 +62,8 @@ Structured Corpora
 1.1.2.4 Sentiment
 
 * `Hebrew-Sentiment-Data Amram et al. <https://github.com/OnlpLab/Hebrew-Sentiment-Data>`_ {?} - A sentiment analysis benchmark (positive, negative and neutral sentiment) for Hebrew, based on 12K social media comments, containing two instances of input items: token-based and morpheme-based. A cleaned version of the Hebrew Sentiment dataset - a test-train data leakage was cleaned.
+
+* `Emotion User Generated Content (UGC) <https://github.com/avichaychriqui/HeBERT?fbclid=IwAR0GVuSWEvYWimkV4Z22h6-GSEznY2G2eIRz7gDGcAcHT3hB4vgUkxkBCPg>`_ {MIT} - collected for HeBERT model and includes comments posted on news articles collected from 3 major Israeli news sites, between January 2020 to August 2020. The total size of the data is ~150 MB, including over 7 millions words and 350K sentences. ~2000 sentences were annotated by crowd members (3-10 annotators per sentence) for overall sentiment (polarity) and eight emotions: anger, disgust, expectation , fear, happy, sadness, surprise and trust.
 
 1.1.2.5 Recorded Spoken Hebrew
 
