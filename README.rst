@@ -113,7 +113,7 @@ Lexicons
 
 * `MILA's Verb Complements Lexicon <http://www.mila.cs.technion.ac.il/resources_lexicons_verbcomplements.html>`_ {`GPLv3`_} - `NLPH backup here <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/lexicons/MILA_verb_complements%20_lexicon>`_.
 
-* `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - A large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
+* `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - Natalie Shapira's large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
 
 
 Dictionaries & Word Lists
@@ -242,9 +242,13 @@ Models
 
 * `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
 
-* `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - a code that recognize medical entities in a Hebrew text.
+* `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - Yonatan Bitton's code that recognize medical entities in a Hebrew text.
 
 * `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {MIT} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
+
+* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: emotions recognition and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
+
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
 
 
 Other
