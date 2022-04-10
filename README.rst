@@ -94,7 +94,7 @@ Corpora Sources
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
-* `"Ha'Olam Ha'Ze" Newspaper Archive <http://magazine.thisworld.online/>`_ {?} - An online archive of issues of "Ha'Olam Ha'Ze" ("This World") Israeli newspaper.
+
 
 Linguistic Resources
 ====================
@@ -195,8 +195,6 @@ Tokenization
 ------------
 
 * `Yoav Goldberg's Hebrew Tokenizer <https://www.cs.bgu.ac.il/~yoavg/software/hebtokenizer/>`_
-
-* Jonathan Laserson's sentence separator [Python] {?}- Not a tokenizer per-se, but an important part in the tokenization of documents. Jonathan is kindly checking the possibility of open sourcing this tool.
 
 * `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
 
