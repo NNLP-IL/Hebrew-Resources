@@ -63,16 +63,19 @@ Structured Corpora
 
 * `Hebrew-Sentiment-Data Amram et al. <https://github.com/OnlpLab/Hebrew-Sentiment-Data>`_ {?} - A sentiment analysis benchmark (positive, negative and neutral sentiment) for Hebrew, based on 12K social media comments, containing two instances of input items: token-based and morpheme-based. A cleaned version of the Hebrew Sentiment dataset - a test-train data leakage was cleaned.
 
+
+1.1.2.5 Emotion
+
 * `Emotion User Generated Content (UGC) <https://github.com/avichaychriqui/HeBERT?fbclid=IwAR0GVuSWEvYWimkV4Z22h6-GSEznY2G2eIRz7gDGcAcHT3hB4vgUkxkBCPg>`_ {MIT} - collected for HeBERT model and includes comments posted on news articles collected from 3 major Israeli news sites, between January 2020 to August 2020. The total size of the data is ~150 MB, including over 7 millions words and 350K sentences. ~2000 sentences were annotated by crowd members (3-10 annotators per sentence) for overall sentiment (polarity) and eight emotions: anger, disgust, expectation , fear, happy, sadness, surprise and trust.
 
-1.1.2.5 Recorded Spoken Hebrew
+1.1.2.6 Recorded Spoken Hebrew
 
 * `CoSIH - The Corpus of Spoken Hebrew <http://cosih.com/table-3.html>`_ {?} - The Corpus of Spoken Israeli Hebrew (CoSIH) is a database of recordings of spoken Israeli Hebrew
 
 * `MaTaCOp <https://www.openu.ac.il/en/academicstudies/matacop/pages/default.aspx>`_ {?} - a corpus of Hebrew dialogues within the Map Task framework (allowed for non-commercial research and teaching purposes only)
 
 
-1.1.2.6 Other
+1.1.2.7 Other
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
