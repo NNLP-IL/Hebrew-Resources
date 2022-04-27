@@ -251,6 +251,8 @@ Models
 
 * `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
 
+* `hebrew-gpt_neo-small <https://huggingface.co/Norod78/hebrew-gpt_neo-small>`_ {?} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
+
 
 Other
 -----
