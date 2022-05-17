@@ -163,7 +163,9 @@ Embeddings
 
 * `hebrew-word2vec pre-trained word vectors <https://github.com/Ronshm/hebrew-word2vec>`_ {`Apache License 2.0`_} - Trained on data from Twitter. Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains vectors for over 1.4M words (as of January 2018). Comes in a zip with two files: a text file with a word list and a NumPy array file (npy file).
 
-* `NLPL word embeddings <http://vectors.nlpl.eu/repository/>`_ - Trained on the Hebrew CoNLL17 corpus using Word2Vec continuous skipgram, with a vecotor dimension of 100 and a window size of 10. The vocabulary includes 672,384 words.
+* `CoNLL17 word2vec word embeddings <http://vectors.nlpl.eu/repository/>`_ - Trained on the Hebrew CoNLL17 corpus using Word2Vec continuous skipgram, with a vecotor dimension of 100 and a window size of 10. The vocabulary includes 672,384 words.
+
+* `CoNLL17 ELMO word embeddings <https://github.com/ltgoslo/simple_elmo/>`_ - Trained on the Hebrew CoNLL17 corpus using ELMO. **NOTE:** The link at the repository might not work. To download a concerete version of the Hebrew embeddings, `press here <http://vectors.nlpl.eu/repository/20/154.zip>`_.
 
 * `Hebrew Word Embeddings by Lior Shkiller <https://github.com/liorshk/wordembedding-hebrew>`_ - Read more in `this blog post <https://www.oreilly.com/learning/capturing-semantic-meanings-using-deep-learning>`_.
 
