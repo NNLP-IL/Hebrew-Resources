@@ -242,9 +242,9 @@ Morphological and Syntactic Analysis
 Diacritization / Nikkud / Vocalization
 --------------------------------------
 
-* `Nakdan <https://nakdan.dicta.org.il/>`_ - Tool for Automatic and semi-automatic Nikud for Hebrew texts. Avi Shmidman, Shaltiel Shmidman, Moshe Koppel, and Yoav Goldberg. 2020. Nakdan: Professional Hebrew diacritizer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 197–203, Online. Association for Computational Linguistics. `Link <https://aclanthology.org/2020.acl-demos.23.pdf>`_.
+* `Nakdan <https://nakdan.dicta.org.il/>`_ (`Paper <https://aclanthology.org/2020.acl-demos.23.pdf>`_) - Tool for Automatic and semi-automatic Nikud for Hebrew texts. Avi Shmidman, Shaltiel Shmidman, Moshe Koppel, and Yoav Goldberg. 2020. Nakdan: Professional Hebrew diacritizer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 197–203, Online. Association for Computational Linguistics.
 
-* `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. 
+* `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. `Demo in Replicate <https://replicate.com/elazarg/nakdimon/>`_.
 
 * `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_. Blog post: `UNIKUD: Adding Vowels to Hebrew Text with Deep Learning <https://towardsdatascience.com/unikud-adding-vowels-to-hebrew-text-with-deep-learning-powered-by-dagshub-56d238e22d3f>`_.
 
