@@ -387,13 +387,15 @@ Academia
 
   * `Prof. Shuly Wintner <http://cs.haifa.ac.il/~shuly/Shuly_Wintner/Home.html>`_
   
-  * `Dr. Einat Minkov <https://sites.google.com/hevra.haifa.ac.il/einatm/>`_ - My main interests are in Information Extraction and Semantics, as well as in other Natural Language Processing applications. I am also interested in Machine Learning - and the application of learning to NLP problems. 
+  * `Dr. Einat Minkov <https://sites.google.com/hevra.haifa.ac.il/einatm/>`_ - Working on Information Extraction and Semantics, as well as in other Natural Language Processing applications. I am also interested in Machine Learning - and the application of learning to NLP problems. 
 
 * Tel Aviv University:
 
   * `Prof. Jonathan Berant <http://www.cs.tau.ac.il/~joberant/>`_
 
 * The Technion:
+
+  * `Dr Yonatan Belinkov <https://www.cs.technion.ac.il/~belinkov/>`_ - Assistant Professor at the faculty of Computer Science. Focus: interpretability and robustness.
 
   * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_ (retired)
 
@@ -406,7 +408,9 @@ Academia
 
   * `Prof. Ari Rappoport <http://www.cs.huji.ac.il/~arir/>`_ - With his main contribution in the area of Neuroscience, where he developed a comprehensive theory of the brain, Prof. Rappoport's Computer Science area of interest is language (Computational Linguistics, Natural Language Processing (NLP)), from cognitive science and machine learning perspectives.
 
+
   * `Prof. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
+
   
   * `Prof. Dafna Shahaf <http://www.cs.huji.ac.il/~dshahaf/>`_ - Prof. Shahaf's research focuses on helping people make sense of the world. She designs algorithms that help people understand the underlying structure of complex topics, and connect the dots between different pieces. She also likes to formalize intuitive notions; see recent work on Computational Humor.
 
