@@ -239,6 +239,14 @@ Morphological and Syntactic Analysis
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
+Diacritization / Nikkud / Vocalization
+--------------------------------------
+
+* `Nakdan <https://nakdan.dicta.org.il/>`_ (`Paper <https://aclanthology.org/2020.acl-demos.23.pdf>`_) - Tool for Automatic and semi-automatic Nikud for Hebrew texts. Avi Shmidman, Shaltiel Shmidman, Moshe Koppel, and Yoav Goldberg. 2020. Nakdan: Professional Hebrew diacritizer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 197–203, Online. Association for Computational Linguistics.
+
+* `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. `Demo in Replicate <https://replicate.com/elazarg/nakdimon/>`_.
+
+* `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_. Blog post: `UNIKUD: Adding Vowels to Hebrew Text with Deep Learning <https://towardsdatascience.com/unikud-adding-vowels-to-hebrew-text-with-deep-learning-powered-by-dagshub-56d238e22d3f>`_.
 
 Models
 ------
@@ -268,20 +276,13 @@ Other
 
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
-
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
 * `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A Python package for browsing and processing ancient corpora, focused on the Hebrew Bible Database.
 
-* `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
-
-* `The Automatic Hebrew Transriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
-
-* `Nakdimon <https://github.com/elazarg/nakdimon/>`_ - Elazar Gershuni and Yuval Pinter's Hebrew diacritizer.
+* `The Automatic Hebrew Transcriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
 
 * `word2word <https://github.com/Kyubyong/word2word>`_ {`Apache License 2.0`_} - Easy-to-use word-to-word translations for 3,564 language pairs. Hebrew is one of the 62 supported language, and thus word-to-word translation to/from Hebrew is supported for 61 languages.
-
-* `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_.
 
 Commercial services
 -------------------
@@ -338,22 +339,14 @@ This list is meant to cover both researchers in the field of natural language pr
 Academia
 --------
 
-* The Open University of Israel:
-
-  * `The ONLP Lab <https://www.openu.ac.il/en/onlp/pages/default.aspx>`_ [`Twitter <https://twitter.com/OnlpLab/>`_]:
-
-    * `Dr. Reut Tsarfaty <https://www.openu.ac.il/en/personalsites/ReutTsarfaty.aspx>`_ - Head of the ONLP Lab.
-
-    * Dan Bareket - Research assistant.
-
-  * `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
-
-    * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
-  
-  * `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
-
 * Bar Ilan University:
 
+  * `The ONLP Lab <https://nlp.biu.ac.il/~rtsarfaty/onlp#>`_:
+
+    * `Prof. Reut Tsarfaty <https://nlp.biu.ac.il/~rtsarfaty/>`_ - Head of the ONLP Lab.
+
+    * Dan Bareket - Data Scientist.
+ 
   * `The Natural Language Processing Lab at Bar Ilan University <http://u.cs.biu.ac.il/~nlp/>`_ [`Twitter <https://twitter.com/biunlp/>`_]:
 
     * `Prof. Ido Dagan <http://u.cs.biu.ac.il/~dagan/>`_
@@ -370,6 +363,14 @@ Academia
 
     * `Prof. Joseph (Yossi) Keshet <http://u.cs.biu.ac.il/~jkeshet/>`_
   
+* The Open University of Israel
+
+  * `The Open Media and Information Lab (OMILab) at the Open University of Israel <https://www.openu.ac.il/en/omilab/pages/default.aspx>`_ - An interdisciplinary center for research and for teaching in new media and related areas, such as big data, information science, network cultures and digital sociology.
+
+    * `Dr. Vered Silber-Varod <https://www.openu.ac.il/en/personalsites/VeredSilberVarod.aspx>`_ - Director of the Open Media and Information Lab (OMILab). Research interests and publications focus on various aspects of speech sciences, with expertise in speech prosody, acoustic phonetics, and speech communication and text analytics.
+  
+  * `Dr. Anat Lerner, Senior Lecturer <https://www.openu.ac.il/en/personalsites/AnatLerner.aspx>`_ - Interested in speech prosody analyses, combinatorial auctions and computer Networks (especially Ad-Hoc networks, mobile and cellular networks).
+
 * Ben-Gurion University:
 
   * `Natural Language Processing Lab at Ben Gurion University <https://www.cs.bgu.ac.il/~elhadad/nlpproj/>`_
@@ -390,7 +391,7 @@ Academia
 
 * Tel Aviv University:
 
-  * `Dr. Jonathan Berant <http://www.cs.tau.ac.il/~joberant/>`_
+  * `Prof. Jonathan Berant <http://www.cs.tau.ac.il/~joberant/>`_
 
 * The Technion:
 
@@ -398,7 +399,7 @@ Academia
 
   * `Prof. Alon Itai <http://www.cs.technion.ac.il/~itai/>`_ (retired)
 
-  * `Dr. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). Interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
+  * `Prof. Roi Reichart <https://ie.technion.ac.il/~roiri/>`_ - An Assistant Professor at the faculty of Industrial Engineering and Management of the Technion. Working on Natural Language Processing (NLP). Interested in language learning in its context and design models that integrate domain and world knowledge with data-driven methods.
   
   
 * The Hebrew University of Jerusalem:
@@ -407,9 +408,11 @@ Academia
 
   * `Prof. Ari Rappoport <http://www.cs.huji.ac.il/~arir/>`_ - With his main contribution in the area of Neuroscience, where he developed a comprehensive theory of the brain, Prof. Rappoport's Computer Science area of interest is language (Computational Linguistics, Natural Language Processing (NLP)), from cognitive science and machine learning perspectives.
 
-  * `Dr. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - Working on Computational Linguistics and Natural Language Processing. Specifically semantic (meaning) representation from a computational perspective. His research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
+
+  * `Prof. Omri Abend <http://www.cs.huji.ac.il/~oabend/>`_ - My fields of interest are Computational Linguistics and Natural Language Processing. Specifically, I conduct research on semantic (meaning) representation from a computational perspective. My research is tightly linked to statistical learning, language technology (such as Machine Translation and Information Extraction), and computational modeling of child language acquisition.
+
   
-  * `Dr. Dafna Shahaf <http://www.cs.huji.ac.il/~dshahaf/>`_ - Dr. Shahaf's research focuses on helping people make sense of the world. She designs algorithms that help people understand the underlying structure of complex topics, and connect the dots between different pieces. She also likes to formalize intuitive notions; see recent work on Computational Humor.
+  * `Prof. Dafna Shahaf <http://www.cs.huji.ac.il/~dshahaf/>`_ - Prof. Shahaf's research focuses on helping people make sense of the world. She designs algorithms that help people understand the underlying structure of complex topics, and connect the dots between different pieces. She also likes to formalize intuitive notions; see recent work on Computational Humor.
 
   * `The Neurolinguistics Laboratory at the Edmond and Lily Safra Center for Brain Sciences (ELSC) <https://www.grodzinskylab.com/>`_:
 
