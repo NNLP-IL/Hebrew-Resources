@@ -239,6 +239,14 @@ Morphological and Syntactic Analysis
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
+Diacritization / Nikkud / Vocalization
+--------------------------------------
+
+* `Nakdan <https://nakdan.dicta.org.il/>`_ (`Paper <https://aclanthology.org/2020.acl-demos.23.pdf>`_) - Tool for Automatic and semi-automatic Nikud for Hebrew texts. Avi Shmidman, Shaltiel Shmidman, Moshe Koppel, and Yoav Goldberg. 2020. Nakdan: Professional Hebrew diacritizer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 197–203, Online. Association for Computational Linguistics.
+
+* `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. `Demo in Replicate <https://replicate.com/elazarg/nakdimon/>`_.
+
+* `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_. Blog post: `UNIKUD: Adding Vowels to Hebrew Text with Deep Learning <https://towardsdatascience.com/unikud-adding-vowels-to-hebrew-text-with-deep-learning-powered-by-dagshub-56d238e22d3f>`_.
 
 Models
 ------
@@ -268,20 +276,13 @@ Other
 
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
-
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
 * `Text-Fabric <https://dans-labs.github.io/text-fabric/>`_ [Python] {`CC BY-NC 4.0`_} - A Python package for browsing and processing ancient corpora, focused on the Hebrew Bible Database.
 
-* `Nakdan <https://nakdan.dicta.org.il/>`_ - Automatic Nikud for Hebrew texts.
-
-* `The Automatic Hebrew Transriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
-
-* `Nakdimon <https://github.com/elazarg/nakdimon/>`_ - Elazar Gershuni and Yuval Pinter's Hebrew diacritizer.
+* `The Automatic Hebrew Transcriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files.
 
 * `word2word <https://github.com/Kyubyong/word2word>`_ {`Apache License 2.0`_} - Easy-to-use word-to-word translations for 3,564 language pairs. Hebrew is one of the 62 supported language, and thus word-to-word translation to/from Hebrew is supported for 61 languages.
-
-* `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_.
 
 Commercial services
 -------------------
