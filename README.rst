@@ -150,6 +150,8 @@ Dictionaries & Word Lists
 
 * `Hebrew WordLists <https://github.com/eyaler/hebrew_wordlists?fbclid=IwAR3QlqD_MDPxhiK7IktW7Sp8fnlgANT3TCYX6R_Rg_gzK9t8vXAqDuAbP90>`_ {?} - Useful word lists extracted from Hspell 1.4 by Eyal Gruss.
 
+* `Hebrew stop word base on the UD <https://github.com/NNLP-IL/Stop-Words-Hebrew>`_ {'CC0'} - List of stop words in Hebrew produced by using Universal Dependencies of the The Israeli Association of Human Language Technologies (IAHLT)
+
 
 Treebanks
 ---------
