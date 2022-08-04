@@ -199,6 +199,9 @@ Other
 
 * `שתי שקל <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {?} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived from  `query <https://quarry.wmflabs.org/query/21957>`_.
 
+* `The Word-Frequency Database for Printed Hebrew <http://word-freq.huji.ac.il/index.html?fbclid=IwAR2Bl_-8eNKmxUBts1S3hipWm63_0TSPk3lmweVW1q5XcblmezjtREWS24s>`_ {?} - supplies the frequency of occurrence of any Hebrew letter cluster (mean occurrence per million). The corpus was assembled throughout the year 2001, and consists of text downloaded from 914 editions of the three major daily online Hebrew newspapers (Haaretz, Maariv, and Yediot Acharonot). After removing abbreviations, single characters, forms with counts that are less than 3 (mostly typos), and splitting hyphenated forms (vast majority were two words), the corpus totals 554,270 types and 619,835,788 tokens. 
+
+
 
 Code
 ====
