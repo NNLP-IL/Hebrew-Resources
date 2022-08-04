@@ -293,6 +293,8 @@ Other
 
 * `word2word <https://github.com/Kyubyong/word2word>`_ {`Apache License 2.0`_} - Easy-to-use word-to-word translations for 3,564 language pairs. Hebrew is one of the 62 supported language, and thus word-to-word translation to/from Hebrew is supported for 61 languages.
 
+* `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
+
 Commercial services
 -------------------
 
