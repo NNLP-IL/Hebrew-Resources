@@ -212,10 +212,6 @@ Also see here:  https://github.com/iddoberger/awesome-hebrew-nlp
 Tokenization
 ------------
 
-* `Yoav Goldberg's Hebrew Tokenizer <https://www.cs.bgu.ac.il/~yoavg/software/hebtokenizer/>`_
-
-* `The MILA Hebrew Tokenization Tool <http://www.mila.cs.technion.ac.il/tools_token.html>`_ [?] {`GPLv3`_} - Free for non-commercial use.
-
 * `Yonti Levin's Hebrew Tokenizer <https://github.com/YontiLevin/Hebrew-Tokenizer>`_ [Python] {`MIT License`_}
 
 * `Hebrew Tokenizer <https://github.com/eyaler/hebrew_tokenizer?fbclid=IwAR1vbBpU9SOzQ71ZaxAjyBwNVuyhuYs3dMQsAUlZXCINy4TSg2BVWvoBARc>`_ {?} - Eyal Gruss's Hebrew tokenizer. A field-tested Hebrew tokenizer for dirty texts (ben-yehuda project, bible, cc100, mc4, opensubs, oscar, twitter) focused on multi-word expression extraction.
@@ -227,12 +223,6 @@ Morphological and Syntactic Analysis
 * `Morphological and Syntactic Analysis of Hebrew Texts by ONLP <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
 
 * `yap morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_]
-
-* `Yoav Goldberg's syntactic parsers <https://www.cs.bgu.ac.il/~yoavg/uni/hebrewparsing.he.html>`_ [Python, Java] {`GPLv3`_} - Two syntactic parsers for Hebrew, one is dependency-based and the other is constituency-based. Distributed under the `GPLv3`_ license, free for academic use only.
-
-  * `Yoav Goldberg's Hebrew Dependency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebdepparser/>`_ [Python, Java] {`GPLv3`_} 
-
-  * `Yoav Goldberg's Hebrew Constituency Parsing <https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebconstparser/>`_ [Python, Java] {`GPLv3`_} 
 
 * `The MILA Morphological Analysis Tool <http://www.mila.cs.technion.ac.il/tools_analysis.html>`_ [?] {`GPLv3`_} - Takes as input undotted Hebrew text (formatted either as plain text or as tokenized XML following MILA's standards). The Analyzer then returns, for each token, all the possible morphological analyses of the token, reflecting part of speech, transliteration, gender, number, definiteness, and possessive suffix. Free for non-commercial use. 
 
