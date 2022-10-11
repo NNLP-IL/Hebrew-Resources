@@ -76,6 +76,8 @@ Structured Corpora
 
 1.1.2.6 Recorded Spoken Hebrew
 
+* `The HUJI Corpus of Spoken Hebrew <https://huji-corpus.com/>`_ {?} - The corpus project, created by Dr Michal Marmorstein, Nadav Matalon, Amir Efrati, Itamar Folman and Yuval Geva, and hosted by the Hebrew University of Jerusalem (HUJI), aims at documenting naturally occurring speech and interaction in Modern Hebrew. Data come from telephone conversations recorded during the years 2020–2021. Data annotation followed standard methods of Interactional Linguistics (Couper-Kuhlen and Selting 2018). Audio files and transcripts were made freely accessible online.
+
 * `CoSIH - The Corpus of Spoken Hebrew <http://cosih.com/table-3.html>`_ {?} - The Corpus of Spoken Israeli Hebrew (CoSIH) is a database of recordings of spoken Israeli Hebrew
 
 * `MaTaCOp <https://www.openu.ac.il/en/academicstudies/matacop/pages/default.aspx>`_ {?} - a corpus of Hebrew dialogues within the Map Task framework (allowed for non-commercial research and teaching purposes only)
