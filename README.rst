@@ -236,7 +236,7 @@ Morphological and Syntactic Analysis
 
 * `BGU Tagger: Morphological Tagging of Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlp12/hebrew/TagHebrew.html>`_ [Java] {?} - Morphological Analysis, Disambiguation.
 
-* `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`} - A highly accurate morphological segmenter to break up complex word forms
+* `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`} - A highly accurate morphological segmenter to break up complex word forms 
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
