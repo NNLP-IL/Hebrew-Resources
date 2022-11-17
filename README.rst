@@ -37,6 +37,8 @@ Structured Corpora
 
 * `Sefaria <https://github.com/Sefaria/Sefaria-Export/>`_ {Each text is licensed separately} - Structured Jewish texts and metadata with free public licenses, exported from Sefaria's database.
 
+* `Hebrew songs lyrics <https://www.kaggle.com/datasets/guybarash/hebrew-songs-lyrics?fbclid=IwAR1Tji-2oWxeB54wM3YDVViMG7xTM6000yiov_H1AZTQVRiP9VfmiXkyYu4>`_ {`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_} - ~15,000 israeli songs scrapped from `Shironet <https://shironet.mako.co.il/>`_ website and contains 167 different singers. Contains only hebrew charecters.
+
 
 **1.1.2 Annotated Datasets**
 
