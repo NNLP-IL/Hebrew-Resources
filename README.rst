@@ -76,7 +76,13 @@ Structured Corpora
 
 * `Emotion User Generated Content (UGC) <https://github.com/avichaychriqui/HeBERT?fbclid=IwAR0GVuSWEvYWimkV4Z22h6-GSEznY2G2eIRz7gDGcAcHT3hB4vgUkxkBCPg>`_ {MIT} - collected for HeBERT model and includes comments posted on news articles collected from 3 major Israeli news sites, between January 2020 to August 2020. The total size of the data is ~150 MB, including over 7 millions words and 350K sentences. ~2000 sentences were annotated by crowd members (3-10 annotators per sentence) for overall sentiment (polarity) and **eight emotions: anger, disgust, expectation , fear, happy, sadness, surprise and trust.**
 
-1.1.2.6 Recorded Spoken Hebrew
+
+1.1.2.6 Topic Classification
+
+* `Knesset Topic Classification <https://github.com/NitzanBarzilay/KnessetTopicClassification/>`_ {?} - This data was collected as a part of Nitzan Barzilay's project and contains about 2,700 quotes from Knesset meetings, manually classified into eight topics: education, Covid-19, welfare, economic, women and LGBT, health, security, internal security.
+
+
+1.1.2.7 Recorded Spoken Hebrew
 
 * `The HUJI Corpus of Spoken Hebrew <https://huji-corpus.com/>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - The corpus project, created by Dr Michal Marmorstein, Nadav Matalon, Amir Efrati, Itamar Folman and Yuval Geva, and hosted by the Hebrew University of Jerusalem (HUJI), aims at documenting naturally occurring speech and interaction in Modern Hebrew. Data come from telephone conversations recorded during the years 2020–2021. Data annotation followed standard methods of Interactional Linguistics (Couper-Kuhlen and Selting 2018). Audio files and transcripts were made freely accessible online.
 
@@ -85,7 +91,7 @@ Structured Corpora
 * `MaTaCOp <https://www.openu.ac.il/en/academicstudies/matacop/pages/default.aspx>`_ {?} - a corpus of Hebrew dialogues within the Map Task framework (allowed for non-commercial research and teaching purposes only)
 
 
-1.1.2.7 Other
+1.1.2.8 Other
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
