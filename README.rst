@@ -256,25 +256,52 @@ Diacritization / Nikkud / Vocalization
 Models
 ------
 
-* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+**3.4.1 Masked Language Models (MLM)**
+
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
+
+* `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {?} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting od approximiately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
+
+* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
+
+* `TavBERT <https://github.com/omrikeren/TavBERT>`_ {?} - a BERT-style masked language model over character sequences, published by Omri Keren, Tal Avinari, Prof. Reut Tsarfaty and Dr. Omer Levy.
+
+
+**3.4.2 Causal Language Models (CLM)**
+
+* `hebrew-gpt_neo-small <https://huggingface.co/Norod78/hebrew-gpt_neo-small>`_ {?} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
+
+
+**3.4.3 Multilingual Models**
+
+* `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
 
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
-* `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
+
+**3.4.4 Sentiment**
+
+* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+
+* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
+
+
+**3.4.5 NER**
+
+* `Neural Modeling for Named Entities and Morphology (NEMO2) <https://github.com/OnlpLab/NEMO>`_ {?} - OnlpLab's code and models for neural modeling of Hebrew NER. Described in the TACL paper `Neural Modeling for Named Entities and Morphology (NEMO2) <https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00404/107206/Neural-Modeling-for-Named-Entities-and-Morphology>`_.
 
 * `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - Yonatan Bitton's code that recognize medical entities in a Hebrew text.
 
 * `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {MIT} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
 
-* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
 
-* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
-
-* `hebrew-gpt_neo-small <https://huggingface.co/Norod78/hebrew-gpt_neo-small>`_ {?} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
+**3.4.6 Other Deep Learning Tools**
 
 * `Legal-HeBERT <https://github.com/avichaychriqui/Legal-HeBERT?fbclid=IwAR3sFizNJEfPIXm0Agg5HpELUm49v11kfksjes72-Q-9CxMwv8hdR8I5ahg>`_ {?} - a BERT model for Hebrew legal and legislative domains. It is intended to improve the legal NLP research and tools development in Hebrew. Avichay Chriqui, Dr. Inbal Yahav Shenberger and Dr. Ittai Bar-Siman-Tov release two versions of Legal-HeBERT: `The first version <https://huggingface.co/avichr/Legal-heBERT_ft?fbclid=IwAR3K16AoiBYtZlpf2C6TjSstOv7ZuaWLIwCOq93_fRV6bGA3ssDA8NfuHmY>`_ is a fine-tuned model of HeBERT applied on legal and legislative documents. `The second version <https://huggingface.co/avichr/Legal-heBERT?fbclid=IwAR3r-QUCMSdzCoAjomifrk2hCPX7kvGJk47raHHfqBI511QXXchaOkL8rFo>`_ uses HeBERT's architecture guidlines to train a BERT model from scratch.
 
 * `BEREL <https://www.dropbox.com/sh/us98wjb178itjk1/AACWu62ffHJ0zk19i77_rV06a?dl=0&fbclid=IwAR0GbzbyASH8bA_lCadXA-2l09oXtg_NNm4QTQ69WDfdtG77gWx9WufB_II>`_ {?} - BERT Embeddings for Rabbinic-Encoded Language - DICTA's pre-trained language model (PLM) for Rabbinic Hebrew.
+
+
 
 Other
 -----
