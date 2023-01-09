@@ -156,6 +156,8 @@ Dictionaries & Word Lists
 
 * `Hebrew stop word base on the UD <https://github.com/NNLP-IL/Stop-Words-Hebrew>`_ {'CC0'} - List of stop words in Hebrew produced by using Universal Dependencies of the The Israeli Association of Human Language Technologies (IAHLT)
 
+* `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles2018.php>`_ {?} - This is a collection of translated movie subtitles from http://www.opensubtitles.org/.
+
 
 Treebanks
 ---------
