@@ -46,7 +46,18 @@ Structured Corpora
 
 * `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
-* `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
+* `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית 
+של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
+
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ {`GPLv3`_} - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
+
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
+
+* `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
+
+* `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`Attribution-ShareAlike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
+
+* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`open <https://opendefinition.org/od/2.1/en/>`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
 
 
 1.1.2.2 Annotated by Entites
@@ -173,6 +184,9 @@ Treebanks
 * `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
 
 * `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`Attribution-ShareAlike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous.
+
+* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`open <https://opendefinition.org/od/2.1/en/>`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
+
 
 Embeddings
 ----------
