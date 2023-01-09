@@ -134,6 +134,8 @@ Dictionaries & Word Lists
 
 * `Tapuz Hebrew Stop Words <https://www.kaggle.com/datasets/danofer/hebrew-stop-words?fbclid=IwAR2DpSsgJuYyPdaJ9K2WUpZY324pjkXOAuWKv4sUhgkZVjY7n6ej6UK7pwQ>`_ - a list of the 500 most common words (stop words) computed from discussions from the Tapuz People website, on a variety of subjects.
 
+* `Stop words <https://www.kaggle.com/datasets/heeraldedhia/stop-words-in-28-languages?select=hebrew.txt>`_ {`GPL 2`} - Text-preprocessing for Natural Language Processing.
+
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
 * `Hebrew verb lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/hebrew_verbs_eran_tomer>`_ {`CC-BY 4.0`_} - Created by Eran Tomer (erantom@gmail.com).
