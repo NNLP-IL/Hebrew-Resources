@@ -331,6 +331,10 @@ Commercial services
 
 * `AlmaReader <https://app.almareader.com/>`_ - Online text-to-speech service for Hebrew.
 
+* `Amnon The Transcriber <https://api.whatsapp.com/send/?phone=972523362105&text&type=phone_number&app_absent=0>`_ - a WhatsApp bot that receives a voice note and transcribe it to text.
+
+* `Callee <https://www.geektime.co.il/callee-whatsapp-bot/>`_ - a WhatsApp bot that receives a voice note, transcribe it to text also summarize it (as a text).
+
 
 Tagging Tools
 =============
