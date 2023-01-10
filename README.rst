@@ -105,6 +105,7 @@ Corpora Sources
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
+* `TED Talks Transcripts for NLP <https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset>`_ {`CC BY-NC 4.0`_} - Transcripts and more in 12 languages including Hebrew.
 
 
 Linguistic Resources
