@@ -109,6 +109,8 @@ Corpora Sources
 
 * `TED Talks Transcripts for NLP <https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset>`_ {`CC BY-NC 4.0`_} - Transcripts and more in 12 languages including Hebrew.
 
+* `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel.
+
 
 Linguistic Resources
 ====================
@@ -296,6 +298,7 @@ Other
 
 * `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
 
+
 Commercial services
 -------------------
 
@@ -306,6 +309,8 @@ Commercial services
 * `Genius <https://www.genius.co.il>`_ - Automatic analysis of free text in Hebrew.
 
 * `AlmaReader <https://app.almareader.com/>`_ - Online text-to-speech service for Hebrew.
+
+* `Tasq.Ai <www.tasq.ai>`_ - labeling.
 
 
 Tagging Tools
