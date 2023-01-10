@@ -37,6 +37,8 @@ Structured Corpora
 
 * `Sefaria <https://github.com/Sefaria/Sefaria-Export/>`_ {Each text is licensed separately} - Structured Jewish texts and metadata with free public licenses, exported from Sefaria's database.
 
+* `1001-israeli-pop-dataset <https://www.kaggle.com/datasets/adamyodfat/1001-israeli-pop-dataset>`_ {`CC BY-NC-ND 4.0 <https://creativecommons.org/licenses/by-nc-nd/4.0/>`_} - 1001 Israeli pop songs manual analyses 1967-2017.
+
 
 **1.1.2 Annotated Datasets**
 
@@ -127,6 +129,8 @@ Lexicons
 
 * `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - Natalie Shapira's large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
 
+* `sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`Other (specified in description)`} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
+
 
 Dictionaries & Word Lists
 -------------------------
@@ -135,7 +139,7 @@ Dictionaries & Word Lists
 
 * `Tapuz Hebrew Stop Words <https://www.kaggle.com/datasets/danofer/hebrew-stop-words?fbclid=IwAR2DpSsgJuYyPdaJ9K2WUpZY324pjkXOAuWKv4sUhgkZVjY7n6ej6UK7pwQ>`_ - a list of the 500 most common words (stop words) computed from discussions from the Tapuz People website, on a variety of subjects.
 
-* `Stop words <https://www.kaggle.com/datasets/heeraldedhia/stop-words-in-28-languages?select=hebrew.txt>`_ {`GPL 2`} - Text-preprocessing for Natural Language Processing.
+* `Stop words <https://www.kaggle.com/datasets/heeraldedhia/stop-words-in-28-languages?select=hebrew.txt>`_ {`GPL 2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html>`_} - Text-preprocessing for Natural Language Processing.
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
@@ -156,8 +160,6 @@ Dictionaries & Word Lists
 * `Hebrew WordLists <https://github.com/eyaler/hebrew_wordlists?fbclid=IwAR3QlqD_MDPxhiK7IktW7Sp8fnlgANT3TCYX6R_Rg_gzK9t8vXAqDuAbP90>`_ {?} - Useful word lists extracted from Hspell 1.4 by Eyal Gruss.
 
 * `Hebrew stop word base on the UD <https://github.com/NNLP-IL/Stop-Words-Hebrew>`_ {'CC0'} - List of stop words in Hebrew produced by using Universal Dependencies of the The Israeli Association of Human Language Technologies (IAHLT)
-
-* `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles2018.php>`_ {?} - This is a collection of translated movie subtitles from http://www.opensubtitles.org/.
 
 
 Treebanks
