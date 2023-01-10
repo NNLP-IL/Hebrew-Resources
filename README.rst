@@ -129,7 +129,7 @@ Lexicons
 
 * `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - Natalie Shapira's large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
 
-* `sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`Other (specified in description)`} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
+* `Sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`Other (specified in description)`} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
 
 
 Dictionaries & Word Lists
