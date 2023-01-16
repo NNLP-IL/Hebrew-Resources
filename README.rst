@@ -314,8 +314,12 @@ Commercial services
 
 * `Tasq.Ai <www.tasq.ai>`_ - labeling.
 
+* `verbit.ai <https://verbit.ai/>`_ - Transcription
 
-Tagging Tools
+* `Text Analytics for health containers <https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/text-analytics-for-health/how-to/use-containers?tabs=language>`_ 
+
+* `_<http://hebrew-nlp.co.il/>
+
 =============
 
 * `LightTag <nlph.lighttag.io>`_ [?] {not open source} - A tool for managing annotation projects. Handles right-to-left and part-of-word marking. `Tutorial video here <https://www.youtube.com/watch?v=eTlrTC_n_yg>`_.
