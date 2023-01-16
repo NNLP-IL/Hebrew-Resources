@@ -111,6 +111,8 @@ Corpora Sources
 
 * `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel.
 
+* `Old Newspapers <https://www.kaggle.com/datasets/alvations/old-newspapers?select=old-newspaper.tsv>`_ {`CC0: Public Domain <https://creativecommons.org/publicdomain/zero/1.0/>`_} - The HC Corpora was a great resource that contains natural language text from various newspapers, social media posts and blog pages in multiple languages. This is a cleaned version of the raw data from newspaper subset of the HC corpus.
+
 
 Linguistic Resources
 ====================
