@@ -345,7 +345,7 @@ Other
 
 * `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
 
-* `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel.
+* `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel. It's based on the MediaWiki platform, an open source language software for Wikipedia. Most of the code developed for the site can be found here.
 
 
 Commercial services
