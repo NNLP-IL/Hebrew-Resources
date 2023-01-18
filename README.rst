@@ -41,6 +41,8 @@ Structured Corpora
 
 * `1001-israeli-pop-dataset <https://www.kaggle.com/datasets/adamyodfat/1001-israeli-pop-dataset>`_ {`CC BY-NC-ND 4.0 <https://creativecommons.org/licenses/by-nc-nd/4.0/>`_} - 1001 Israeli pop songs manual analyses 1967-2017.
 
+* `Old Newspapers <https://www.kaggle.com/datasets/alvations/old-newspapers?select=old-newspaper.tsv>`_ {`CC0: Public Domain <https://creativecommons.org/publicdomain/zero/1.0/>`_} - The HC Corpora was a great resource that contains natural language text from various newspapers, social media posts and blog pages in multiple languages. This is a cleaned version of the raw data from newspaper subset of the HC corpus.
+
 
 **1.1.2 Annotated Datasets**
 
@@ -128,10 +130,6 @@ Corpora Sources
 
 * `TED Talks Transcripts for NLP <https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset>`_ {`CC BY-NC 4.0`_} - Transcripts and more in 12 languages including Hebrew.
 
-* `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel.
-
-* `Old Newspapers <https://www.kaggle.com/datasets/alvations/old-newspapers?select=old-newspaper.tsv>`_ {`CC0: Public Domain <https://creativecommons.org/publicdomain/zero/1.0/>`_} - The HC Corpora was a great resource that contains natural language text from various newspapers, social media posts and blog pages in multiple languages. This is a cleaned version of the raw data from newspaper subset of the HC corpus.
-
 
 Linguistic Resources
 ====================
@@ -152,7 +150,7 @@ Lexicons
 
 * `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - Natalie Shapira's large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
 
-* `Sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`Other (specified in description)`} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
+* `Sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`GNU GPL <https://www.gnu.org/licenses/licenses.html#GPL>`_} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
 
 
 Dictionaries & Word Lists
@@ -269,6 +267,7 @@ Morphological and Syntactic Analysis
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
+
 Diacritization / Nikkud / Vocalization
 --------------------------------------
 
@@ -277,6 +276,7 @@ Diacritization / Nikkud / Vocalization
 * `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. `Demo in Replicate <https://replicate.com/elazarg/nakdimon/>`_.
 
 * `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_. Blog post: `UNIKUD: Adding Vowels to Hebrew Text with Deep Learning <https://towardsdatascience.com/unikud-adding-vowels-to-hebrew-text-with-deep-learning-powered-by-dagshub-56d238e22d3f>`_.
+
 
 Models
 ------
@@ -344,6 +344,8 @@ Other
 * `word2word <https://github.com/Kyubyong/word2word>`_ {`Apache License 2.0`_} - Easy-to-use word-to-word translations for 3,564 language pairs. Hebrew is one of the 62 supported language, and thus word-to-word translation to/from Hebrew is supported for 61 languages.
 
 * `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
+
+* `All-Rights (כל זכות) <https://github.com/kolzchut>`_ {Each repository is licensed separately} - All-Rights (כל-זכות) is the leading site about rights and entitlements in Israel.
 
 
 Commercial services
