@@ -37,6 +37,8 @@ Structured Corpora
 
 * `Sefaria <https://github.com/Sefaria/Sefaria-Export/>`_ {Each text is licensed separately} - Structured Jewish texts and metadata with free public licenses, exported from Sefaria's database.
 
+* `Hebrew songs lyrics <https://www.kaggle.com/datasets/guybarash/hebrew-songs-lyrics?fbclid=IwAR1Tji-2oWxeB54wM3YDVViMG7xTM6000yiov_H1AZTQVRiP9VfmiXkyYu4>`_ {`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_} - ~15,000 israeli songs scrapped from `Shironet <https://shironet.mako.co.il/>`_ website and contains 167 different singers. Contains only hebrew charecters.
+
 * `1001-israeli-pop-dataset <https://www.kaggle.com/datasets/adamyodfat/1001-israeli-pop-dataset>`_ {`CC BY-NC-ND 4.0 <https://creativecommons.org/licenses/by-nc-nd/4.0/>`_} - 1001 Israeli pop songs manual analyses 1967-2017.
 
 
@@ -46,7 +48,18 @@ Structured Corpora
 
 * `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
-* `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
+* `The GOV.il Corpus <https://data.gov.il/dataset/corpus>`_ {`CC-BY-SA 3.0`_} - קורפוס השפה העברית -    מאגר שפה מתויגת, חלק מפרוייקט קורפוס השפה העברית 
+של רשות התקשוב הממשלתי. התיוג מבוצע על ידי האקדמיה ללשון העברית. תוצר ראשון זה כולל 600 משפטים מתוייגים
+
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ {`GPLv3`_} - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only.
+
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
+
+* `Modern Hebrew Dependency Treebank v.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
+
+* `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`Attribution-ShareAlike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
+
+* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`open <https://opendefinition.org/od/2.1/en/>`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
 
 
 1.1.2.2 Annotated by Entites
@@ -76,7 +89,13 @@ Structured Corpora
 
 * `Emotion User Generated Content (UGC) <https://github.com/avichaychriqui/HeBERT?fbclid=IwAR0GVuSWEvYWimkV4Z22h6-GSEznY2G2eIRz7gDGcAcHT3hB4vgUkxkBCPg>`_ {MIT} - collected for HeBERT model and includes comments posted on news articles collected from 3 major Israeli news sites, between January 2020 to August 2020. The total size of the data is ~150 MB, including over 7 millions words and 350K sentences. ~2000 sentences were annotated by crowd members (3-10 annotators per sentence) for overall sentiment (polarity) and **eight emotions: anger, disgust, expectation , fear, happy, sadness, surprise and trust.**
 
-1.1.2.6 Recorded Spoken Hebrew
+
+1.1.2.6 Topic Classification
+
+* `Knesset Topic Classification <https://github.com/NitzanBarzilay/KnessetTopicClassification/>`_ {?} - This data was collected as a part of Nitzan Barzilay's project and contains about 2,700 quotes from Knesset meetings, manually classified into eight topics: education, Covid-19, welfare, economic, women and LGBT, health, security, internal security.
+
+
+1.1.2.7 Recorded Spoken Hebrew
 
 * `The HUJI Corpus of Spoken Hebrew <https://huji-corpus.com/>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - The corpus project, created by Dr Michal Marmorstein, Nadav Matalon, Amir Efrati, Itamar Folman and Yuval Geva, and hosted by the Hebrew University of Jerusalem (HUJI), aims at documenting naturally occurring speech and interaction in Modern Hebrew. Data come from telephone conversations recorded during the years 2020–2021. Data annotation followed standard methods of Interactional Linguistics (Couper-Kuhlen and Selting 2018). Audio files and transcripts were made freely accessible online.
 
@@ -85,7 +104,7 @@ Structured Corpora
 * `MaTaCOp <https://www.openu.ac.il/en/academicstudies/matacop/pages/default.aspx>`_ {?} - a corpus of Hebrew dialogues within the Map Task framework (allowed for non-commercial research and teaching purposes only)
 
 
-1.1.2.7 Other
+1.1.2.8 Other
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
@@ -177,7 +196,10 @@ Treebanks
 
 * `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`Attribution-ShareAlike 4.0 International <https://creativecommons.org/licenses/by-sa/4.0/legalcode>`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous.
 
-Embeddings 
+* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`open <https://opendefinition.org/od/2.1/en/>`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
+
+
+Embeddings
 ----------
 
 * `fastText pre-trained word vectors <https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md>`_ for Hebrew {`CC-BY-SA 3.0`_} - Trained on `Wikipedia <https://www.wikipedia.org/>`_ using `fastText <https://github.com/facebookresearch/fastText>`_. Comes in both the binary and text default formats of fastText: `binary+text <https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.he.zip>`_, `text <https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.he.vec>`_. In the text format, each line contains a word followed by its embedding; Each value is space separated; Words are ordered by their frequency in a descending order.
@@ -197,10 +219,6 @@ Embeddings
 * `Multilingual BERT <https://github.com/google-research/bert/blob/master/multilingual.md?fbclid=IwAR3Tm1UQjzZtz0XcH7NsR5DvWqfxDxuc3DJkxwmWpwZtkYXFC2bc5HRut_0>`_ - BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
 
 * Hebrew word embeddings by Dr. Oren Glickman {?} - Trained on Twitter. Unreleased. Presented in his lecture in yearly conference of The Israel Statistical Association for 2018 (`presentation file <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/other/Hebrew-Word_Embedding-Glickman.pptx>`_).
-
-
-* `hebrew-word2vec <https://github.com/Ronshm/hebrew-word2vec>`_ [C, Python] {`Apache License 2.0`_} - Developed by Ron Shemesh in Bar-Ilan University's NLP lab under the instruction of Dr. Yoav Goldberg. Contains `pre-trained vectors <https://github.com/Ronshm/hebrew-word2vec/blob/master/api/README.md>`_ and an online demo.
-
 
 * `hebrew-w2v <https://github.com/Iddoyadlin/hebrew-w2v?fbclid=IwAR3QIwzgcziyANpq8-YEPeO1eQzBboDCLeIiSPnenqrFEedCNCgB3QEo44o>`_ {`Apache License 2.0`_} - Iddo Yadlin and Itamar Shefi's word2vec model for Hebrew, trained on a corpus which is the Hebrew wikipedia dump only tokenized with hebpipe.
 
@@ -263,25 +281,52 @@ Diacritization / Nikkud / Vocalization
 Models
 ------
 
-* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+**3.4.1 Masked Language Models (MLM)**
+
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
+
+* `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {?} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting od approximiately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
+
+* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
+
+* `TavBERT <https://github.com/omrikeren/TavBERT>`_ {?} - a BERT-style masked language model over character sequences, published by Omri Keren, Tal Avinari, Prof. Reut Tsarfaty and Dr. Omer Levy.
+
+
+**3.4.2 Causal Language Models (CLM)**
+
+* `hebrew-gpt_neo-small <https://huggingface.co/Norod78/hebrew-gpt_neo-small>`_ {?} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
+
+
+**3.4.3 Multilingual Models**
+
+* `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
 
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for  Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
-* `BERT's multilingual model <https://github.com/google-research/bert/blob/master/multilingual.md>`_ - Trained (also) on Hebrew.
+
+**3.4.4 Sentiment**
+
+* `Neural Sentiment Analyzer for Modern Hebrew <https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew>`_ [?] {`MIT`_} - This code and dataset provide an established benchmark for neural sentiment analysis for Modern Hebrew.
+
+* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
+
+
+**3.4.5 NER**
+
+* `Neural Modeling for Named Entities and Morphology (NEMO2) <https://github.com/OnlpLab/NEMO>`_ {?} - OnlpLab's code and models for neural modeling of Hebrew NER. Described in the TACL paper `Neural Modeling for Named Entities and Morphology (NEMO2) <https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00404/107206/Neural-Modeling-for-Named-Entities-and-Morphology>`_.
 
 * `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {?} - Yonatan Bitton's code that recognize medical entities in a Hebrew text.
 
 * `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {MIT} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
 
-* `HeBERT <https://huggingface.co/avichr/heBERT?fbclid=IwAR2Lo9pkN5HLZmtFiFwcIDWyXR9gyP646pyFzNSUUP_djalAkewvB9p8E_o>`_ {MIT} - HeBERT is a Hebrew pretrained language model for Polarity Analysis and Emotion Recognition, published by Dr. Inbal Yahav Shenberger and Avichay Chriqui. It is based on Google's BERT architecture and it is BERT-Base config. HeBert was trained on three dataset: OSCAR, A Hebrew dump of Wikipedia, Emotion User Generated Content (UGC) data that was collected for the purpose of this study. The model was evaluated on downstream tasks: `HebEMO - emotion recognition model <https://huggingface.co/avichr/hebEMO_anticipation?fbclid=IwAR00bGmLoASpEjpCOoWjuZ6q4xhlu6wwZR4Miau2RV2nVsam-o7oVt4jYkY>`_ and `sentiment analysis <https://huggingface.co/avichr/heBERT_sentiment_analysis?fbclid=IwAR1IhvCmosiapbA3iosHc0nJHM6nM-0m7Ew3Zeqw2V4wg-3cWKuB_Qf8OuY>`_. Github: https://github.com/avichaychriqui/HeBERT
 
-* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {?} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains stateof-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
-
-* `hebrew-gpt_neo-small <https://huggingface.co/Norod78/hebrew-gpt_neo-small>`_ {?} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
+**3.4.6 Other Deep Learning Tools**
 
 * `Legal-HeBERT <https://github.com/avichaychriqui/Legal-HeBERT?fbclid=IwAR3sFizNJEfPIXm0Agg5HpELUm49v11kfksjes72-Q-9CxMwv8hdR8I5ahg>`_ {?} - a BERT model for Hebrew legal and legislative domains. It is intended to improve the legal NLP research and tools development in Hebrew. Avichay Chriqui, Dr. Inbal Yahav Shenberger and Dr. Ittai Bar-Siman-Tov release two versions of Legal-HeBERT: `The first version <https://huggingface.co/avichr/Legal-heBERT_ft?fbclid=IwAR3K16AoiBYtZlpf2C6TjSstOv7ZuaWLIwCOq93_fRV6bGA3ssDA8NfuHmY>`_ is a fine-tuned model of HeBERT applied on legal and legislative documents. `The second version <https://huggingface.co/avichr/Legal-heBERT?fbclid=IwAR3r-QUCMSdzCoAjomifrk2hCPX7kvGJk47raHHfqBI511QXXchaOkL8rFo>`_ uses HeBERT's architecture guidlines to train a BERT model from scratch.
 
 * `BEREL <https://www.dropbox.com/sh/us98wjb178itjk1/AACWu62ffHJ0zk19i77_rV06a?dl=0&fbclid=IwAR0GbzbyASH8bA_lCadXA-2l09oXtg_NNm4QTQ69WDfdtG77gWx9WufB_II>`_ {?} - BERT Embeddings for Rabbinic-Encoded Language - DICTA's pre-trained language model (PLM) for Rabbinic Hebrew.
+
+
 
 Other
 -----
@@ -311,6 +356,10 @@ Commercial services
 * `Genius <https://www.genius.co.il>`_ - Automatic analysis of free text in Hebrew.
 
 * `AlmaReader <https://app.almareader.com/>`_ - Online text-to-speech service for Hebrew.
+
+* `Amnon The Transcriber <https://api.whatsapp.com/send/?phone=972523362105&text&type=phone_number&app_absent=0>`_ - a WhatsApp bot that receives a voice note and transcribe it to text.
+
+* `Callee <https://www.geektime.co.il/callee-whatsapp-bot/>`_ - a WhatsApp bot that receives a voice note, transcribe it to text also summarize it (as a text).
 
 * `Tasq.Ai <www.tasq.ai>`_ - labeling.
 
