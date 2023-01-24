@@ -14,7 +14,7 @@ When contributing to the list, please add a link to the license for all non-pape
 
 
 
-Corpora
+Corpora 
 =======
 
 
@@ -38,6 +38,10 @@ Structured Corpora
 * `Sefaria <https://github.com/Sefaria/Sefaria-Export/>`_ {Each text is licensed separately} - Structured Jewish texts and metadata with free public licenses, exported from Sefaria's database.
 
 * `Hebrew songs lyrics <https://www.kaggle.com/datasets/guybarash/hebrew-songs-lyrics?fbclid=IwAR1Tji-2oWxeB54wM3YDVViMG7xTM6000yiov_H1AZTQVRiP9VfmiXkyYu4>`_ {`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_} - ~15,000 israeli songs scrapped from `Shironet <https://shironet.mako.co.il/>`_ website and contains 167 different singers. Contains only hebrew charecters.
+
+* `1001-israeli-pop-dataset <https://www.kaggle.com/datasets/adamyodfat/1001-israeli-pop-dataset>`_ {`CC BY-NC-ND 4.0 <https://creativecommons.org/licenses/by-nc-nd/4.0/>`_} - 1001 Israeli pop songs manual analyses 1967-2017.
+
+* `Old Newspapers <https://www.kaggle.com/datasets/alvations/old-newspapers?select=old-newspaper.tsv>`_ {`CC0: Public Domain <https://creativecommons.org/publicdomain/zero/1.0/>`_} - The HC Corpora was a great resource that contains natural language text from various newspapers, social media posts and blog pages in multiple languages. This is a cleaned version of the raw data from newspaper subset of the HC corpus.
 
 
 **1.1.2 Annotated Datasets**
@@ -124,6 +128,7 @@ Corpora Sources
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
+* `TED Talks Transcripts for NLP <https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset>`_ {`CC BY-NC 4.0`_} - Transcripts and more in 12 languages including Hebrew.
 
 
 Linguistic Resources
@@ -145,6 +150,8 @@ Lexicons
 
 * `Hebrew Psychological Lexicons <https://github.com/natalieShapira/HebrewPsychologicalLexicons?fbclid=IwAR20aH6v8MY9rZH9H03-DetxPYVEjispaH5n2Zrs-rSnjOFyv4zNiawlpIU>`_ {CC-BY-SA} - Natalie Shapira's large collection of Hebrew psychological lexicons and word lists. Useful for various psychology applications such as detecting emotional state, well being, relationship quality in conversation, identifying topics (e.g., family, work) and many more.
 
+* `Sentiment lexicon <https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages>`_ {`GNU GPL <https://www.gnu.org/licenses/gpl-3.0.html>`_} - Sentiment analysis, the task of automatically detecting whether a piece of text is positive or negative, generally relies on a hand-curated list of words with positive sentiment (good, great, awesome) and negative sentiment (bad, gross, awful). This dataset contains both positive and negative sentiment lexicons for 81 languages.
+
 
 Dictionaries & Word Lists
 -------------------------
@@ -152,6 +159,8 @@ Dictionaries & Word Lists
 * `MILA's Hebrew Stopwords List <http://www.mila.cs.technion.ac.il/resources_lexicons_stopwords.html>`_ - An Excel XLSX file containing 23,327 Hebrew tokens in descending order of frequency. `[NLPH backup] <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/MILA_stopwords>`_
 
 * `Tapuz Hebrew Stop Words <https://www.kaggle.com/datasets/danofer/hebrew-stop-words?fbclid=IwAR2DpSsgJuYyPdaJ9K2WUpZY324pjkXOAuWKv4sUhgkZVjY7n6ej6UK7pwQ>`_ - a list of the 500 most common words (stop words) computed from discussions from the Tapuz People website, on a variety of subjects.
+
+* `Stop words <https://www.kaggle.com/datasets/heeraldedhia/stop-words-in-28-languages?select=hebrew.txt>`_ {`GPL 2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html>`_} - Text-preprocessing for Natural Language Processing.
 
 * Uniform {?} - An inflection dictionary. Missing details: Creating organization? Is it released?
 
@@ -258,6 +267,7 @@ Morphological and Syntactic Analysis
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
+
 Diacritization / Nikkud / Vocalization
 --------------------------------------
 
@@ -266,6 +276,7 @@ Diacritization / Nikkud / Vocalization
 * `Nakdimon <https://www.nakdimon.org/>`_ (`Paper <https://arxiv.org/abs/2105.05209/>`_ , `code <https://github.com/elazarg/nakdimon/>`_ ,  `data <https://github.com/elazarg/hebrew-diacritize/>`_) - Hebrew diacritizer. Elazar Gershuni and Yuval Pinter: Restoring Hebrew Diacritics Without a Dictionary. `Demo in Replicate <https://replicate.com/elazarg/nakdimon/>`_.
 
 * `UNIKUD <https://dagshub.com/morrisalp/unikud>`_ {?} - Morris Alper's open-source tool for adding vowel signs (Nikud) to Hebrew text, uses no rule-based logic, built with a CANINE transformer network. An interactive demo is available at `Huggingface Spaces <https://huggingface.co/spaces/malper/unikud>`_. Blog post: `UNIKUD: Adding Vowels to Hebrew Text with Deep Learning <https://towardsdatascience.com/unikud-adding-vowels-to-hebrew-text-with-deep-learning-powered-by-dagshub-56d238e22d3f>`_.
+
 
 Models
 ------
@@ -334,6 +345,7 @@ Other
 
 * `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
 
+
 Commercial services
 -------------------
 
@@ -348,6 +360,14 @@ Commercial services
 * `Amnon The Transcriber <https://api.whatsapp.com/send/?phone=972523362105&text&type=phone_number&app_absent=0>`_ - a WhatsApp bot that receives a voice note and transcribe it to text.
 
 * `Callee <https://www.geektime.co.il/callee-whatsapp-bot/>`_ - a WhatsApp bot that receives a voice note, transcribe it to text also summarize it (as a text).
+
+* `Tasq.Ai <www.tasq.ai>`_ - labeling.
+
+* `verbit.ai <https://verbit.ai/>`_ - Transcription.
+
+* `Text Analytics for health containers <https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/text-analytics-for-health/how-to/use-containers?tabs=language>`_ 
+
+* `Hebrew-Nlp <http://hebrew-nlp.co.il/>`_
 
 
 Tagging Tools
