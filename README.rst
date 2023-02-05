@@ -345,6 +345,8 @@ Other
 
 * `SPMRL to UD <https://github.com/shovalsa/SPMRL-to-UD>`_ {`Apache License 2.0`_} - converts YAP's output from the SPMRL scheme to UD v2.
 
+* `HebSafeHarbor <https://github.com/8400TheHealthNetwork/HebSafeHarbor>`_ {`MIT license <https://github.com/8400TheHealthNetwork/HebSafeHarbor/blob/main/LICENSE>`_} - A de-identification toolkit for clinical text in Hebrew.
+
 
 Commercial services
 -------------------
