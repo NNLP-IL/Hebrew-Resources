@@ -86,7 +86,7 @@ Structured Corpora
 
 * `Emotion User Generated Content (UGC) <https://github.com/avichaychriqui/HeBERT?fbclid=IwAR0GVuSWEvYWimkV4Z22h6-GSEznY2G2eIRz7gDGcAcHT3hB4vgUkxkBCPg>`_ {MIT} - collected for HeBERT model and includes comments posted on news articles collected from 3 major Israeli news sites, between January 2020 to August 2020. The total size of the data is ~150 MB, including over 7 millions words and 350K sentences. ~2000 sentences were annotated by crowd members (3-10 annotators per sentence) **for overall sentiment (polarity)** and eight emotions.
 
-* `Sentiment HebrewDataset <https://github.com/shlomisumit/HebrewDatasets>`_ {`MIT license <https://github.com/shlomisumit/HebrewDatasets/blob/main/LICENSE.md>`_} - Created by SUMIT-AI company. The sentiment analysis dataset contains 75,152 tagged sentences from 3 categories: economy, news(mostly politics) and sport. All the sentences were annotated by crowd members (2-5 annotators) to sentiment: positive, negative or neutral. This dataset was created thanks to joint funding of the `NNLP-IL <https://nnlp-il.mafat.ai/>`_.
+* `Sentiment HebrewDataset <https://github.com/shlomisumit/HebrewDatasets>`_ {`MIT license <https://github.com/shlomisumit/HebrewDatasets/blob/main/LICENSE.md>`_} -  The sentiment analysis dataset contains 75,152 tagged sentences from 3 categories: economy, news(mostly politics) and sport. All the sentences were annotated by crowd members (2-5 annotators) to sentiment: positive, negative or neutral. This dataset was created by SUMIT-AI company, thanks to joint funding of the `NNLP-IL <https://nnlp-il.mafat.ai/>`_.
 
 
 1.1.2.5 Emotion
