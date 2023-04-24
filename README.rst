@@ -39,6 +39,8 @@ Specialized Corpora
 
 * `1001 Israeli Pop Songs Dataset <https://www.kaggle.com/datasets/adamyodfat/1001-israeli-pop-dataset>`_ {`CC BY-NC-ND 4.0`_} - 1001 Israeli pop songs manual analyses 1967-2017.
 
+* `Supreme Court of Israel <https://huggingface.co/datasets/LevMuchnik/SupremeCourtOfIsrael>`_ {OpenRAIL} - This dataset represents a 2022 snapshot of the Supreme Court of Israel public verdicts and decisions supported by rich metadata. The 5.31GB dataset represents 751,194 documents. Overall, the dataset contains 2.68 Gb of text.
+
 Crawls and Dumps
 ^^^^^^^^^^^^^^^^^
 
