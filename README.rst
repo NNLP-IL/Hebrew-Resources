@@ -272,7 +272,7 @@ Morphological Analysis
 
 * `BGU Tagger: Morphological Tagging of Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlp12/hebrew/TagHebrew.html>`_ [Java] {?} - Morphological Analysis, Disambiguation.
 
-* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT 
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation and Part of Speech Tagging. Github: https://github.com/OnlpLab/AlephBERT 
 
 * `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {`CC0 1.0`_} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting of approximately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
 
@@ -293,7 +293,7 @@ Morphological Analysis
 Part-of-speech (POS) Tagging
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation and Part of Speech Tagging. Github: https://github.com/OnlpLab/AlephBERT
 
 * `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {`CC0 1.0`_} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting od approximiately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
 
@@ -347,10 +347,14 @@ Text Analysis
 Question Answering (QA)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
+
 Sentiment Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
+* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
+
+* `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. Github: https://github.com/OnlpLab/AlephBERT
 
 * `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {`CC0 1.0`_} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting od approximiately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
 
@@ -370,6 +374,8 @@ Text Summarization
 
 Text Classification
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `LongHeRo <https://huggingface.co/HeNLP/LongHeRo>`_ {?} - State-of-the-art Longformer language model for Hebrew.
 
 * `Legal-HeBERT <https://github.com/avichaychriqui/Legal-HeBERT?fbclid=IwAR3sFizNJEfPIXm0Agg5HpELUm49v11kfksjes72-Q-9CxMwv8hdR8I5ahg>`_ {?} - a BERT model for Hebrew legal and legislative domains. It is intended to improve the legal NLP research and tools development in Hebrew. Avichay Chriqui, Dr. Inbal Yahav Shenberger and Dr. Ittai Bar-Siman-Tov release two versions of Legal-HeBERT: `The first version <https://huggingface.co/avichr/Legal-heBERT_ft?fbclid=IwAR3K16AoiBYtZlpf2C6TjSstOv7ZuaWLIwCOq93_fRV6bGA3ssDA8NfuHmY>`_ is a fine-tuned model of HeBERT applied on legal and legislative documents. `The second version <https://huggingface.co/avichr/Legal-heBERT?fbclid=IwAR3r-QUCMSdzCoAjomifrk2hCPX7kvGJk47raHHfqBI511QXXchaOkL8rFo>`_ uses HeBERT's architecture guidlines to train a BERT model from scratch.
 
@@ -399,6 +405,8 @@ Information Extraction
 
 Named Entity Recognition (NER)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
 
 * `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the-art results on the tasks of segmentation, Part of Speech Tagging, Named Entity Recognition, and Sentiment Analysis. Github: https://github.com/OnlpLab/AlephBERT
 
