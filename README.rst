@@ -24,6 +24,8 @@ Unannotated Corpora
 General Corpora
 ^^^^^^^^^^^^^^
 
+* `HeDC4 used for HeRo <https://huggingface.co/datasets/HeNLP/HeDC4>`_ {`Apache License 2.0`_} - A Hebrew Deduplicated and Cleaned Common Crawl Corpus. A thoroughly cleaned and approximately deduplicated dataset for unsupervised learning.
+
 * `Wikipedia Corpora used for AlephBERT <https://github.com/OnlpLab/AlephBERT/tree/main/data/wikipedia>`_ {`Apache License 2.0`_} - The texts in all of Hebrew Wikipedia was also extracted to pre-train OnlpLab's AlephBERT, using `Attardi's Wikiextractor <https://github.com/attardi/wikiextractor>`_.
 
 * `JPress <http://www.jpress.org.il>`_ {`Custom Terms of Use`_} - `The National Library <http://web.nli.org.il>`_ offers a collection of Jewish newspapers published in various countries, languages, and time periods, including digital versions and full-text search. The texts are published under a `Custom Terms of Use document <http://web.nli.org.il/sites/JPress/English/about/Pages/tems-of-use.aspx>`_ that prohibits commercial use, and additionally requires checking the copyright status and receiving permission from the copyright-holder of the work for any use requiring such permission according to the Copyright Law.
