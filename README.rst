@@ -75,6 +75,8 @@ Dependency Treebanks
 
 * `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
 
+* `IAHLT-HTB <https://github.com/IAHLT/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - IAHLT version of the UD Hebrew Treebank. This is a revised fork of the Universal Dependencies version of the Hebrew Treebank, with some important changes and a consistency overhaul involving substantial manual corrections. The dataset was prepared as part of the Hebrew & Arabic Corpus Linguistics Infrastructure project at the Israeli Association of Human Language Technologies (IAHLT). 
+
 * `Modern Hebrew Dependency Treebank V.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
 
 * `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`CC-BY-SA 4.0`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
