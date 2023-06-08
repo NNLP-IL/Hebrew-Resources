@@ -95,6 +95,8 @@ Named Entity Recognition (NER)
 Question Answering (QA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* `HeQ <https://github.com/NNLP-IL/Hebrew-Question-Answering-Dataset>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - a question answering dataset in Modern Hebrew, consisting of 30,147 questions. The dataset follows the format and crowdsourcing methodology of SQuAD (Stanford Question Answering Dataset) and the original ParaShoot. A team of crowdworkers formulated and answered reading comprehension questions based on random paragraphs in Hebrew. The answer to each question is a segment of text (span) included in the relevant paragraph. The paragraphs are sourced from two different platforms: (1) Hebrew Wikipedia, and (2) Geektime, an online Israeli news channel specializing in technology.
+
 * `ParaShoot <https://github.com/omrikeren/ParaShoot>`_ {?} - A Hebrew question and answering dataset in the style of `SQuAD <https://arxiv.org/abs/1606.05250>`_, created by Omri Keren and Omer Levy. ParaShoot is based on articles scraped from Wikipedia. The dataset contains 3K crowdsource-annotated pairs of questions and answers, in a setting suitable for few-shot learning.
 
 * `HebWiki QA <https://github.com/TechnionTDK/hebwiki-qa?fbclid=IwAR0Xbq-s1xu2gH8BS35zgFgNCeHIJ6wVZws4gqHCZ_VucbgiIngpHNTWApU>`_ {?} Translated (by google translation API) SQUAD dataset from English to Hebrew. The translation process included fixation and removal of bad translations.
