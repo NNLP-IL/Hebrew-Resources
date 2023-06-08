@@ -81,6 +81,8 @@ Dependency Treebanks
 
 * `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`CC-BY-SA 4.0`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
 
+* `UD Hebrew - IAHLTKnesset <https://github.com/IAHLT/UD_Hebrew-IAHLTKnesset>`_ {`CC BY 4.0`_} - A Universal Dependencies treebank with named entities for contemporary Hebrew covering Knesset protocols. 
+
 * `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`Open`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
 
 * `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too. (temporarily down)
@@ -93,6 +95,8 @@ Named Entity Recognition (NER)
 * `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {`MIT`_} - A dataset of posts from the www.camoni.co.il, tagged with medical entities from the UMLS, and a code that recognize medical entities in the Hebrew text.
 
 * `Ben-Mordecai and Elhadad's Corpus <https://www.cs.bgu.ac.il/~elhadad/nlpproj/naama/>`_ {?} - Newspaper articles in different fields: news, economy, fashion and gossip. The following entity types are tagged: entity names (person, location, organization), temporal expression (date, time) and number expression (percent, money). `Demo <https://www.cs.bgu.ac.il/~elhadad/nlpproj/naama/demo/demo.html>`_
+
+* `UD Hebrew - IAHLTKnesset <https://github.com/IAHLT/UD_Hebrew-IAHLTKnesset>`_ {`CC BY 4.0`_} - A Universal Dependencies treebank with named entities for contemporary Hebrew covering Knesset protocols.
 
 Question Answering (QA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
