@@ -131,6 +131,10 @@ Topic Classification
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Transliteration
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post<https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and for an interactive demo, see `https://huggingface.co/spaces/malper/taatiknet>`_
+
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -140,19 +144,7 @@ Coreference Resolution
 Relation Extraction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Temporal Information Extraction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Event Extraction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Text Classification
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Discourse Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Irony/Sarcasm Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dialogue Modeling
