@@ -144,19 +144,7 @@ Coreference Resolution
 Relation Extraction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Temporal Information Extraction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Event Extraction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Text Classification
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Discourse Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Irony/Sarcasm Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dialogue Modeling
