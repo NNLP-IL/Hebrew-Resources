@@ -151,10 +151,6 @@ Topic Classification
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Transliteration
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post<https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and for an interactive demo, see `https://huggingface.co/spaces/malper/taatiknet>`_
-
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -284,6 +280,12 @@ Tokenization
 * `Hebrew Tokenizer <https://github.com/eyaler/hebrew_tokenizer?fbclid=IwAR1vbBpU9SOzQ71ZaxAjyBwNVuyhuYs3dMQsAUlZXCINy4TSg2BVWvoBARc>`_ {?} - Eyal Gruss's Hebrew tokenizer. A field-tested Hebrew tokenizer for dirty texts (ben-yehuda project, bible, cc100, mc4, opensubs, oscar, twitter) focused on multi-word expression extraction. 
 
 * `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`_} - A highly accurate morphological segmenter to break up complex word forms
+
+Transliteration
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post <https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and an `interactive demo <https://huggingface.co/spaces/malper/taatiknet>`_.
+
 
 Morphological Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
