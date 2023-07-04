@@ -43,6 +43,9 @@ Specialized Corpora
 
 * `Supreme Court of Israel <https://huggingface.co/datasets/LevMuchnik/SupremeCourtOfIsrael>`_ {OpenRAIL} - This dataset represents a 2022 snapshot of the Supreme Court of Israel public verdicts and decisions supported by rich metadata. The 5.31GB dataset represents 751,194 documents. Overall, the dataset contains 2.68 Gb of text.
 
+* `Heb-Architecture-Corpus <https://github.com/bdar-lab/heb_architecture_corpus>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Hebrew textual corpus of construction, planning, and architecture. The corpus consists of Hebrew documents from a wide variety of contemporary and historical sources, including legislative decrees, regulatory guidelines, research reports, academic studies, and professional journals. In the development of the corpus, it has been used digitally born as well as scanned printed publications, which go through a process of optical character recognition (OCR), cleaning, and parsing. This work was supported by the Israel Innovation Authority.
+
+
 Crawls and Dumps
 ^^^^^^^^^^^^^^^^^
 
