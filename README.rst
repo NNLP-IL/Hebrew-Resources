@@ -148,7 +148,7 @@ Topic Classification
 
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
-Information Retrieval
+Geographic Information Retrieval
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `HeGeL <https://github.com/OnlpLab/HeGeL>`_ {?} - A novel dataset for Hebrew Geo-Location, the first ever Hebrew NLU benchmark involving both grounding and geospatial reasoning, created with crowdsourced 5,649 geospatially-oriented Hebrew place descriptions of various place types from three cities in Israel.
