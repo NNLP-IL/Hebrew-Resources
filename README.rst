@@ -489,8 +489,6 @@ Optical Character Recognition (OCR)
 Language Generation
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `Verb Inflector <https://github.com/NLPH/NLPH_Resources/tree/master/code/VerbInflector>`_ [Java] {`Apache License 2.0`_} - A generation mechanism, created as part of Eran Tomer's (erantom@gmail.com) Master thesis, which produces vocalized and morphologically tagged Hebrew verbs given a non-vocalized verb in base-form and an indication of which pattern the verb follows.
-
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene. 
 
 Machine Translation
