@@ -394,6 +394,9 @@ Emotion Detection
 Text Summarization
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+* `Summarization Experiments for Hebrew <https://medium.com/@imvladikon/sequence-to-sequence-learning-for-hebrew-abstractive-summarization-86e3d0d4e8a4>`_ {?} - sequence-to-sequence models (mT5 models) training for Hebrew summarization.
+
+
 Text Classification
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
