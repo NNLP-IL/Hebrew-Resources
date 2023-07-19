@@ -194,7 +194,7 @@ Recorded Speech and Audio Corpora
 
 * `Robo-Shaul (רובו-שאול) <https://story.kan.org.il/robo_shaul>`_ {?} - Transcribed audio recordings (30 hours) of an Israeli economics podcast (חיות כיס).
 
-* `ivrit.ai>`_ {`CC BY 4.0 <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>`_} - A comprehensive Hebrew speech dataset designed for AI research and development.  It contains approximately 3,300 hours of Hebrew speech, collected from a diverse range of online platforms including podcasts and other audio content.
+* `ivrit.ai <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>` {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A comprehensive Hebrew speech dataset designed for AI research and development.  It contains approximately 3,300 hours of Hebrew speech, collected from a diverse range of online platforms including podcasts and other audio content.
 
 
 **Lexical Resources**
