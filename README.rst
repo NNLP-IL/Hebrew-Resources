@@ -621,6 +621,12 @@ Causal Language Models (CLM)
 
 * `doccano <https://github.com/doccano/doccano>`_ {MIT} - an open source text annotation tool for humans. It provides annotation features for text classification, sequence labeling and sequence to sequence tasks. So, you can create labeled data for sentiment analysis, named entity recognition, text summarization and so on.
 
+**Collaborative Projects**
+========== 
+
+* `ivrit.ai Community-Driven Transcription Project <https://serve.ivrit.ai>`_ - This project harnesses the collaborative efforts of volunteers to transcribe audio recordings in Hebrew.
+
+
 **Evaluation**
 ============
 
