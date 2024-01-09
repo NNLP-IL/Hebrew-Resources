@@ -477,7 +477,11 @@ Named Entity Recognition (NER)
 
 * `HebSpacy <https://github.com/8400TheHealthNetwork/HebSpacy>`_ {`MIT`_} - A custom spaCy pipeline for Hebrew text including a transformer-based multitask NER model that recognizes 16 entity types in Hebrew, including GPE, PER, LOC and ORG.
 
-* `HebSafeHarbor <https://github.com/8400TheHealthNetwork/HebSafeHarbor>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. `Demo <https://hebsafeharbor-demo.azurewebsites.net/>`_ 
+* `HebSafeHarbor <https://github.com/8400TheHealthNetwork/HebSafeHarbor>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. `Demo <https://hebsafeharbor-demo.azurewebsites.net/>`_   
+
+* `HebSafeHarbor_Clalit_Validation_Improvment <https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. An improved version of Microsoft's HebSafeHarbor project.   
+
+
 
 Semantic Role Labeling (SRL)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
