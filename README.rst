@@ -299,6 +299,18 @@ Transliteration
 * `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post <https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and an `interactive demo <https://huggingface.co/spaces/malper/taatiknet>`_.
 
 
+Morphological Sementation
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`_} - A highly accurate morphological segmenter to break up complex word forms
+
+* `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`_} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more.
+
+* `YAP morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_] `Demo <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
+
+* `DictaBERT-seg <https://huggingface.co/dicta-il/dictabert-seg?fbclid=IwAR0wgvGU_nYgKbRNfyN59NUdtpzP1RtqfNPp-pPqKL6xWQIlonSz2apGtiw>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for prefix segmentation task.
+
+
 Morphological Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -326,6 +338,9 @@ Morphological Analysis
 
 * `Hspell <http://hspell.ivrix.org.il/>`_ [?] {`AGPL-3.0`_} - Free Hebrew linguistic project including spell checker and  morphological analyzer. `HspellPy <https://github.com/eranroz/HspellPy/>`_ [Python] {`AGPL-3.0`_} - Python wrapper for Hspell.
 
+* `DictaBERT-morph <https://huggingface.co/dicta-il/dictabert-morph?fbclid=IwAR1Z-SCa645l_Yw_JtTt9ksoHT8NgxTjoGMzVKT0OWcoU6j2n5ALLOL_-2w>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for mophological tagging task.
+
+
 Part-of-speech (POS) Tagging
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -340,6 +355,9 @@ Part-of-speech (POS) Tagging
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`_} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more
 
 * `YAP morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_] `Demo <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
+
+* `DictaBERT-morph <https://huggingface.co/dicta-il/dictabert-morph?fbclid=IwAR1Z-SCa645l_Yw_JtTt9ksoHT8NgxTjoGMzVKT0OWcoU6j2n5ALLOL_-2w>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for mophological tagging task.
+
 
 Stemming and Lemmatization
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -383,12 +401,12 @@ Text Analysis
 Question Answering (QA)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
+* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew; Fine-tuned for sentiment analysis, named entity recognition and question answering.
 
 Sentiment Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
+* `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew; Fine-tuned for sentiment analysis, named entity recognition and question answering.
 
 * `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. Github: https://github.com/OnlpLab/AlephBERT
 
@@ -530,6 +548,8 @@ Pre-Trained Language Models
 * `BEREL <https://www.dropbox.com/sh/us98wjb178itjk1/AACWu62ffHJ0zk19i77_rV06a?dl=0&fbclid=IwAR0GbzbyASH8bA_lCadXA-2l09oXtg_NNm4QTQ69WDfdtG77gWx9WufB_II>`_ {?} - BERT Embeddings for Rabbinic-Encoded Language - DICTA's pre-trained language model (PLM) for Rabbinic Hebrew.
 
 * `Legal-HeBERT <https://github.com/avichaychriqui/Legal-HeBERT?fbclid=IwAR3sFizNJEfPIXm0Agg5HpELUm49v11kfksjes72-Q-9CxMwv8hdR8I5ahg>`_ {?} - a BERT model for Hebrew legal and legislative domains. It is intended to improve the legal NLP research and tools development in Hebrew. Avichay Chriqui, Dr. Inbal Yahav Shenberger and Dr. Ittai Bar-Siman-Tov release two versions of Legal-HeBERT: `The first version <https://huggingface.co/avichr/Legal-heBERT_ft?fbclid=IwAR3K16AoiBYtZlpf2C6TjSstOv7ZuaWLIwCOq93_fRV6bGA3ssDA8NfuHmY>`_ is a fine-tuned model of HeBERT applied on legal and legislative documents. `The second version <https://huggingface.co/avichr/Legal-heBERT?fbclid=IwAR3r-QUCMSdzCoAjomifrk2hCPX7kvGJk47raHHfqBI511QXXchaOkL8rFo>`_ uses HeBERT's architecture guidlines to train a BERT model from scratch.
+
+* `DictaBERT <https://huggingface.co/dicta-il/dictabert?fbclid=IwAR3EeeOnqM3NoKw1vRwT1NT5unv1dDs9woby0NExeQnjyIpnstfNrM6w59A>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A  base model pretrained with the masked-language-modeling objective.
 
 Fine-Tuned Language Models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
