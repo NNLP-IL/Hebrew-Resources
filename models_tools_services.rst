@@ -347,3 +347,20 @@ Causal Language Models (CLM)
 * `Hebrew-Nlp <http://hebrew-nlp.co.il/>`_
 
 * `HebMorph <https://code972.com/hebmorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
+
+
+.. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
+.. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+.. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
+.. _GPLv3: http://www.gnu.org/copyleft/gpl.html
+.. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+.. _CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+.. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+.. _MIT: https://en.wikipedia.org/wiki/MIT_License
+.. _CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+.. _CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
+.. _CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+.. _Custom Terms of Use: http://web.nli.org.il/sites/JPress/English/about/Pages/tems-of-use.aspx
+.. _GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+.. _Open: https://opendefinition.org/od/2.1/en/
