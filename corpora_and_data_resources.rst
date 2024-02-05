@@ -262,6 +262,22 @@ Word Embeddings
 
 * `LASER Language-Agnostic SEntence Representations <https://github.com/facebookresearch/LASER>`_ {`CC BY-NC 4.0`_} - LASER is a library to calculate and use multilingual sentence embeddings.
 
+.. _Public Domain: https://en.wikipedia.org/wiki/Public_domain
+.. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+.. _AGPL-3.0: https://opensource.org/licenses/AGPL-3.0
+.. _GPLv3: http://www.gnu.org/copyleft/gpl.html
+.. _CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+.. _CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+.. _Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+.. _MIT: https://en.wikipedia.org/wiki/MIT_License
+.. _CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+.. _CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
+.. _CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+.. _Custom Terms of Use: http://web.nli.org.il/sites/JPress/English/about/Pages/tems-of-use.aspx
+.. _GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+.. _Open: https://opendefinition.org/od/2.1/en/
+
 * `hebrew-w2v <https://github.com/Iddoyadlin/hebrew-w2v?fbclid=IwAR3QIwzgcziyANpq8-YEPeO1eQzBboDCLeIiSPnenqrFEedCNCgB3QEo44o>`_ {`Apache License 2.0`_} - Iddo Yadlin and Itamar Shefi's word2vec model for Hebrew, trained on a corpus which is the Hebrew wikipedia dump only tokenized with hebpipe.
 
 * `BEREL <https://www.dropbox.com/sh/us98wjb178itjk1/AACWu62ffHJ0zk19i77_rV06a?dl=0&fbclid=IwAR0GbzbyASH8bA_lCadXA-2l09oXtg_NNm4QTQ69WDfdtG77gWx9WufB_II>`_ {?} - BERT Embeddings for Rabbinic-Encoded Language - DICTA's pre-trained language model (PLM) for Rabbinic Hebrew.
