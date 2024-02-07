@@ -211,7 +211,7 @@ Named Entity Recognition (NER)
 
 * `HebSafeHarbor <https://github.com/8400TheHealthNetwork/HebSafeHarbor>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. `Demo <https://hebsafeharbor-demo.azurewebsites.net/>`_   
 
-* `HebSafeHarbor_Clalit_Validation_Improvment <https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. An improved version of Microsoft's HebSafeHarbor project.   
+* `HebSafeHarbor_Clalit_Validation <https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. An improved version of Microsoft's HebSafeHarbor project.   
 
 
 
