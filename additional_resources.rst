@@ -1,12 +1,13 @@
 Hebrew NLP Additional Resources
-####################
+###############################
 
 .. contents::
 
 .. section-numbering::
 
-**Annotation Tools**
-=================
+Annotation Tools
+================
+
 
 * `LightTag <https://www.lighttag.io/>`_  - A tool for managing annotation projects. Handles right-to-left and part-of-word marking. Tutorial video: https://www.youtube.com/watch?v=eTlrTC_n_yg
 
@@ -34,14 +35,14 @@ Hebrew NLP Additional Resources
 
 * `doccano <https://github.com/doccano/doccano>`_ {MIT} - an open source text annotation tool for humans. It provides annotation features for text classification, sequence labeling and sequence to sequence tasks. So, you can create labeled data for sentiment analysis, named entity recognition, text summarization and so on.
 
-**Collaborative Projects**
-========== 
+Collaborative Projects
+======================
 
 * `ivrit.ai Community-Driven Transcription Project <https://serve.ivrit.ai>`_ - This project harnesses the collaborative efforts of volunteers to transcribe audio recordings in Hebrew.
 
 
-**Evaluation**
-============
+Evaluation
+==========
 
 Benchmark Datasets
 -----------------------------------
@@ -51,8 +52,8 @@ Benchmark Datasets
 Evaluation Metrics
 --------------------------------
 
-**Labs & Researchers**
-=====================
+Labs & Researchers
+==================
 
 Academia
 --------------------
@@ -145,8 +146,9 @@ Industry
 
 Researching natural language processing in the industry? Open a pull request and add yourself here now!
 
-**Courses, Presentations and Meetups**
+Courses, Presentations and Meetups
 ===================================
+
 
 Meetup & Discussion Groups
 ----------------------------------------
