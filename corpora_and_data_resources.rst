@@ -1,19 +1,18 @@
 Hebrew NLP Corpora and Data Resources
-####################
+#####################################
 
 .. contents::
 
 .. section-numbering::
 
-
-**Corpora**
-========== 
+Corpora
+=======
 
 Unannotated Corpora
-------------------------------
+-------------------
 
 General Corpora
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 * `HeDC4 used for HeRo <https://huggingface.co/datasets/HeNLP/HeDC4>`_ {`Apache License 2.0`_} - A Hebrew Deduplicated and Cleaned Common Crawl Corpus. A thoroughly cleaned and approximately deduplicated dataset for unsupervised learning.
 
@@ -24,7 +23,7 @@ General Corpora
 * `The SVLM Hebrew Wikipedia Corpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_ {`CC-BY-SA 3.0`_} - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
 
 Specialized Corpora
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 
 * `Sefaria <https://github.com/Sefaria/Sefaria-Export/>`_ {Each text is licensed separately} - Structured Jewish texts and metadata with free public licenses, exported from Sefaria's database. A Living Library of Jewish Texts. 3,000 years of Jewish texts in Hebrew and English translation.
 
@@ -91,7 +90,7 @@ Named Entity Recognition (NER)
 * `UD Hebrew - IAHLTKnesset <https://github.com/IAHLT/UD_Hebrew-IAHLTKnesset>`_ {`CC BY 4.0`_} - A Universal Dependencies treebank with named entities for contemporary Hebrew covering Knesset protocols.
 
 Part-of-speech (POS) tagging and Morphological Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
@@ -130,6 +129,8 @@ Sentiment Analysis
 
 * `Sentiment HebrewDataset <https://github.com/shlomisumit/HebrewDatasets>`_ {`MIT`_} -  The sentiment analysis dataset contains 75,152 tagged sentences from 3 categories: economy, news (mostly politics) and sport. All the sentences were annotated by crowd members (2-5 annotators) to sentiment: positive, negative or neutral. This dataset was created by SUMIT-AI company, thanks to joint funding of the `NNLP-IL <https://nnlp-il.mafat.ai/>`_.
 
+* `HebrewSentiment <https://github.com/NNLP-IL/HebrewSentiment>`_ {?}
+
 Emotion Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -147,6 +148,10 @@ Textual Geolocation Identification
 
 * `HeGeL <https://github.com/OnlpLab/HeGeL>`_ {?} - A novel dataset for Hebrew Geo-Location, the first ever Hebrew NLU benchmark involving both grounding and geospatial reasoning, created with crowdsourced 5,649 geospatially-oriented Hebrew place descriptions of various place types from three cities in Israel.
 
+Natural Language Inference
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `HebNLI <https://github.com/NNLP-IL/HebNLI>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Based on MultiNLI, a large crowd-sourced corpus of sentences from varied genres and writing styles in the English language. To adapt this resource for Hebrew, the corpus was translated from English using machine translation (Google Gemini). This dataset was created by Webiks for MAFAT, as part of the National Natural Language Processing Plan of Israel.
 
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
