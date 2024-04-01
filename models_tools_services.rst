@@ -1,20 +1,18 @@
 Hebrew NLP Models, Tools, Commercial and Online Services
-####################
-
+########################################################
 
 .. contents::
 
 .. section-numbering::
 
-
-**Models and Tools**
+Models and Tools
 ================
 
 Models and Tools by Task
-------------------------------------------
+------------------------
 
 Text Preprocessing and Morphological Analysis
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Tokenization
 ~~~~~~~~~~~~
@@ -31,8 +29,8 @@ Transliteration
 * `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post <https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and an `interactive demo <https://huggingface.co/spaces/malper/taatiknet>`_.
 
 
-Morphological Sementation
-~~~~~~~~~~~~~~~~~~~~~~~~
+Morphological Segmentation
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `RFTokenizer <https://github.com/amir-zeldes/RFTokenizer>`_ [Python] {`Apache License 2.0`_} - A highly accurate morphological segmenter to break up complex word forms
 
@@ -74,7 +72,7 @@ Morphological Analysis
 
 
 Part-of-speech (POS) Tagging
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. This model obtains state-of-the- art results on the tasks of segmentation and Part of Speech Tagging. Github: https://github.com/OnlpLab/AlephBERT
 
@@ -92,21 +90,21 @@ Part-of-speech (POS) Tagging
 
 
 Stemming and Lemmatization
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`_} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more.
 
 * `YAP morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_] `Demo <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
 
 Spell Checking and Correction
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `Shtey Shekel <https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%AA%D7%97%D7%96%D7%95%D7%A7%D7%94/%D7%A9%D7%AA%D7%99_%D7%A9%D7%A7%D7%9C>`_ {`MIT`_} - Wikiproject for correcting grammar mistakes. (Heuristic) positive annotions can be derived from  `query <https://quarry.wmflabs.org/query/21957>`_. 
 
 * `Hspell <http://hspell.ivrix.org.il/>`_ [?] {`AGPL-3.0`_} - Free Hebrew linguistic project including spell checker and  morphological analyzer. `HspellPy <https://github.com/eranroz/HspellPy/>`_ [Python] {`AGPL-3.0`_} - Python wrapper for Hspell.
 
-Diacritization\Vocalization
-~~~~~~~~~~~~~~~~~~~~~~~~
+Diacritization/Vocalization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `Nakdan <https://nakdan.dicta.org.il/>`_ (`Paper <https://aclanthology.org/2020.acl-demos.23.pdf>`_) - Tool for Automatic and semi-automatic Nikud for Hebrew texts. Avi Shmidman, Shaltiel Shmidman, Moshe Koppel, and Yoav Goldberg. 2020. Nakdan: Professional Hebrew diacritizer. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 197–203, Online. Association for Computational Linguistics.
 
@@ -181,7 +179,7 @@ Topic Modeling
 * `BGU NLP - LemLDA: an LDA Package for Hebrew <https://www.cs.bgu.ac.il/~elhadad/nlpproj/LDAforHebrew.html>`_ [?] {`GPLv3`_} - The package is based on Heinrich's java implementation of collapsed Gibbs sampling with an extra variable to model the generative nature of lemmas in Hebrew.
 
 Irony/Sarcasm Detection
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Discourse Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -193,7 +191,7 @@ Information Extraction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Named Entity Recognition (NER)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew, present state-of-the-art results on sentiment analysis, named entity recognition and question answering.
 
@@ -321,8 +319,8 @@ Causal Language Models (CLM)
 
 * `Hebrew GPT neo <https://github.com/Norod/hebrew-gpt_neo>`_ {`MIT`_} - Doron Adler's Hebrew text generation model based on EleutherAI's gpt-neo.
 
-**Commercial and Online Services**
-===========================
+Commercial and Online Services
+==============================
 
 * `DICTA <http://dicta.org.il/>`_ {`CC-BY-SA 4.0`_} - Analytical tools for Jewish texts. They also have a `GitHub organization <https://github.com/Dicta-Israel-Center-for-Text-Analysis>`_.
 
