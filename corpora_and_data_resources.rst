@@ -141,6 +141,9 @@ Topic Classification
 
 * `Knesset Topic Classification <https://github.com/NitzanBarzilay/KnessetTopicClassification/>`_ {?} - This data was collected as a part of Nitzan Barzilay's project and contains about 2,700 quotes from Knesset meetings, manually classified into eight topics: education, Covid-19, welfare, economic, women and LGBT, health, security, internal security.
 
+* `Criminal Sentence Classification <https://github.com/Maximbrg/legalAI>`_ {OpenRAIL} - This project classifies key aspects of criminal cases within the Israeli legal framework. The project leverages a few-shot learning approach for accurate sentence classification relevant to sentencing decisions.
+
+
 * `ThinkIL <http://thinkil.co.il/the-website/credits_and_sponsors/>`_ {`CC-BY-SA 3.0`_} - An archive of the writings of Zvi Yanai.
 
 Textual Geolocation Identification
