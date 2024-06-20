@@ -289,6 +289,8 @@ Pre-Trained Language Models
 
 * `DictaBERT <https://huggingface.co/dicta-il/dictabert?fbclid=IwAR3EeeOnqM3NoKw1vRwT1NT5unv1dDs9woby0NExeQnjyIpnstfNrM6w59A>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A  base model pretrained with the masked-language-modeling objective.
 
+* `Criminal Sentence Classification <https://github.com/Maximbrg/legalAI>`_ {OpenRAIL} - This project classifies key aspects of criminal cases within the Israeli legal framework. The project leverages a few-shot learning approach for accurate sentence classification relevant to sentencing decisions.
+
 Fine-Tuned Language Models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
