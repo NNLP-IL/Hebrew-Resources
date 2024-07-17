@@ -159,6 +159,9 @@ Natural Language Inference
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* `HeSum <https://github.com/OnlpLab/HeSum>`_ {?} - A novel benchmark specifically designed for abstractive text summarization in Modern Hebrew. HeSum consists of 10,000 articles paired with their corresponding summaries, all of which have been sourced from three different Hebrew news websites, all written by professional journalists.
+
+
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
