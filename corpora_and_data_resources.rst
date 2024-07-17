@@ -193,8 +193,11 @@ Recorded Speech and Audio Corpora
 
 * `Robo-Shaul (רובו-שאול) <https://story.kan.org.il/robo_shaul>`_ {?} - Transcribed audio recordings (30 hours) of an Israeli economics podcast (חיות כיס).
 
-* `ivrit.ai <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>` {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A comprehensive Hebrew speech dataset designed for AI research and development.  It contains approximately 3,300 hours of Hebrew speech, collected from a diverse range of online platforms including podcasts and other audio content.
+* `ivrit.ai <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A comprehensive Hebrew speech dataset designed for AI research and development.  It contains approximately 3,300 hours of Hebrew speech, collected from a diverse range of online platforms including podcasts and other audio content.
 
+* `Hebrew Medical Audio Dataset - Verbit <https://huggingface.co/datasets/verbit/hebrew_medical_audio>`_ {`CC BY-NC 4.0`_} - This dataset is published by Verbit.ai and contains over one thousand audio recordings of invented clinical summaries by 41 different speakers. Each recording is in Hebrew and represents a summary of a patient's visit, providing valuable insights into clinical interactions, diagnosis, treatment plans, and follow-up procedures. The recordings do not contain any personal or private information.
+
+* `HebDB <https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/>`_ {`CC BY 4.0`_} - Weakly supervised dataset for spoken language processing in the Hebrew language. HebDB offers roughly 2500 hours of natural and spontaneous speech recordings in the Hebrew language. Raw recordings are provided together with a pre-processed, weakly supervised, and filtered version.
 
 **Lexical Resources**
 ================
