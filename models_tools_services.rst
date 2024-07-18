@@ -262,7 +262,7 @@ Language Generation
 
 * `Hebrew-Mistral-7B-200K <https://huggingface.co/yam-peleg/Hebrew-Mistral-7B-200K?fbclid=IwZXh0bgNhZW0CMTAAAR0WLosQ-lH6djTjyJt8Dh_OM6UeGviNgRdOADqzNZrzpM4mct6LERVuwnI_aem_AbrocYENzx8vXw1tXH84aMSxE-r6pURLuwPXgxTdxLZMYfyK1uudydCSpa19_Z5uOEMn8mRtENFI-cof8LHHf3m8>`_ {`Apache License 2.0`_} - An open-source Large Language Model (LLM) pretrained in Hebrew and English and created by yam Peleg. It has been pretrained with 7B billion parameters and with 200K context length, based on Mistral-7B-v1.0 from Mistral. It has an extended hebrew tokenizer with 64,000 tokens and is continuesly pretrained from Mistral-7B on tokens in both English and Hebrew. The resulting model is a powerful general-purpose language model suitable for a wide range of natural language processing tasks, with a focus on Hebrew language understanding and generation.
 
-
+* `Dicta-LM 2.0 Collection <https://huggingface.co/collections/dicta-il/dicta-lm-20-collection-661bbda397df671e4a430c27>`_ {`Apache License 2.0`_} - Generative language models specifically optimized for Hebrew.
 
 Machine Translation
 ~~~~~~~~~~~~~~~~~~~~~~~~
