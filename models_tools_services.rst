@@ -114,6 +114,9 @@ Diacritization/Vocalization
 
 * `Hebrew OCR with Nikud <https://www.cs.bgu.ac.il/~elhadad/hocr/>`_ [Python] {?} - A program to convert Hebrew text files (without Nikud) to text files with the correct Nikud. Developed by Adi Oz and Vered Shani.
 
+* `Hebrew Punctuation Model <https://huggingface.co/verbit/hebrew_punctuation>`_ {`Apache License 2.0`_} - A fine-tuned version of AlephBERT, designed to restore punctuation in Hebrew spoken language transcripts. It is specifically trained as a post-processing step for Automatic Speech Recognition (ASR) outputs, where punctuation is often missing in raw transcriptions.
+
+
 Stopwords Removal
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -124,6 +127,9 @@ Language modeling
 
 Text Normalization
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `NeMo-text-processing <https://github.com/verbit-ai/NeMo-text-processing>`_ {`Apache License 2.0`_} - Verbit extended NeMo-text-processing python package with WFST-based Hebrew inverse text normalization (ITN). ITN is a part of Automatic Speech Recognition (ASR) post-processing pipeline and can be used to convert spoken to written form to improve text readability.
+
 
 Text Analysis
 ^^^^^^^^^^^^^^^
