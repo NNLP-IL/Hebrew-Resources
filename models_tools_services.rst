@@ -240,8 +240,13 @@ Speech Recognition
 Speech Synthesis
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+* `HebTTS <https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/>`_ [Python] {`Apache License 2.0`_} - A language modeling Diacritics (`Niqqud’) free Text-To-Speech (TTS) approach, for the task of Hebrew TTS. The model operates on discrete speech representations and is conditioned on a word-piece tokenizer.
+
 Text-to-Speech (TTS)
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `HebTTS <https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/>`_ [Python] {`Apache License 2.0`_} - A language modeling Diacritics (`Niqqud’) free Text-To-Speech (TTS) approach, for the task of Hebrew TTS. The model operates on discrete speech representations and is conditioned on a word-piece tokenizer.
+
 
 Speech-to-Text (STT)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
