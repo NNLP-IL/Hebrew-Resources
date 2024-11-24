@@ -40,6 +40,8 @@ Morphological Segmentation
 
 * `DictaBERT-seg <https://huggingface.co/dicta-il/dictabert-seg?fbclid=IwAR0wgvGU_nYgKbRNfyN59NUdtpzP1RtqfNPp-pPqKL6xWQIlonSz2apGtiw>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for prefix segmentation task.
 
+* `OtoBERT <https://huggingface.co/dicta-il/otobert>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Designed specifically for identifying suffixed verbal forms in Modern Hebrew.
+
 
 Morphological Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,6 +72,8 @@ Morphological Analysis
 
 * `DictaBERT-morph <https://huggingface.co/dicta-il/dictabert-morph?fbclid=IwAR1Z-SCa645l_Yw_JtTt9ksoHT8NgxTjoGMzVKT0OWcoU6j2n5ALLOL_-2w>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for mophological tagging task.
 
+* `OtoBERT <https://huggingface.co/dicta-il/otobert>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Designed specifically for identifying suffixed verbal forms in Modern Hebrew.
+
 
 Part-of-speech (POS) Tagging
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,6 +99,8 @@ Stemming and Lemmatization
 * `HebPipe <https://github.com/amir-zeldes/HebPipe>`_ [Python] {`Apache License 2.0`_} - End-to-end pipeline for Hebrew NLP using off the shelf tools, including morphological analysis, tagging, lemmatization, parsing and more.
 
 * `YAP morpho-syntactic parser <https://github.com/OnlpLab/yap>`_ [Go] {`Apache License 2.0`_} - Morphological Analysis, disambiguation and dependency Parser. Morphological Analyzer relies on the BGU Lexicon. [`original repository <http://github.com/habeanf/yap>`_] `Demo <https://nlp.biu.ac.il/~rtsarfaty/onlp/hebrew/>`_
+
+* `OtoBERT <https://huggingface.co/dicta-il/otobert>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Designed specifically for identifying suffixed verbal forms in Modern Hebrew.
 
 Spell Checking and Correction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
