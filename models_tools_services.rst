@@ -144,6 +144,8 @@ Sentiment Analysis
 
 * `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew; Fine-tuned for sentiment analysis, named entity recognition and question answering.
 
+* `DictaBERT Sentiment <https://huggingface.co/dicta-il/dictabert-sentiment>`_ {`CC-BY 4.0`_} - A fine-tuned BERT-base model for the sentiment analysis task on the `Hebrew Sentiment dataset <https://huggingface.co/datasets/HebArabNlpProject/HebrewSentiment>`_. 
+
 * `AlephBERT <https://huggingface.co/onlplab/alephbert-base?fbclid=IwAR3gP64XJEDvRcJ9UQm2DIttOnv7Y-6I5R-t7djj9TTTsXlcIA8qyx8PzSQ>`_ {`Apache License 2.0`_} - a large pre-trained language model for Modern Hebrew, publicly available, pre-training on Oscar, Texts of Hebrew tweets, all of Hebrew Wikipedia, published by the OnlpLab team. Github: https://github.com/OnlpLab/AlephBERT
 
 * `AlephBERTGimmel <https://arxiv.org/pdf/2211.15199.pdf>`_ {`CC0 1.0`_} - a new Hebrew pre-trained language model, trained on the same dataset as the previous SOTA Hebrew PLM AlephBERT, consisting od approximiately 2 billion words of text but with a substantially increased vocabulary of 128,000 word pieces. Published as a collaboration of the OnlpLab team and Dicta. Github: https://github.com/Dicta-Israel-Center-for-Text-Analysis/alephbertgimmel
