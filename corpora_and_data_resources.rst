@@ -161,6 +161,15 @@ Text Summarization
 
 * `HeSum <https://github.com/OnlpLab/HeSum>`_ {?} - A novel benchmark specifically designed for abstractive text summarization in Modern Hebrew. HeSum consists of 10,000 articles paired with their corresponding summaries, all of which have been sourced from three different Hebrew news websites, all written by professional journalists.
 
+* `MevakerSumm <https://huggingface.co/datasets/HeTree/MevakerSumm>`_ {`Apache License 2.0`_} - Abstractive summarization dataset for long documents.
+
+
+Conclusion Extraction
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `MevakerConc <https://huggingface.co/datasets/HeTree/MevakerConc>`_ {`Apache License 2.0`_} - Conclusion extraction dataset. Contains the context of the audit, the offsets of conclusions as marked by the auditors and the conclusions text contained within the offsets.
+
+
 
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
