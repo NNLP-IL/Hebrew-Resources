@@ -35,6 +35,8 @@ Specialized Corpora
 
 * `Heb-Architecture-Corpus <https://github.com/bdar-lab/heb_architecture_corpus>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Hebrew textual corpus of construction, planning, and architecture. The corpus consists of Hebrew documents from a wide variety of contemporary and historical sources, including legislative decrees, regulatory guidelines, research reports, academic studies, and professional journals. In the development of the corpus, it has been used digitally born as well as scanned printed publications, which go through a process of optical character recognition (OCR), cleaning, and parsing. This work was supported by the Israel Innovation Authority.
 
+* `IsraParlTweet <https://github.com/guymorlan/IsraParlTweet>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A linked corpus of Hebrew-language parliamentary discussions from the Knesset (Israeli Parliament) between the years 1992-2023 and Twitter posts made by Members of the Knesset between the years 2008-2023, containing a total of 294.5 million Hebrew tokens. In addition to raw text, the corpus contains comprehensive metadata on speakers and Knesset sessions as well as several linguistic annotations. As a result, IsraParlTweet can be used to conduct a wide variety of quantitative and qualitative analyses and provide valuable insights into political discourse in Israel.
+
 
 Crawls and Dumps
 ^^^^^^^^^^^^^^^^^
