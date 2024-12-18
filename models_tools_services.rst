@@ -280,6 +280,9 @@ Machine Translation
 
 * `word2word <https://github.com/Kyubyong/word2word>`_ {`Apache License 2.0`_} - Easy-to-use Python interface for accessing top-k word translations and for building a new bilingual lexicon from a custom parallel corpus. 
 
+* `HeArBERT <https://huggingface.co/aviadrom/HeArBERT>`_ {?} - A bilingual BERT for Arabic and Hebrew, pretrained on the respective parts of the OSCAR corpus.
+
+
 Models by Type
 ----------------------------
 
