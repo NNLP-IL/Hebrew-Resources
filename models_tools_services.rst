@@ -302,6 +302,9 @@ Pre-Trained Language Models
 
 * `Criminal Sentence Classification <https://github.com/Maximbrg/legalAI>`_ {OpenRAIL} - This project classifies key aspects of criminal cases within the Israeli legal framework. The project leverages a few-shot learning approach for accurate sentence classification relevant to sentencing decisions.
 
+* `MsBERT <https://huggingface.co/dicta-il/MsBERT>`_ {`CC BY 4.0`_} - A pretrained dedicated BERT model, dubbed MsBERT (short for: Manuscript BERT), designed from the ground up to handle Hebrew manuscript text. MsBERT substantially outperforms all existing Hebrew BERT models regarding the prediction of missing words in fragmentary Hebrew manuscript transcriptions in multiple genres, as well as regarding the task of differentiating between quoted passages and exegetical elaborations. We provide MsBERT for free download and unrestricted use, and we also provide an interactive and user-friendly website to allow manuscript scholars to leverage the power of MsBERT in their scholarly work of reconstructing fragmentary Hebrew manuscripts.
+
+
 Fine-Tuned Language Models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
