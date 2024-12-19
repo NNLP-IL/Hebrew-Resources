@@ -161,6 +161,11 @@ Text Summarization
 
 * `HeSum <https://github.com/OnlpLab/HeSum>`_ {?} - A novel benchmark specifically designed for abstractive text summarization in Modern Hebrew. HeSum consists of 10,000 articles paired with their corresponding summaries, all of which have been sourced from three different Hebrew news websites, all written by professional journalists.
 
+Language Modeling
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Help-Seeking-Corpus <https://github.com/BGU-AI-DataScience-Lab/Help-Seeking-Corpus>`_ {`Custom Terms of Use`_} - An anonymized snapshot of textual conversations between help-seekers and volunteers in a leading online support organization. Conversations are available in the Hebrew and Arabic languages.
+
 
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
