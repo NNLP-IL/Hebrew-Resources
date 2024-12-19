@@ -58,6 +58,9 @@ Multilingual Corpora
 
 * `TED Talks Transcripts for NLP <https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset>`_ {`CC BY-NC 4.0`_} - Transcripts and more in 12 languages including Hebrew.
 
+* `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
+
+
 Annotated Datasets by Task
 ----------------------------------------
 
@@ -93,6 +96,8 @@ Named Entity Recognition (NER)
 
 Part-of-speech (POS) tagging and Morphological Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
 
 * `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
 
