@@ -40,6 +40,7 @@ Collaborative Projects
 
 * `ivrit.ai Community-Driven Transcription Project <https://serve.ivrit.ai>`_ - This project harnesses the collaborative efforts of volunteers to transcribe audio recordings in Hebrew.
 
+* `Recital: ivrit.ai Community-Driven Recording Project <https://recital.ivrit.ai/>`_ - This project leverages the collaborative efforts of volunteers to record and contribute spoken of Hebrew texts, building an open and diverse speech corpus.
 
 Evaluation
 ==========
