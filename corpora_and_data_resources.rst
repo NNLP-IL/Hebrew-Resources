@@ -217,7 +217,7 @@ Recorded Speech and Audio Corpora
 
 * `Robo-Shaul (רובו-שאול) <https://story.kan.org.il/robo_shaul>`_ {?} - Transcribed audio recordings (30 hours) of an Israeli economics podcast (חיות כיס).
 
-* `ivrit.ai <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A comprehensive Hebrew speech dataset designed for AI research and development.  It contains approximately 3,300 hours of Hebrew speech, collected from a diverse range of online platforms including podcasts and other audio content.
+* `ivrit.ai Corpus <https://huggingface.co/ivrit-ai?fbclid=IwAR0zSlDARL6-pLyTInF8vQBxfQdFHU9WD7AwUjF0MMWSMGMjf8Q3Mo-NjWk>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A comprehensive Hebrew speech dataset designed for AI research and development. It includes approximately 15,000 hours of automatically transcribed Hebrew speech and over 300 hours of manually corrected recordings, collected from a diverse range of online platforms, including podcasts and other audio content.
 
 * `Hebrew Medical Audio Dataset - Verbit <https://huggingface.co/datasets/verbit/hebrew_medical_audio>`_ {`CC BY-NC 4.0`_} - This dataset is published by Verbit.ai and contains over one thousand audio recordings of invented clinical summaries by 41 different speakers. Each recording is in Hebrew and represents a summary of a patient's visit, providing valuable insights into clinical interactions, diagnosis, treatment plans, and follow-up procedures. The recordings do not contain any personal or private information.
 
