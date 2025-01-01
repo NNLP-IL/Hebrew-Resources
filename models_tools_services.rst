@@ -265,6 +265,10 @@ Speech-to-Text (STT)
 
 * `The Automatic Hebrew Transcriber <http://hebrew-transcriber.online/>`_ - Automatically transcribes text from Hebrew audio and video files. (down, link not found)
 
+* `ivrit.ai Free and Open Transcription Tool <https://transcribe.ivrit.ai/>`_ - This website enables users to transcribe easily Hebrew audio files for free using ivrit.ai models, fostering accessibility and innovation in language technology.
+
+
+
 Optical Character Recognition (OCR)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
