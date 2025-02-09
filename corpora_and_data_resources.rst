@@ -37,6 +37,9 @@ Specialized Corpora
 
 * `IsraParlTweet <https://github.com/guymorlan/IsraParlTweet>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A linked corpus of Hebrew-language parliamentary discussions from the Knesset (Israeli Parliament) between the years 1992-2023 and Twitter posts made by Members of the Knesset between the years 2008-2023, containing a total of 294.5 million Hebrew tokens. In addition to raw text, the corpus contains comprehensive metadata on speakers and Knesset sessions as well as several linguistic annotations. As a result, IsraParlTweet can be used to conduct a wide variety of quantitative and qualitative analyses and provide valuable insights into political discourse in Israel.
 
+* `Webiks Hebrew RAGbot KolZchut Document Corpus <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-KolZchut-Document-Corpus>`_ {`CC BY-NC-SA 2.5 <https://creativecommons.org/licenses/by-nc-sa/2.5/deed.en>`_} - A corpus of all documents from the Kol-Zchut website.
+
+* `Webiks Hebrew RAGbot KolZchut Paragraph Corpus <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-KolZchut-Paragraph-Corpus>`_ {`CC BY-NC-SA 2.5 <https://creativecommons.org/licenses/by-nc-sa/2.5/deed.en>`_} - A corpus of all paragraphs from the Kol-Zchut website.
 
 Crawls and Dumps
 ^^^^^^^^^^^^^^^^^
@@ -123,9 +126,17 @@ Question Answering (QA)
 
 * `HeQ <https://github.com/NNLP-IL/Hebrew-Question-Answering-Dataset>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - a question answering dataset in Modern Hebrew, consisting of 30,147 questions. The dataset follows the format and crowdsourcing methodology of SQuAD (Stanford Question Answering Dataset) and the original ParaShoot. A team of crowdworkers formulated and answered reading comprehension questions based on random paragraphs in Hebrew. The answer to each question is a segment of text (span) included in the relevant paragraph. The paragraphs are sourced from two different platforms: (1) Hebrew Wikipedia, and (2) Geektime, an online Israeli news channel specializing in technology.
 
+* `Webiks Hebrew RAGbot KolZchut QA Training DataSet <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-KolZchut-QA-Training-DataSet>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A training set of questions and corresponding answers. The answers consist of the page from the Kol-Zchut website website relevant to each question, as well as the specific paragraph from the paragraph corpus that pertains to each question.
+
 * `ParaShoot <https://github.com/omrikeren/ParaShoot>`_ {?} - A Hebrew question and answering dataset in the style of `SQuAD <https://arxiv.org/abs/1606.05250>`_, created by Omri Keren and Omer Levy. ParaShoot is based on articles scraped from Wikipedia. The dataset contains 3K crowdsource-annotated pairs of questions and answers, in a setting suitable for few-shot learning.
 
 * `HebWiki QA <https://github.com/TechnionTDK/hebwiki-qa?fbclid=IwAR0Xbq-s1xu2gH8BS35zgFgNCeHIJ6wVZws4gqHCZ_VucbgiIngpHNTWApU>`_ {?} Translated (by google translation API) SQUAD dataset from English to Hebrew. The translation process included fixation and removal of bad translations.
+
+
+Information Retrieval
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Webiks Hebrew RAGbot KolZchut QA Training DataSet <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-KolZchut-QA-Training-DataSet>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A training set of questions and corresponding answers. The answers consist of the page from the Kol-Zchut website website relevant to each question, as well as the specific paragraph from the paragraph corpus that pertains to each question.
+
 
 Sentiment Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
