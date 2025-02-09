@@ -145,6 +145,23 @@ Question Answering (QA)
 
 * `HeRo <https://huggingface.co/HeNLP/HeRo>`_ {?} - RoBERTa based language model for Hebrew; Fine-tuned for sentiment analysis, named entity recognition and question answering.
 
+* `Webiks Hebrew RAGbot KolZchut QA Embedder <https://drive.google.com/file/d/1eFAddJWBWDvoid-Gyn6ZT5jPwf-vNPI8/view>`_ {`MIT`_} - A fine-tuned embedding model for information retrieval in Hebrew compatible with the sentence-transformers library, specifically tailored for QA Retrieval on the Kol-Zchut (כל זכות) website. This is a fine-tuned model based on the me5-large model.
+
+* `Webiks Hebrew RAGbot Trainer <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-Trainer>`_ {`MIT`_} - The code for fine-tuning an me5-large model using the sentence-transformers library, specifically tailored for Q&A Retrieval on the Kol-Zchut (כל זכות) website pages. However, the code can be adapted for various datasets, or even different models within the sentence-transformers framework.
+
+* `Webiks-Hebrew-RAGbot <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot>`_ {`MIT`_} - This project is a search engine that uses machine learning models and Elasticsearch to provide advanced document retrieval.
+
+
+Information Rerieval
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `Webiks Hebrew RAGbot KolZchut QA Embedder <https://drive.google.com/file/d/1eFAddJWBWDvoid-Gyn6ZT5jPwf-vNPI8/view>`_ {`MIT`_} - A fine-tuned embedding model for information retrieval in Hebrew compatible with the sentence-transformers library, specifically tailored for QA Retrieval on the Kol-Zchut (כל זכות) website. This is a fine-tuned model based on the me5-large model.
+
+* `Webiks Hebrew RAGbot Trainer <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-Trainer>`_ {`MIT`_} - The code for fine-tuning an me5-large model using the sentence-transformers library, specifically tailored for Q&A Retrieval on the Kol-Zchut (כל זכות) website pages. However, the code can be adapted for various datasets, or even different models within the sentence-transformers framework.
+
+* `Webiks-Hebrew-RAGbot <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot>`_ {`MIT`_} - This project is a search engine that uses machine learning models and Elasticsearch to provide advanced document retrieval.
+
+
 Sentiment Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
