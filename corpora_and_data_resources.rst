@@ -169,10 +169,19 @@ Textual Geolocation Identification
 
 * `HeGeL <https://github.com/OnlpLab/HeGeL>`_ {?} - A novel dataset for Hebrew Geo-Location, the first ever Hebrew NLU benchmark involving both grounding and geospatial reasoning, created with crowdsourced 5,649 geospatially-oriented Hebrew place descriptions of various place types from three cities in Israel.
 
-Natural Language Inference
+Natural Language Inference (NLI)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `HebNLI <https://github.com/NNLP-IL/HebNLI>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Based on MultiNLI, a large crowd-sourced corpus of sentences from varied genres and writing styles in the English language. To adapt this resource for Hebrew, the corpus was translated from English using machine translation (Google Gemini). This dataset was created by Webiks for MAFAT, as part of the National Natural Language Processing Plan of Israel.
+
+* `Hebrew Paraphrase Dataset <https://github.com/NNLP-IL/Hebrew-Paraphrase-Dataset>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A high-quality paraphrase dataset in Hebrew, consisting of 9785 instances. The dataset includes both paragraph-level (75%) and sentence-level (25%) paraphrases generated with the help of a large language model. Among these, 300 instances have been manually validated as gold standard examples.
+
+
+Paraphrase Detection and Generation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Hebrew Paraphrase Dataset <https://github.com/NNLP-IL/Hebrew-Paraphrase-Dataset>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A high-quality paraphrase dataset in Hebrew, consisting of 9785 instances. The dataset includes both paragraph-level (75%) and sentence-level (25%) paraphrases generated with the help of a large language model. Among these, 300 instances have been manually validated as gold standard examples.
+
 
 Text Summarization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
