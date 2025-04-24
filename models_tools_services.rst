@@ -284,6 +284,8 @@ Speech-to-Text (STT)
 
 * `ivrit.ai Free and Open Transcription Tool <https://transcribe.ivrit.ai/>`_ - This website enables users to transcribe easily Hebrew audio files for free using ivrit.ai models, fostering accessibility and innovation in language technology.
 
+* `ivrit-ai-whisper-large-v3-turbo-ct2 <https://huggingface.co/ivrit-ai/whisper-large-v3-turbo-ct2?fbclid=IwY2xjawIansFleHRuA2FlbQIxMAABHTx1sne4jKPy02QVVrowEbKt_NJX7c8jjGu_Cr1WhF5QPXZSm8UxZOjoEw_aem_s8wvjt3ssCFBddtanYNjbQ>`_ {`Apache License 2.0`_} - This is ivrit.ai's faster-whisper model, based on the ivrit-ai/whisper-large-v3-turbo Whisper model. Training data includes 295 hours of volunteer-transcribed speech from the ivrit-ai/crowd-transcribe-v5 dataset, as well as 93 hours of professional transcribed speech from other sources.
+
 
 
 Optical Character Recognition (OCR)
