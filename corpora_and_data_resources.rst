@@ -203,6 +203,12 @@ Language Modeling
 * `Help-Seeking-Corpus <https://github.com/BGU-AI-DataScience-Lab/Help-Seeking-Corpus>`_ {`Custom Terms of Use`_} - An anonymized snapshot of textual conversations between help-seekers and volunteers in a leading online support organization. Conversations are available in the Hebrew and Arabic languages.
 
 
+Dependency Treebanks
+^^^^^^^^^^^^^^^^^
+
+* `IronySet <https://www.dropbox.com/scl/fo/3ssz89hlfqvhwjcfewnsy/ABb_z1GUjKYvVkeXp4ski1A?rlkey=a1gwwwbbw1ncgxzf57ndbefu3&e=1&st=4ve7im2t&dl=0>`_ {?} - A dataset consisting of over 4000 cases of words within quotation marks from Hebrew newspapers. The data was annotated by three pragmatics experts.
+
+
 Semantic Role Labeling (SRL)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
