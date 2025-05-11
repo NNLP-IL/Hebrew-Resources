@@ -247,6 +247,7 @@ Recorded Speech and Audio Corpora
 
 * `ivrit-ai - Audio-v2 <https://huggingface.co/datasets/ivrit-ai/audio-v2>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - This dataset contains >20k hours of Hebrew audio, all licensed under the ivrit.ai v1 license. It wa released on April 20th, 2025.
 
+* `ivrit-ai - knesset-plenums <https://huggingface.co/datasets/ivrit-ai/knesset-plenums>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - This dataset is derived from raw a/v recordings and human-generated protocols of the Knesset (the Israeli house of representatives) plenums as part of the ivrit.ai project..
 
 * `Hebrew Medical Audio Dataset - Verbit <https://huggingface.co/datasets/verbit/hebrew_medical_audio>`_ {`CC BY-NC 4.0`_} - This dataset is published by Verbit.ai and contains over one thousand audio recordings of invented clinical summaries by 41 different speakers. Each recording is in Hebrew and represents a summary of a patient's visit, providing valuable insights into clinical interactions, diagnosis, treatment plans, and follow-up procedures. The recordings do not contain any personal or private information.
 
