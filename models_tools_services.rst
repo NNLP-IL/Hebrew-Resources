@@ -68,6 +68,8 @@ Morphological Analysis
 
 * `HebMorph <https://github.com/synhershko/HebMorph>`_ [Lucene] {`AGPL-3.0`_} - An open-source effort to make Hebrew properly searchable by various IR software libraries. Includes Hebrew Analyzer for Lucene.
 
+* `HebMorph-Service <https://github.com/roman-sh/hebMorph-service>`_ [Java] {`AGPL-3.0`_} - A standalone, containerized REST API for high-performance Hebrew lemmatization, powered by a resurrected version of the HebMorph library.
+
 * `Hspell <http://hspell.ivrix.org.il/>`_ [?] {`AGPL-3.0`_} - Free Hebrew linguistic project including spell checker and  morphological analyzer. `HspellPy <https://github.com/eranroz/HspellPy/>`_ [Python] {`AGPL-3.0`_} - Python wrapper for Hspell.
 
 * `DictaBERT-morph <https://huggingface.co/dicta-il/dictabert-morph?fbclid=IwAR1Z-SCa645l_Yw_JtTt9ksoHT8NgxTjoGMzVKT0OWcoU6j2n5ALLOL_-2w>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tuned model for mophological tagging task.
