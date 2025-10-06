@@ -176,6 +176,7 @@ Natural Language Inference (NLI)
 
 * `Hebrew Paraphrase Dataset <https://github.com/NNLP-IL/Hebrew-Paraphrase-Dataset>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A high-quality paraphrase dataset in Hebrew, consisting of 9785 instances. The dataset includes both paragraph-level (75%) and sentence-level (25%) paraphrases generated with the help of a large language model. Among these, 300 instances have been manually validated as gold standard examples.
 
+* `LCHAIM Dataset <https://huggingface.co/datasets/HebArabNlpProject/LCHAIM>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A long context, multi-premise NLI dataset, translated and validated from CoNTRoL, consisting of 8,325 pairs in Hebrew. Published at ACL 2025
 
 Paraphrase Detection and Generation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
