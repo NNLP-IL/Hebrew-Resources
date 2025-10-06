@@ -348,6 +348,8 @@ Fine-Tuned Language Models
 
 * `Universal Language Model Fine-tuning for Text Classification (ULMFiT) in Hebrew <https://github.com/hanan9m/hebrew_ULMFiT?fbclid=IwAR0wJkoxmaCmhuZnSVOLBo1Mo362v6-66PmXutOr9FhhoItIHoqG_2MzV8E>`_ - The weights (e.g. a trained model) for a Hebrew version for Howard's and Ruder's ULMFiT model. Trained on the Hebrew Wikipedia corpus.
 
+* `LongHero-LCHAIM <https://huggingface.co/oriel9p/LongHero-FT-HebNLI-LCHAIM>`_ - a LongHero, fine tuned over HebNLI and then over the LCHAIM long context NLI dataset.
+
 Multilingual Models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
