@@ -22,6 +22,8 @@ General Corpora
 
 * `The SVLM Hebrew Wikipedia Corpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_ {`CC-BY-SA 3.0`_} - A corpus of 50K sentences from Hebrew Wikipedia chosen to ensure phoneme coverage for the purpose of a sentence recording project.
 
+* `Hebrew Wikipedia Sentences Corpus <https://huggingface.co/datasets/tomron87/hebrew-wikipedia-sentences-corpus>`_ {`CC-BY-SA 3.0`_} - A corpus of ~11M cleaned, deduplicated Hebrew sentences extracted from 366K Hebrew Wikipedia articles (crawled 2026-02). Each sentence includes metadata: article ID, title, categories, sentence position, word count, and Hebrew character ratio. Intended for language modeling, text classification, NER, sentence similarity, and embedding benchmarks.
+
 Specialized Corpora
 ^^^^^^^^^^^^^^^^^^^
 
