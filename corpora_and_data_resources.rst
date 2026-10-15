@@ -255,6 +255,8 @@ Recorded Speech and Audio Corpora
 
 * `HebDB <https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/>`_ {`CC BY 4.0`_} - Weakly supervised dataset for spoken language processing in the Hebrew language. HebDB offers roughly 2500 hours of natural and spontaneous speech recordings in the Hebrew language. Raw recordings are provided together with a pre-processed, weakly supervised, and filtered version.
 
+* `English-Hebrew Code-Switching Sentences <https://huggingface.co/datasets/danielrosehill/English-Hebrew-Codeswitching-Sentences>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Read speech: English sentences with everyday Hebrew words and Israeli names written in Latin letters ("I need to go to Bituach Leumi"), recorded on a phone by one English speaker living in Israel, with cased, punctuated transcripts. Term-disjoint train/test splits for evaluating speech recognition of code-switched English. Grows as new recordings are published.
+
 **Lexical Resources**
 ================
 

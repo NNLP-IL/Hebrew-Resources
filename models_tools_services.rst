@@ -288,6 +288,8 @@ Speech-to-Text (STT)
 
 * `ivrit-ai-whisper-large-v3-turbo-ct2 <https://huggingface.co/ivrit-ai/whisper-large-v3-turbo-ct2?fbclid=IwY2xjawIansFleHRuA2FlbQIxMAABHTx1sne4jKPy02QVVrowEbKt_NJX7c8jjGu_Cr1WhF5QPXZSm8UxZOjoEw_aem_s8wvjt3ssCFBddtanYNjbQ>`_ {`Apache License 2.0`_} - This is ivrit.ai's faster-whisper model, based on the ivrit-ai/whisper-large-v3-turbo Whisper model. Training data includes 295 hours of volunteer-transcribed speech from the ivrit-ai/crowd-transcribe-v5 dataset, as well as 93 hours of professional transcribed speech from other sources.
 
+* `Parakeet TDT 0.6B v2 English-Hebrew Code-Switching <https://huggingface.co/danielrosehill/Parakeet-TDT-0.6B-v2-English-Hebrew-Codeswitching>`_ [NeMo, GGUF] {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tune of NVIDIA's parakeet-tdt-0.6b-v2 for English speech with Hebrew words mixed in, writing the Hebrew words in Latin letters. Halves code-switching WER against the stock model (9.9% to 4.8%) on a term-disjoint test set while keeping English accuracy. GGUF files run on-device (Android, desktop). `Demo <https://huggingface.co/spaces/danielrosehill/English-Hebrew-Codeswitching-Parakeet-Demo>`_
+
 
 
 Optical Character Recognition (OCR)
