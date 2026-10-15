@@ -63,6 +63,8 @@ Multilingual Corpora
 
 * `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
 
+* `Hebrew-Latin Code-Switching <https://huggingface.co/datasets/danielrosehill/hebrew-latin-code-switching>`_ {`MIT`_} - 4,737 English sentences containing romanized Hebrew words, with span-level BIO annotation and hard negatives; 458 sentences are dictated. Term-disjoint train/validation/test splits.
+
 
 Annotated Datasets by Task
 ----------------------------------------
@@ -252,6 +254,8 @@ Recorded Speech and Audio Corpora
 * `Hebrew Medical Audio Dataset - Verbit <https://huggingface.co/datasets/verbit/hebrew_medical_audio>`_ {`CC BY-NC 4.0`_} - This dataset is published by Verbit.ai and contains over one thousand audio recordings of invented clinical summaries by 41 different speakers. Each recording is in Hebrew and represents a summary of a patient's visit, providing valuable insights into clinical interactions, diagnosis, treatment plans, and follow-up procedures. The recordings do not contain any personal or private information.
 
 * `HebDB <https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/>`_ {`CC BY 4.0`_} - Weakly supervised dataset for spoken language processing in the Hebrew language. HebDB offers roughly 2500 hours of natural and spontaneous speech recordings in the Hebrew language. Raw recordings are provided together with a pre-processed, weakly supervised, and filtered version.
+
+* `English-Hebrew Code-Switching Sentences <https://huggingface.co/datasets/danielrosehill/English-Hebrew-Codeswitching-Sentences>`_ {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - Read speech: English sentences with everyday Hebrew words and Israeli names written in Latin letters ("I need to go to Bituach Leumi"), recorded on a phone by one English speaker living in Israel, with cased, punctuated transcripts. Term-disjoint train/test splits for evaluating speech recognition of code-switched English. Grows as new recordings are published.
 
 **Lexical Resources**
 ================

@@ -28,6 +28,8 @@ Transliteration
 
 * `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post <https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and an `interactive demo <https://huggingface.co/spaces/malper/taatiknet>`_.
 
+* `Hebrew-Latin Token Classifier <https://huggingface.co/danielrosehill/hebrew-latin-token-classifier>`_ [Python] {`MIT`_} - Token classifier (xlm-roberta-base, BIO tags) that detects romanized Hebrew words inside English text, e.g. "pick up some bamba from the makolet". Intended for code-switched TTS, so detected spans can be voiced in Hebrew. Span F1 0.941 on a term-disjoint test set. `Code <https://github.com/danielrosehill/Hebrew-Latin-Token-Classifier>`_.
+
 
 Morphological Segmentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -285,6 +287,8 @@ Speech-to-Text (STT)
 * `ivrit.ai Free and Open Transcription Tool <https://transcribe.ivrit.ai/>`_ - This website enables users to transcribe easily Hebrew audio files for free using ivrit.ai models, fostering accessibility and innovation in language technology.
 
 * `ivrit-ai-whisper-large-v3-turbo-ct2 <https://huggingface.co/ivrit-ai/whisper-large-v3-turbo-ct2?fbclid=IwY2xjawIansFleHRuA2FlbQIxMAABHTx1sne4jKPy02QVVrowEbKt_NJX7c8jjGu_Cr1WhF5QPXZSm8UxZOjoEw_aem_s8wvjt3ssCFBddtanYNjbQ>`_ {`Apache License 2.0`_} - This is ivrit.ai's faster-whisper model, based on the ivrit-ai/whisper-large-v3-turbo Whisper model. Training data includes 295 hours of volunteer-transcribed speech from the ivrit-ai/crowd-transcribe-v5 dataset, as well as 93 hours of professional transcribed speech from other sources.
+
+* `Parakeet TDT 0.6B v2 English-Hebrew Code-Switching <https://huggingface.co/danielrosehill/Parakeet-TDT-0.6B-v2-English-Hebrew-Codeswitching>`_ [NeMo, GGUF] {`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_} - A fine-tune of NVIDIA's parakeet-tdt-0.6b-v2 for English speech with Hebrew words mixed in, writing the Hebrew words in Latin letters. Halves code-switching WER against the stock model (9.9% to 4.8%) on a term-disjoint test set while keeping English accuracy. GGUF files run on-device (Android, desktop). `Demo <https://huggingface.co/spaces/danielrosehill/English-Hebrew-Codeswitching-Parakeet-Demo>`_
 
 
 
