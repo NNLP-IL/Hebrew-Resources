@@ -28,6 +28,8 @@ Transliteration
 
 * `TaatikNet <https://github.com/morrisalp/taatiknet>`_ {`CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>`_} - Sequence-to-sequence learning for Hebrew transliteration (converting between Hebrew text and Latin transliteration). See also `post <https://towardsdatascience.com/taatiknet-sequence-to-sequence-learning-for-hebrew-transliteration-4c9175a90c23>`_ and an `interactive demo <https://huggingface.co/spaces/malper/taatiknet>`_.
 
+* `Hebrew-Latin Token Classifier <https://huggingface.co/danielrosehill/hebrew-latin-token-classifier>`_ [Python] {`MIT`_} - Token classifier (xlm-roberta-base, BIO tags) that detects romanized Hebrew words inside English text, e.g. "pick up some bamba from the makolet". Intended for code-switched TTS, so detected spans can be voiced in Hebrew. Span F1 0.941 on a term-disjoint test set. `Code <https://github.com/danielrosehill/Hebrew-Latin-Token-Classifier>`_.
+
 
 Morphological Segmentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -63,6 +63,8 @@ Multilingual Corpora
 
 * `ParaNames <https://github.com/bltlab/paranames>`_ {`MIT`_} - A massively multilingual dataset consisting of parallel names of over 16.8 million named entities in over 400 languages. This README contains links to corpus releases as well as code used in our canonical name translation and named entity recognition experiments.
 
+* `Hebrew-Latin Code-Switching <https://huggingface.co/datasets/danielrosehill/hebrew-latin-code-switching>`_ {`MIT`_} - 4,737 English sentences containing romanized Hebrew words, with span-level BIO annotation and hard negatives; 458 sentences are dictated. Term-disjoint train/validation/test splits.
+
 
 Annotated Datasets by Task
 ----------------------------------------
