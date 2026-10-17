@@ -306,6 +306,8 @@ Dictionaries & Word Lists
 
 * `Hebrew WordLists <https://github.com/eyaler/hebrew_wordlists?fbclid=IwAR3QlqD_MDPxhiK7IktW7Sp8fnlgANT3TCYX6R_Rg_gzK9t8vXAqDuAbP90>`_ {`AGPL-3.0`_} - Useful word lists extracted from Hspell 1.4 by Eyal Gruss.
 
+* `hebrew-words-db <https://github.com/roni5604/hebrew-words-db>`_ {`CC0 1.0`_} - A public-domain list of 67,000+ Modern Hebrew words, including noun plurals, verb conjugations across binyanim and tenses, adjective forms and everyday slang. Plain UTF-8 TXT/JSON/CSV, one word per line, without niqqud or definitions; not derived from Hspell, so it can be used in commercial and closed-source projects. Includes runnable examples (spellcheck, word games, wrong-keyboard-layout fixing) and an `online word checker <https://roni5604.github.io/hebrew-words-db/>`_. Maintained by Roni Michaeli.
+
 * `Hebrew stop word base on the UD <https://github.com/NNLP-IL/Stop-Words-Hebrew>`_ {`CC-BY-SA 4.0`_} - List of stop words in Hebrew produced by using Universal Dependencies of the The Israeli Association of Human Language Technologies (IAHLT).
 
 * `The Word-Frequency Database for Printed Hebrew <https://github.com/eranroz/BotMisparim>`_ - supplies the frequency of occurrence of any Hebrew letter cluster (mean occurrence per million). The corpus was assembled throughout the year 2001, and consists of text downloaded from 914 editions of the three major daily online Hebrew newspapers (Haaretz, Maariv, and Yediot Acharonot). After removing abbreviations, single characters, forms with counts that are less than 3 (mostly typos), and splitting hyphenated forms (vast majority were two words), the corpus totals 554,270 types and 619,835,788 tokens. (©The Hebrew University of Jerusalem)
