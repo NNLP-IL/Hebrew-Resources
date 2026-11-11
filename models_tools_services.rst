@@ -239,6 +239,8 @@ Named Entity Recognition (NER)
 * `HebSafeHarbor <https://github.com/8400TheHealthNetwork/HebSafeHarbor>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. `Demo <https://hebsafeharbor-demo.azurewebsites.net/>`_   
 
 * `HebSafeHarbor_Clalit_Validation <https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. An improved version of Microsoft's HebSafeHarbor project.   
+* `Seter <https://huggingface.co/shoresh-labs/seter-pii-he-ar>`_ {`MIT`_} - Open PII token-classification models for Hebrew, Arabic and English, including standalone first names. In-browser ONNX `demo <https://huggingface.co/spaces/yinonov/seter-demo>`_. Self-hosted LiteLLM guard: https://github.com/Shoresh-Labs/seter-guard
+
 
 
 
