@@ -271,10 +271,14 @@ Speech Synthesis
 
 * `HebTTS <https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/>`_ [Python] {`Apache License 2.0`_} - A language modeling Diacritics (`Niqqud’) free Text-To-Speech (TTS) approach, for the task of Hebrew TTS. The model operates on discrete speech representations and is conditioned on a word-piece tokenizer.
 
+* `BlueTTS <https://github.com/maxmelichov/BlueTTS>`_ [Python] {`MIT`_} - BlueV3, an open-source Hebrew-first text-to-speech model running on ONNX Runtime. It reads unvocalized Hebrew (RenikudPlus G2P, no niqqud needed), clones a voice from a 3-10 second clip, outputs 44.1 kHz audio and runs on CPU. Also supports English, German, Spanish, Italian, Russian and Yiddish. Weights: https://huggingface.co/notmax123/BlueV3-onnx
+
 Text-to-Speech (TTS)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `HebTTS <https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/>`_ [Python] {`Apache License 2.0`_} - A language modeling Diacritics (`Niqqud’) free Text-To-Speech (TTS) approach, for the task of Hebrew TTS. The model operates on discrete speech representations and is conditioned on a word-piece tokenizer.
+
+* `BlueTTS <https://github.com/maxmelichov/BlueTTS>`_ [Python] {`MIT`_} - BlueV3, an open-source Hebrew-first text-to-speech model running on ONNX Runtime. It reads unvocalized Hebrew (RenikudPlus G2P, no niqqud needed), clones a voice from a 3-10 second clip, outputs 44.1 kHz audio and runs on CPU. Also supports English, German, Spanish, Italian, Russian and Yiddish. Weights: https://huggingface.co/notmax123/BlueV3-onnx
 
 
 Speech-to-Text (STT)
