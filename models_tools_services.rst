@@ -240,6 +240,8 @@ Named Entity Recognition (NER)
 
 * `HebSafeHarbor_Clalit_Validation <https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment>`_ {`MIT`_} - A de-identification toolkit for clinical text in Hebrew. An improved version of Microsoft's HebSafeHarbor project.   
 
+* `GolemPII v2 <https://huggingface.co/CordwainerSmith/GolemPII-v2-base>`_ {`MIT`_, `CC-BY 4.0`_} - Hebrew PII detection models (token classification, 15 labels including names, Israeli ID numbers, phone numbers, emails, credit cards, bank accounts, IBAN, passports and addresses) for enterprise text that mixes Hebrew and English, such as emails, tickets, logs and JSON. Three sizes: `base <https://huggingface.co/CordwainerSmith/GolemPII-v2-base>`__ (xlm-roberta-base, MIT), `small <https://huggingface.co/CordwainerSmith/GolemPII-v2-small>`__ (HalleluBERT, MIT) and `tiny <https://huggingface.co/CordwainerSmith/GolemPII-v2-tiny>`__ (dictabert-tiny, CC-BY 4.0). `Demo <https://huggingface.co/spaces/CordwainerSmith/GolemPII-v2-demo>`__
+
 
 
 Semantic Role Labeling (SRL)
