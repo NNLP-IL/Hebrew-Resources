@@ -41,6 +41,8 @@ Specialized Corpora
 
 * `Webiks Hebrew RAGbot KolZchut Paragraph Corpus <https://github.com/NNLP-IL/Webiks-Hebrew-RAGbot-KolZchut-Paragraph-Corpus>`_ {`CC BY-NC-SA 2.5 <https://creativecommons.org/licenses/by-nc-sa/2.5/deed.en>`_} - A corpus of all paragraphs from the Kol-Zchut website.
 
+* `P-mod-open v0 <https://huggingface.co/datasets/HeOCR/p-mod-open-v0>`_ {`Mixed rights <https://huggingface.co/datasets/HeOCR/p-mod-open-v0#rights>`_} - Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. `<Zenodo mirror> <https://doi.org/10.5281/zenodo.24505278>`_, `leaderboard <https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard>`_ and `heocr-bench <https://github.com/HeOCR/heocr-bench>`_.
+
 Crawls and Dumps
 ^^^^^^^^^^^^^^^^^
 
